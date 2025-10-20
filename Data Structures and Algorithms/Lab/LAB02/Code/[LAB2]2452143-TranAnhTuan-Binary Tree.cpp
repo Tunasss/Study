@@ -28,9 +28,6 @@ ll rand(ll l, ll r) { return uniform_int_distribution<ll>(l, r)(rd); }
 
 //#define int long long
 
-
-//write me CreateNode function
-
 struct Node {
     int data;
     Node *left;
