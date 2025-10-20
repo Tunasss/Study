@@ -1,19 +1,3 @@
-/*
-Implement a dictionary program with two main functions: 1) Store words and their meanings
-using a Hash Table. 2) Search suggestions by prefix using a Trie.
-Input:
-insert hello xin_chao
-insert help giup_do
-insert hero anh_hung
-find hello
-find hi
-suggest he
-Output:
-hello -> xin_chao
-Not found
-Suggestions: help hero hello
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;

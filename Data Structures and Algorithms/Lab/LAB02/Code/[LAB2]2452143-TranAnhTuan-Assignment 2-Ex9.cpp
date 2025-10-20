@@ -1,12 +1,3 @@
-/*
-Implement a Binary Search Tree (BST) using pointers. Perform operations for Insertion,
-Search, and Traversal.
-Input: 5 3 7 2 4 6 8
-Output:
-Inorder (sorted): 2 3 4 5 6 7 8
-Enter value to search: 6
-Result: Found node 6 in the tree.
-*/
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
