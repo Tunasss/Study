@@ -41,6 +41,12 @@ struct BinaryTree
     Node *root;
     BinaryTree() : root(nullptr) {}
 
+    Node *DeleteNode(Node* val){
+        delete val;
+        DeleteTree(val->left);
+        DeleteTree(val->right);
+    }
+
     Node *CreateNode(int val)
     {
         Node *newNode = new Node(val);
