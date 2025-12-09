@@ -1,94 +1,52 @@
-
+#include <bits/stdc++.h>
 using namespace std;
+typedef long long ll;
+typedef unsigned long long ull;
+typedef string str;
+typedef pair <int, int> ii;
+#define file "TEST"
+#define st first
+#define nd second
+#define pb push_back
+#define lb lower_bound
+#define ub upper_bound
+#define vll vector<ll>
+#define vi vector<int>
+#define all(v) (v).begin(), (v).end()
+#define FOR(i,x,y) for(ll i = x; i <= y; ++i)
+#define FOS(i,x,y) for(ll i = x; i >= y; --i)
+#define EACH(i,x) for (auto &(i) : (x))
+#define el cout << '\n';
+const ll MOD = 1e9 + 7;
+#define dbg(...) cerr << "[" << #__VA_ARGS__ ": " << (__VA_ARGS__) << "]  "
+#define dbge(...) cerr << "[" << #__VA_ARGS__ ": " << (__VA_ARGS__) << "]" << endl;
 
-class IntStack
+/*
+mt19937_64 rd(chrono::steady_clock::now().time_since_epoch().count());
+ll rand(ll l, ll r) { return uniform_int_distribution<ll>(l, r)(rd); }
+*/
+
+//#define int long long
+const ll N = 2e5 + 5;
+
+void solve(){
+    int a = 1;
+    int &b = a;
+    int c = b + 1;
+    cout << c;
+
+}   
+
+signed main()
 {
-private:
-    int *stackArray;
-    int stackSize;
-    int top;
+    ios_base::sync_with_stdio(0); cin.tie(0);
+    //freopen(file".INP","r",stdin);
+    //freopen(file".OUT","w",stdout);
 
-public:
-    IntStack(int);
-    void push(int);
-    void pop(int &);
-    bool isFull(void);
-    bool isEmpty(void);
-};
-
-IntStack::IntStack(int size)
-{
-    stackArray = new int[size];
-    stackSize = size;
-    top = -1;
-}
-
-void IntStack::push(int num)
-{
-    if (isFull())
-    {
-        cout << "The stack is full.\n";
+    ll t = 1;
+    while (t--) {
+        solve();
     }
-    else
-    {
-        top++;
-        stackArray[top] = num;
-    }
-}
 
-void IntStack::pop(int &num)
-{
-    if (isEmpty())
-    {
-        cout << "The stack is empty.\n";
-    }
-    else
-    {
-        num = stackArray[top];
-        top--;
-    }
-}
-
-bool IntStack::isFull(void)
-{
-    bool status;
-    if (top == stackSize - 1)
-        status = true;
-    else
-        status = false;
-    return status;
-}
-
-bool IntStack::isEmpty(void)
-{
-    bool status;
-    if (top == -1)
-        status = true;
-    else
-        status = false;
-    return status;
-}
-
-int main()
-{
-    IntStack stack(5);
-    int num;
-    cout << "Created an empty stack with capacity 5, trying to pop. \n";
-    stack.pop(num);
-    int values[] = {2, 7, 10, 5, 3, 8, 11};
-    cout << "\nPushing...\n";
-    for (int k = 0; k < 7; k++)
-    {
-        cout << values[k] << " ";
-        stack.push(values[k]);
-        cout << endl;
-    }
-    cout << "\nPopping...\n";
-    while (!stack.isEmpty())
-    {
-        stack.pop(num);
-        cout << num << endl;
-    }
-    cout << endl;
     return 0;
 }
