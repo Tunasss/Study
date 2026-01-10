@@ -29,13 +29,6 @@ ll rand(ll l, ll r) { return uniform_int_distribution<ll>(l, r)(rd); }
 //#define int long long
 const ll N = 2e5 + 5;
 
-void solve(){
-    int a = 1;
-    int &b = a;
-    int c = b + 1;
-    cout << c;
-
-}   
 
 signed main()
 {

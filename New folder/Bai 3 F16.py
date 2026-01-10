@@ -1,0 +1,5 @@
+a = int(input("Nhap a = "))
+b = int(input("Nhap b = "))
+c = int(input("Nhap c = "))
+t = 1 / (1 / a + 1 / b + 1 / c)
+print(t)
