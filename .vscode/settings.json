@@ -91,5 +91,9 @@
         "typeindex": "cpp",
         "typeinfo": "cpp",
         "variant": "cpp"
-    }
+    },
+    "liveServer.settings.port": 81,
+    "python.analysis.extraPaths": [
+        "./MSIS3033.Q21.CTTT/ai_module"
+    ]
 }
