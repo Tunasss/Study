@@ -17,5 +17,7 @@ public class Ex2 {
 
         System.out.print("The largest number: ");
         System.out.print(res);
+
+        myObj.close();
     }
 }

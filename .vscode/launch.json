@@ -1,6 +1,48 @@
 {
     "configurations": [
         {
+            "type": "java",
+            "name": "Ex1",
+            "request": "launch",
+            "mainClass": "Ex1",
+            "projectName": "Study_e8f53ad0"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Study_e8f53ad0"
+        },
+        {
+            "type": "java",
+            "name": "MonteCarlo",
+            "request": "launch",
+            "mainClass": "MonteCarlo",
+            "projectName": "Study_e8f53ad0"
+        },
+        {
+            "type": "java",
+            "name": "Dec2Hex",
+            "request": "launch",
+            "mainClass": "Dec2Hex",
+            "projectName": "Study_e8f53ad0"
+        },
+        {
+            "type": "java",
+            "name": "FutureTution",
+            "request": "launch",
+            "mainClass": "FutureTution",
+            "projectName": "Study_e8f53ad0"
+        },
+        {
+            "type": "java",
+            "name": "tution",
+            "request": "launch",
+            "mainClass": "tution",
+            "projectName": "Study_e8f53ad0"
+        },
+        {
             "name": "C/C++: gcc.exe build and debug active file",
             "type": "cppdbg",
             "request": "launch",

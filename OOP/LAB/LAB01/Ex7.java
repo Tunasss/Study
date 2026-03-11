@@ -29,5 +29,7 @@ public class Ex7 {
         for (int num : merged) {
             System.out.print(num + " ");
         }
+
+        myObj.close();
     }
 }
