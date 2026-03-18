@@ -1,0 +1,501 @@
+product_id,product_name,category,category_id,cost,sale_price,supplier,supplier_id,warehouse,images_url
+PID_0001,iPhone 15 Pro,Smartphones,CID_01,700,999,Apple Inc.,SID_0054,WH-MAIN,https://m.media-amazon.com/images/I/61+K3MDUXkL._AC_SL1500_.jpg
+PID_0002,Galaxy S24 Ultra,Smartphones,CID_01,900,1299,Samsung Electronics,SID_0763,WH-MAIN,https://m.media-amazon.com/images/I/71qeTVe5d1L._AC_SL1500_.jpg
+PID_0003,WH-1000XM5 Headphones,Headphones,CID_05,280,398,Sony Corporation,SID_0815,WH-MAIN,https://m.media-amazon.com/images/I/71-z351XFQL._AC_SL1500_.jpg
+PID_0004,XPS 15 Laptop,Laptops,CID_02,1400,1899,Dell Technologies,SID_0244,WH-MAIN,https://m.media-amazon.com/images/I/71nX6B1VJFL._AC_SL1500_.jpg
+PID_0005,Spectre x360 2-in-1,Laptops,CID_02,1000,1399,HP Inc.,SID_0420,WH-MAIN,https://m.media-amazon.com/images/I/71mDeE1SU+L._AC_SL1500_.jpg
+PID_0006,ThinkPad X1 Carbon Gen 11,Laptops,CID_02,1100,1499,Lenovo Group,SID_0509,WH-MAIN,https://m.media-amazon.com/images/I/71ueV-FRJQL._AC_SL1500_.jpg
+PID_0007,ROG Zephyrus G14,Gaming laptops,CID_08,1200,1599,ASUS (ASUSTeK),SID_0072,WH-MAIN,https://m.media-amazon.com/images/I/71F3KzBjN2L._AC_SL1500_.jpg
+PID_0008,Swift Go 14 OLED,Computer accessories,CID_10,650,899,Acer Inc.,SID_0009,WH-MAIN,https://m.media-amazon.com/images/I/71w6hsL0NHL._AC_SL1500_.jpg
+PID_0009,Stealth 16 Studio,Gaming laptops,CID_08,1500,1999,MSI (Micro-Star),SID_0600,WH-MAIN,https://m.media-amazon.com/images/I/71cWXOi88TL._AC_SL1500_.jpg
+PID_0010,C3 65-Inch OLED TV,Monitors,CID_11,1200,1599,LG Electronics,SID_0516,WH-MAIN,https://m.media-amazon.com/images/I/81t0lKKhujL._AC_SL1500_.jpg
+PID_0011,MX Master 3S Mouse,Mice,CID_13,70,99,Logitech International,SID_0530,WH-MAIN,https://m.media-amazon.com/images/I/61v1eEAWXYL._AC_SL1500_.jpg
+PID_0012,DeathAdder V3 Pro,Mice,CID_13,100,149,Razer Inc.,SID_0728,WH-MAIN,https://m.media-amazon.com/images/I/61LI6E0sJwL._AC_SL1500_.jpg
+PID_0013,QuietComfort Ultra,Headphones,CID_05,300,429,Bose Corporation,SID_0134,WH-MAIN,https://m.media-amazon.com/images/I/51RE0DBn5VL._AC_SL1500_.jpg
+PID_0014,Surface Laptop 5,Laptops,CID_02,800,1099,Microsoft Corporation,SID_0573,WH-MAIN,https://m.media-amazon.com/images/I/61WGCddTI3L._AC_SL1500_.jpg
+PID_0015,Pixel 8 Pro,Smartphones,CID_01,700,999,Google LLC,SID_0382,WH-MAIN,https://m.media-amazon.com/images/I/71h9zq4viSL._AC_SL1500_.jpg
+PID_0016,MateBook X Pro,Laptops,CID_02,1100,1499,Huawei Technologies,SID_0423,WH-MAIN,https://m.media-amazon.com/images/I/51BAsa97YCS._AC_SL1500_.jpg
+PID_0017,Xiaomi 14 Ultra,Smartphones,CID_01,950,1399,Xiaomi Corporation,SID_0979,WH-MAIN,https://m.media-amazon.com/images/I/41TiYAs9UjL._AC_SL1500_.jpg
+PID_0018,Find N3 Flip,Smartphones,CID_01,800,1099,OPPO Electronics,SID_0658,WH-MAIN,https://m.media-amazon.com/images/I/61DNkL41QkL._AC_SL1500_._AC_SL1500_.jpg
+PID_0019,OnePlus 12,Smartphones,CID_01,600,799,OnePlus Technology,SID_0654,WH-MAIN,https://m.media-amazon.com/images/I/71LU67YFerL._AC_SL1500_.jpg
+PID_0020,Mini 4 Pro Drone,Drones,CID_21,700,959,DJI,SID_0255,WH-MAIN,https://m.media-amazon.com/images/I/71SliUZqBfL._AC_SL1500_.jpg
+PID_0021,737 Power Bank,Power banks,CID_15,100,149,Anker Innovations,SID_0044,WH-MAIN,https://m.media-amazon.com/images/I/51NyluaOSPL._AC_SL1500_.jpg
+PID_0022,K70 RGB PRO Keyboard,Keyboards,CID_12,120,159,Corsair Gaming Inc.,SID_0209,WH-MAIN,https://m.media-amazon.com/images/I/71Cy-uweiJL._AC_SL1500_.jpg
+PID_0023,FURY Renegade DDR5,Computer accessories,CID_10,150,200,Kingston Technology,SID_0489,WH-MAIN,https://m.media-amazon.com/images/I/719Mf8BDuDL._AC_SL1500_.jpg
+PID_0024,WD Black SN850X 2TB,Storage devices,CID_14,120,159,Western Digital Corp.,SID_0960,WH-MAIN,https://m.media-amazon.com/images/I/61ZtVwUbNLL._AC_SL1500_.jpg
+PID_0025,FireCuda 530 2TB,Storage devices,CID_14,130,179,Seagate Technology,SID_0779,WH-MAIN,https://m.media-amazon.com/images/I/71yESJMxS0S._AC_SL1500_.jpg
+PID_0026,Core i9-14900K,Computer accessories,CID_10,450,589,Intel Corporation,SID_0452,WH-MAIN,https://m.media-amazon.com/images/I/61My4F2-XUL._AC_SL1500_.jpg
+PID_0027,GeForce RTX 4090,Computer accessories,CID_10,1200,1599,NVIDIA Corporation,SID_0644,WH-MAIN,https://m.media-amazon.com/images/I/81KR0fO8WgL._AC_SL1500_.jpg
+PID_0028,Ryzen 9 7950X3D,Computer accessories,CID_10,500,699,AMD,SID_0030,WH-MAIN,https://m.media-amazon.com/images/I/51jNS8epPeL._AC_SL1500_.jpg
+PID_0029,Snapdragon 8 Gen 3 Dev Kit,Computer accessories,CID_10,800,1000,Qualcomm Incorporated,SID_0722,WH-MAIN,https://m.media-amazon.com/images/I/717Qo4MH97L.jpg
+PID_0030,Crucial T705 2TB SSD,Storage devices,CID_14,200,299,Micron Technology,SID_0570,WH-MAIN,https://m.media-amazon.com/images/I/61kpTnvVd-L._AC_SL1500_.jpg
+PID_0031,Lumix S5 II Camera,Computer accessories,CID_10,1500,1999,Panasonic Holdings,SID_0672,WH-MAIN,https://m.media-amazon.com/images/I/71nUFp0+RyL._AC_SL1500_.jpg
+PID_0032,MG Series 18TB HDD,Storage devices,CID_14,300,399,Toshiba Corporation,SID_0887,WH-MAIN,https://m.media-amazon.com/images/I/71HJREdoGXL._AC_SL1500_.jpg
+PID_0033,Aquos 4K Smart TV,Monitors,CID_11,500,699,Sharp Corporation,SID_0790,WH-MAIN,https://m.media-amazon.com/images/I/71-NEac04XL._AC_SL1500_.jpg
+PID_0034,EOS R6 Mark II,Computer accessories,CID_10,1800,2499,Canon Inc.,SID_0158,WH-MAIN,https://m.media-amazon.com/images/I/610oseltSPL._AC_SL1500_.jpg
+PID_0035,ScanSnap iX1600,Computer accessories,CID_10,400,549,Fujitsu Limited,SID_0356,WH-MAIN,https://m.media-amazon.com/images/I/71+3UiAaAfL._AC_SL1500_.jpg
+PID_0036,Platinum P41 2TB SSD,Storage devices,CID_14,120,169,SK Hynix,SID_0802,WH-MAIN,https://m.media-amazon.com/images/I/71RGTZJJuqL._AC_SL1500_.jpg
+PID_0037,Industrial Server Chassis,Computer accessories,CID_10,300,500,Foxconn,SID_0349,WH-MAIN,https://m.media-amazon.com/images/I/71mz1S+8Y0L._AC_SL1500_.jpg
+PID_0038,Dimensity 9300 Reference Pad,Tablets,CID_03,500,700,MediaTek Inc.,SID_0557,WH-MAIN,https://m.media-amazon.com/images/I/51QfHwVEoYL._AC_SL1500_.jpg
+PID_0039,XPG Lancer RGB DDR5,Computer accessories,CID_10,140,189,ADATA Technology,SID_0010,WH-MAIN,https://m.media-amazon.com/images/I/71qYFyLPy-L._AC_SL1500_.jpg
+PID_0040,StoreJet 25M3 HDD,Storage devices,CID_14,60,89,Transcend Information,SID_0895,WH-MAIN,https://m.media-amazon.com/images/I/71+ccCw9bmL._AC_SL1500_.jpg
+PID_0041,AX5400 Mesh Router,Routers,CID_19,150,199,D-Link Corporation,SID_0227,WH-MAIN,https://m.media-amazon.com/images/I/3126pcn0PVL._AC_SL1500_.jpg
+PID_0042,DiskStation DS923+,Storage devices,CID_14,450,599,Synology Inc.,SID_0849,WH-MAIN,https://m.media-amazon.com/images/I/71I8Cfq5CyL._AC_SL1500_.jpg
+PID_0043,AORUS Master RTX 4080,Computer accessories,CID_10,1000,1299,Gigabyte Technology,SID_0372,WH-MAIN,https://m.media-amazon.com/images/I/719b8mXbv3L._AC_SL1500_.jpg
+PID_0044,MasterBox TD500 Mesh,Computer accessories,CID_10,80,119,Cooler Master,SID_0202,WH-MAIN,https://m.media-amazon.com/images/I/81PSVjYuWNL._AC_SL1500_.jpg
+PID_0045,Momentum 4 Wireless,Headphones,CID_05,250,349,Sennheiser,SID_0785,WH-MAIN,https://m.media-amazon.com/images/I/51+olzGKl4L._AC_SL1500_.jpg
+PID_0046,Beoplay H95,Headphones,CID_05,600,899,Bang & Olufsen,SID_0099,WH-MAIN,https://m.media-amazon.com/images/I/51UT9f62+HS._AC_SL1500_.jpg
+PID_0047,Elite 10 Earbuds,Earbuds,CID_06,180,249,Jabra,SID_0464,WH-MAIN,https://m.media-amazon.com/images/I/51Bf7WZTidL._AC_SL1500_.jpg
+PID_0048,Hue Smart Bulb Kit,Smart home devices,CID_18,100,139,Philips,SID_0687,WH-MAIN,https://m.media-amazon.com/images/I/71gvGSCfIGL._AC_SL1500_.jpg
+PID_0049,Nokia XR21 Pro,Smartphones,CID_01,400,599,Nokia,SID_0627,WH-MAIN,https://m.media-amazon.com/images/I/61qZGKAQauL._AC_SL1500_.jpg
+PID_0050,5G Base Station Kit,Computer accessories,CID_10,3000,4500,Ericsson AB,SID_0302,WH-MAIN,https://m.media-amazon.com/images/I/61JGKhqxHxL.jpg
+PID_0051,M3085-V Dome Camera,Security cameras,CID_20,250,349,Axis Communications,SID_0090,WH-MAIN,https://m.media-amazon.com/images/I/51RbVkc7w4L._AC_SL1500_.jpg
+PID_0052,Smart Home Controller II,Smart home devices,CID_18,80,119,Bosch,SID_0133,WH-MAIN,https://m.media-amazon.com/images/I/41LXbXCdtuL._AC_SL1500_.jpg
+PID_0053,Fenix 7 Pro Sapphire,Smartwatches,CID_04,600,799,Garmin Ltd.,SID_0364,WH-MAIN,https://m.media-amazon.com/images/I/71hkemCxOLL._AC_SL1500_.jpg
+PID_0054,HERO12 Black,Computer accessories,CID_10,300,399,GoPro Inc.,SID_0383,WH-MAIN,https://m.media-amazon.com/images/I/71xvL9XGwYL._AC_SL1500_.jpg
+PID_0055,Charge 6 Tracker,Computer accessories,CID_10,110,159,Fitbit (Google),SID_0335,WH-MAIN,https://m.media-amazon.com/images/I/61ZtqtvoD2L._AC_SL1500_.jpg
+PID_0056,Orbi WiFi 6E Mesh,Routers,CID_19,400,549,Netgear Inc.,SID_0614,WH-MAIN,https://m.media-amazon.com/images/I/51kKltvDD2L._AC_SL1500_.jpg
+PID_0057,Deco XE75 Mesh,Routers,CID_19,200,299,TP-Link,SID_0892,WH-MAIN,https://m.media-amazon.com/images/I/41TDB-mSQYL._AC_SL1500_.jpg
+PID_0058,UniFi Dream Machine Pro,Routers,CID_19,300,379,Ubiquiti Inc.,SID_0911,WH-MAIN,https://m.media-amazon.com/images/I/411wmehQLCL._AC_SL1500_.jpg
+PID_0059,Cisco Catalyst 1000,Routers,CID_19,400,599,Cisco Systems,SID_0183,WH-MAIN,https://m.media-amazon.com/images/I/71PLH9nhL9S._AC_SL1500_.jpg
+PID_0060,MagSafe 3-in-1 Charger,Chargers,CID_16,100,149,Belkin,SID_0109,WH-MAIN,https://m.media-amazon.com/images/I/61Ea59AQWtL._AC_SL1500_.jpg
+PID_0061,Starfield II IEMs,Earbuds,CID_06,80,109,Moondrop Technology,SID_0590,WH-MAIN,https://m.media-amazon.com/images/I/61B3aYP8VlL._AC_SL1500_.jpg
+PID_0062,M15S Music Player,Computer accessories,CID_10,700,999,FiiO,SID_0329,WH-MAIN,https://m.media-amazon.com/images/I/61IRe8tbNAL._AC_SL1500_.jpg
+PID_0063,Onyx Studio 8,Speakers,CID_07,150,249,Harman International,SID_0397,WH-MAIN,https://m.media-amazon.com/images/I/71RJ+a-sN2L._AC_SL1500_.jpg
+PID_0064,Flip 6 Waterproof Speaker,Speakers,CID_07,90,129,JBL,SID_0466,WH-MAIN,https://m.media-amazon.com/images/I/614f5R8ReXL._AC_SL1500_.jpg
+PID_0065,ATH-M50xBT2,Headphones,CID_05,140,199,Audio-Technica,SID_0079,WH-MAIN,https://m.media-amazon.com/images/I/71r+8LBiCQL._AC_SL1500_.jpg
+PID_0066,SM7B Vocal Mic,Computer accessories,CID_10,300,399,Shure Incorporated,SID_0795,WH-MAIN,https://m.media-amazon.com/images/I/71LYHO3+wnL._AC_SL1500_.jpg
+PID_0067,DT 900 Pro X,Headphones,CID_05,200,299,Beyerdynamic,SID_0114,WH-MAIN,https://m.media-amazon.com/images/I/71S3QyZZLsL._AC_SL1500_.jpg
+PID_0068,Stealth 700 Gen 2 MAX,Headphones,CID_05,140,199,Turtle Beach,SID_0906,WH-MAIN,https://m.media-amazon.com/images/I/71BnjAO-2FL._AC_SL1500_.jpg
+PID_0069,Arctis Nova Pro Wireless,Headphones,CID_05,250,349,SteelSeries,SID_0832,WH-MAIN,https://m.media-amazon.com/images/I/71fz1tjzJUL._AC_SL1500_.jpg
+PID_0070,Cloud Alpha Wireless,Headphones,CID_05,140,199,HyperX,SID_0430,WH-MAIN,https://m.media-amazon.com/images/I/71pFeJFdJQL._AC_SL1500_.jpg
+PID_0071,Stream Deck MK.2,Computer accessories,CID_10,110,149,Elgato,SID_0286,WH-MAIN,https://m.media-amazon.com/images/I/71AsjjEAwqL._AC_SL1500_.jpg
+PID_0072,H7 Flow Case,Computer accessories,CID_10,90,129,NZXT,SID_0646,WH-MAIN,https://m.media-amazon.com/images/I/51hN4NaXj2L._AC_SL1500_.jpg
+PID_0073,DS-2CD2087G2-L Camera,Security cameras,CID_20,120,169,Hikvision,SID_0405,WH-MAIN,https://m.media-amazon.com/images/I/51N4fS-DVqL._AC_SL1500_.jpg
+PID_0074,TiOC 2.0 PTZ Camera,Security cameras,CID_20,150,229,Dahua Technology,SID_0229,WH-MAIN,https://m.media-amazon.com/images/I/41rkvUZQTOL._AC_SL1500_.jpg
+PID_0075,Argus 3 Pro + Solar,Computer accessories,CID_10,100,139,Reolink Digital,SID_0738,WH-MAIN,https://m.media-amazon.com/images/I/61xtAd1snkL._AC_SL1500_.jpg
+PID_0076,Pro 5 Spotlight Camera,Security cameras,CID_20,160,229,Arlo Technologies,SID_0065,WH-MAIN,https://m.media-amazon.com/images/I/61gVDFMROXL._AC_SL1500_.jpg
+PID_0077,Video Doorbell Pro 2,Security cameras,CID_20,180,249,Ring (Amazon),SID_0743,WH-MAIN,https://m.media-amazon.com/images/I/617iyWwUFyL._AC_SL1500_.jpg
+PID_0078,Wyze Cam v3 Pro,Security cameras,CID_20,40,59,Wyze Labs,SID_0973,WH-MAIN,https://m.media-amazon.com/images/I/61eXvBIOTSL._AC_SL1500_.jpg
+PID_0079,EVO Nano+ Drone,Drones,CID_21,600,799,Autel Robotics,SID_0084,WH-MAIN,https://m.media-amazon.com/images/I/71vRuffQ2IL._AC_SL1500_.jpg
+PID_0080,Crusher ANC 2,Headphones,CID_05,150,229,Skullcandy Inc.,SID_0804,WH-MAIN,https://m.media-amazon.com/images/I/71w68INyh8L._AC_SL1500_.jpg
+PID_0081,SonoFlow Headphones,Headphones,CID_05,70,99,1MORE Technology,SID_0001,WH-MAIN,https://m.media-amazon.com/images/I/61WFXmV40hL._AC_SL1500_.jpg
+PID_0082,X3 360 Camera,Security cameras,CID_20,320,449,Insta360,SID_0449,WH-MAIN,https://m.media-amazon.com/images/I/71+kyDLtNaL._AC_SL1500_.jpg
+PID_0083,GaN5 Pro 100W Charger,Chargers,CID_16,40,59,Baseus Technology,SID_0105,WH-MAIN,https://m.media-amazon.com/images/I/617QpTOtqRL._AC_SL1500_.jpg
+PID_0084,Nexode 140W Charger,Chargers,CID_16,70,99,Ugreen Group,SID_0913,WH-MAIN,https://m.media-amazon.com/images/I/616iJx6Dl6L._AC_SL1500_.jpg
+PID_0085,SuperTank Pro Power Bank,Power banks,CID_15,180,249,Zendure,SID_0990,WH-MAIN,https://m.media-amazon.com/images/I/61NlzfQn4vL._AC_SL1500_.jpg
+PID_0086,Honor Magic6 Pro,Smartphones,CID_01,900,1199,HONOR Device Co.,SID_0416,WH-MAIN,https://m.media-amazon.com/images/I/71So+bbhRQL._AC_SL1500_.jpg
+PID_0087,Realme GT 5 Pro,Smartphones,CID_01,600,799,Realme,SID_0729,WH-MAIN,https://m.media-amazon.com/images/I/41anBMMZLHL._AC_SL1500_.jpg
+PID_0088,TCL 50 XL 5G,Computer accessories,CID_10,200,299,TCL Technology,SID_0863,WH-MAIN,https://m.media-amazon.com/images/I/71SfaBSkQjL._AC_SL1500_.jpg
+PID_0089,U8K Mini-LED TV,Monitors,CID_11,900,1299,Hisense,SID_0407,WH-MAIN,https://m.media-amazon.com/images/I/714LAhAd8RL._AC_SL1500_.jpg
+PID_0090,Razr+ (2023),Smartphones,CID_01,700,999,Motorola Mobility,SID_0593,WH-MAIN,https://m.media-amazon.com/images/I/617H3tlrrQL._AC_SL1500_.jpg
+PID_0091,Nokia G42 5G,Smartphones,CID_01,200,279,HMD Global,SID_0411,WH-MAIN,https://m.media-amazon.com/images/I/71oIjjNm+nL._AC_SL1500_.jpg
+PID_0092,ScanWatch 2,Smartwatches,CID_04,250,349,Withings SA,SID_0967,WH-MAIN,https://m.media-amazon.com/images/I/61VTAB+WX7L._AC_SL1500_.jpg
+PID_0093,K2 Pro Keyboard,Keyboards,CID_12,80,109,Keychron,SID_0482,WH-MAIN,https://m.media-amazon.com/images/I/61fotBXkinL._AC_SL1500_.jpg
+PID_0094,One 3 TKL Keyboard,Keyboards,CID_12,100,139,Ducky Channel,SID_0264,WH-MAIN,https://m.media-amazon.com/images/I/61YtyFCvHKL._AC_SL1500_.jpg
+PID_0095,Model S Professional,Computer accessories,CID_10,120,169,Das Keyboard,SID_0233,WH-MAIN,https://m.media-amazon.com/images/I/61LYKmb68cL._AC_SL1500_.jpg
+PID_0096,Switch OLED Model,Gaming consoles,CID_09,280,349,Nintendo,SID_0623,WH-MAIN,https://m.media-amazon.com/images/I/81v3XhLaFiL._AC_SL1500_.jpg
+PID_0097,Era 300 Speaker,Speakers,CID_07,350,449,Sonos Inc.,SID_0814,WH-MAIN,https://m.media-amazon.com/images/I/71Z9S5x0+WL._AC_SL1500_.jpg
+PID_0098,LSX II Wireless,Speakers,CID_07,1000,1399,KEF Audio,SID_0477,WH-MAIN,https://m.media-amazon.com/images/I/71hxKQzXa+L._AC_SL1500_.jpg
+PID_0099,Steam Deck OLED 512GB,Gaming consoles,CID_09,450,549,Valve Corporation,SID_0926,WH-MAIN,https://m.media-amazon.com/images/I/51Nw-kEg9zL._AC_SL1500_.jpg
+PID_0100,Product for Logitech G,Computer accessories,CID_10,100,150,Logitech G,SID_0529,WH-MAIN,https://m.media-amazon.com/images/I/71yqoFp54WS._AC_SL1500_.jpg
+PID_0101,Klipsch Reference R-50M,Computer accessories,CID_10,250,399,Klipsch,SID_0493,WH-MAIN,https://m.media-amazon.com/images/I/51uavOo38hL._AC_SL1500_.jpg
+PID_0102,Polk Audio Signa S4,Speakers,CID_07,300,399,Polk Audio,SID_0703,WH-MAIN,https://m.media-amazon.com/images/I/616BI7nIFIL._AC_SL1500_.jpg
+PID_0103,Bowers & Wilkins Px8,Headphones,CID_05,550,699,Bowers & Wilkins,SID_0136,WH-MAIN,https://m.media-amazon.com/images/I/51PpBEMvEaL._AC_SL1500_.jpg
+PID_0104,Denon AVR-X2800H,Computer accessories,CID_10,900,1199,Denon,SID_0247,WH-MAIN,https://m.media-amazon.com/images/I/61eVFGHhWlL._AC_SL1500_.jpg
+PID_0105,Marantz Cinema 50,Computer accessories,CID_10,2000,2500,Marantz,SID_0543,WH-MAIN,https://m.media-amazon.com/images/I/716DGgiBNdL._AC_SL1500_.jpg
+PID_0106,Yamaha HS8 Studio Monitor,Speakers,CID_07,300,399,Yamaha Corporation,SID_0983,WH-MAIN,https://m.media-amazon.com/images/I/81d94EqS5hL._AC_SL1500_.jpg
+PID_0107,Pioneer DJ DDJ-FLX4,Computer accessories,CID_10,250,299,Pioneer Corporation,SID_0692,WH-MAIN,https://m.media-amazon.com/images/I/91LTD7k0tZL._AC_SL1500_.jpg
+PID_0108,Onkyo TX-NR6100,Computer accessories,CID_10,600,799,Onkyo,SID_0655,WH-MAIN,https://m.media-amazon.com/images/I/51Nzd6al-IL._AC_SL1500_.jpg
+PID_0109,Epson EcoTank ET-4850,Computer accessories,CID_10,400,499,Epson,SID_0297,WH-MAIN,https://m.media-amazon.com/images/I/71kUHumYlNL._AC_SL1500_.jpg
+PID_0110,Brother HL-L2390DW,Computer accessories,CID_10,150,199,Brother Industries,SID_0144,WH-MAIN,https://m.media-amazon.com/images/I/612PdpuhqyL._AC_SL1500_.jpg
+PID_0111,Lexmark MC3326i,Computer accessories,CID_10,300,399,Lexmark,SID_0515,WH-MAIN,https://m.media-amazon.com/images/I/61C4y1tw7ZL._AC_SL1500_.jpg
+PID_0112,Xerox VersaLink C400,Computer accessories,CID_10,400,549,Xerox,SID_0976,WH-MAIN,https://m.media-amazon.com/images/I/81w0E-lup1L._AC_SL1500_.jpg
+PID_0113,Ricoh GR IIIx,Computer accessories,CID_10,900,1049,Ricoh,SID_0742,WH-MAIN,https://m.media-amazon.com/images/I/81sJc3nJtdL._AC_SL1500_.jpg
+PID_0114,Garmin D2 Mach 1,Computer accessories,CID_10,1000,1199,Garmin Aviation,SID_0363,WH-MAIN,https://m.media-amazon.com/images/I/71pIjzX4+zL._AC_SL1500_.jpg
+PID_0115,DJI Matrice 350 RTK,Drones,CID_21,10000,12000,DJI Enterprise,SID_0256,WH-MAIN,https://m.media-amazon.com/images/I/61TcjJ4qDZL._AC_SL1500_.jpg
+PID_0116,FLIR ONE Pro,Computer accessories,CID_10,350,429,Flir Systems,SID_0338,WH-MAIN,https://m.media-amazon.com/images/I/6176vtuY8pL._AC_SL1500_.jpg
+PID_0117,Teledyne Linea 8K,Computer accessories,CID_10,4000,5000,Teledyne DALSA,SID_0869,WH-MAIN,https://www.edge-ai-vision.com/wp-content/uploads/2022/04/linea-ml-8k-multispectral.jpg
+PID_0118,Keysight InfiniiVision 1000X,Computer accessories,CID_10,600,750,Keysight Technologies,SID_0483,WH-MAIN,https://m.media-amazon.com/images/I/51U0hqVRx+L._AC_SL1500_.jpg
+PID_0119,Tektronix TBS1000C,Computer accessories,CID_10,500,650,Tektronix,SID_0868,WH-MAIN,https://m.media-amazon.com/images/I/61-lQi1OP9L._AC_SL1500_.jpg
+PID_0120,NI myDAQ,Computer accessories,CID_10,200,250,National Instruments,SID_0606,WH-MAIN,https://m.media-amazon.com/images/I/510Pid6NHwL._AC_SL1500_.jpg
+PID_0121,TI-84 Plus CE,Computer accessories,CID_10,100,149,Texas Instruments,SID_0874,WH-MAIN,https://m.media-amazon.com/images/I/71Bbi4KovBL._AC_SL1500_.jpg
+PID_0122,ADALM-PLUTO SDR,Computer accessories,CID_10,150,200,Analog Devices,SID_0040,WH-MAIN,https://m.media-amazon.com/images/I/51oNT73jVWL._AC_SL1500_.jpg
+PID_0123,Broadcom BCM43684 WiFi 6,Computer accessories,CID_10,30,50,Broadcom,SID_0140,WH-MAIN,https://m.media-amazon.com/images/I/51UgYUQRbRL._AC_SL1500_.jpg
+PID_0124,Marvell Aquantia AQtion 10G,Computer accessories,CID_10,80,119,Marvell Technology,SID_0550,WH-MAIN,https://m.media-amazon.com/images/I/51FQ7tIzn7L._AC_SL1500_.jpg
+PID_0125,NXP i.MX 8M Plus,Computer accessories,CID_10,40,60,NXP Semiconductors,SID_0645,WH-MAIN,https://sg.element14.com/productimages/large/en_GB/3677381-40.jpg
+PID_0126,Infineon OPTIGA Trust M,Computer accessories,CID_10,10,25,Infineon Technologies,SID_0441,WH-MAIN,http://www.presseagentur.com/media/5337/OPTIGA-Trust-M-10.jpg
+PID_0127,STM32 Nucleo-64,Computer accessories,CID_10,15,25,STMicroelectronics,SID_0834,WH-MAIN,https://m.media-amazon.com/images/I/41CxgBL85WL._AC_SL1500_.jpg
+PID_0128,Renesas RA4M2 MCU,Computer accessories,CID_10,5,10,Renesas Electronics,SID_0737,WH-MAIN,https://m.media-amazon.com/images/I/71Q825JVfBL._AC_SL1500_.jpg
+PID_0129,Microchip PICkit 4,Computer accessories,CID_10,80,100,Microchip Technology,SID_0567,WH-MAIN,https://m.media-amazon.com/images/I/51CWkUgJqHL._AC_SL1500_.jpg
+PID_0130,Silicon Labs EFR32BG22,Computer accessories,CID_10,10,20,Silicon Labs,SID_0796,WH-MAIN,https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/thunderboard/thunderboard-bg22-sltb010a.jpg
+PID_0131,Lattice iCE40 UltraPlus,Computer accessories,CID_10,20,35,Lattice Semiconductor,SID_0507,WH-MAIN,https://m.media-amazon.com/images/I/41O2sRvaM8L._AC_SL1500_.jpg
+PID_0132,Xilinx Zynq-7000 SoC,Computer accessories,CID_10,150,200,Xilinx (AMD),SID_0980,WH-MAIN,https://m.media-amazon.com/images/I/71PxEew1WrS._AC_SL1500_.jpg
+PID_0133,Arm Cortex-M4 IP,Computer accessories,CID_10,10000,15000,Arm Ltd,SID_0067,WH-MAIN,https://m.media-amazon.com/images/I/61FdK6ZZ9tL._AC_SL1500_.jpg
+PID_0134,Synopsys Design Compiler,Computer accessories,CID_10,20000,25000,Synopsys,SID_0850,WH-MAIN,https://image.slidesharecdn.com/logicsynthesiswithsynopsysdesigncompiler-120619134032-phpapp02/75/Logic-synthesis-with-synopsys-design-compiler-7-2048.jpg
+PID_0135,Cadence Virtuoso,Computer accessories,CID_10,20000,25000,Cadence Design Systems,SID_0148,WH-MAIN,https://community.cadence.com/resized-image/__size/640x0/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-15/3731.Virtuoso_5F00_Platform.jpg
+PID_0136,ANSYS Fluent,Computer accessories,CID_10,15000,20000,Ansys,SID_0045,WH-MAIN,https://m.media-amazon.com/images/I/4194eGc9rSL._AC_SL1500_.jpg
+PID_0137,PTC Creo,Computer accessories,CID_10,3000,4000,PTC,SID_0714,WH-MAIN,https://m.media-amazon.com/images/I/61jU7lwVaGL._AC_SL1500_.jpg
+PID_0138,SolidWorks Premium,Computer accessories,CID_10,4000,5000,Dassault Systèmes,SID_0234,WH-MAIN,https://solidservicios.com/wp-content/uploads/solidworks-premium-475x300.png
+PID_0139,Autodesk AutoCAD 2025,Computer accessories,CID_10,1500,1865,Autodesk,SID_0085,WH-MAIN,https://m.media-amazon.com/images/I/41KGnhAxXBL._AC_SL1500_.jpg
+PID_0140,Adobe Creative Cloud All Apps,Computer accessories,CID_10,500,659,Adobe Systems,SID_0012,WH-MAIN,https://m.media-amazon.com/images/I/61FlCZlTBfL._AC_SL1500_.jpg
+PID_0141,Symantec Endpoint Security,Computer accessories,CID_10,40,60,Symantec (Broadcom),SID_0847,WH-MAIN,https://m.media-amazon.com/images/I/619CfHgx9ZL._AC_SL1500_.jpg
+PID_0142,McAfee Total Protection,Computer accessories,CID_10,30,45,McAfee,SID_0554,WH-MAIN,https://m.media-amazon.com/images/I/61mntBIsNSL._AC_SL1500_.jpg
+PID_0143,Trend Micro Maximum Security,Computer accessories,CID_10,35,50,Trend Micro,SID_0898,WH-MAIN,https://m.media-amazon.com/images/I/61wmFZqvDkL._AC_SL1500_.jpg
+PID_0144,Palo Alto PA-440,Computer accessories,CID_10,1200,1600,Palo Alto Networks,SID_0670,WH-MAIN,https://m.media-amazon.com/images/I/31AtzFPlXML._AC_SL1500_.jpg
+PID_0145,Fortinet FortiGate 60F,Computer accessories,CID_10,600,800,Fortinet,SID_0344,WH-MAIN,https://m.media-amazon.com/images/I/41jEHmqo0zL._AC_SL1500_.jpg
+PID_0146,Check Point Quantum 3600,Computer accessories,CID_10,1500,2000,Check Point,SID_0172,WH-MAIN,https://m.media-amazon.com/images/I/71b54k9l0ML._AC_SL1500_.jpg
+PID_0147,Trellix Endpoint Security,Computer accessories,CID_10,50,75,FireEye (Trellix),SID_0334,WH-MAIN,https://m.media-amazon.com/images/I/514ElOsdPqL._AC_SL1500_.jpg
+PID_0148,CrowdStrike Falcon Pro,Computer accessories,CID_10,60,90,CrowdStrike,SID_0218,WH-MAIN,https://m.media-amazon.com/images/I/71xcmw2uzDL._AC_SL1500_.jpg
+PID_0149,Okta Workforce Identity,Computer accessories,CID_10,100,150,Okta,SID_0649,WH-MAIN,https://www.somerfordassociates.com/wp-content/uploads/2023/09/Okta-Workforce-Identity-Management.png
+PID_0150,Splunk Enterprise,Computer accessories,CID_10,2000,2500,Splunk,SID_0824,WH-MAIN,https://www.splunk.com/content/dam/splunk2/images/features/SS-UI-Dark-Mode-frame.png
+PID_0151,Datadog APM,Computer accessories,CID_10,400,500,Datadog,SID_0237,WH-MAIN,https://m.media-amazon.com/images/I/81KS9AST+kL._AC_SL1500_.jpg
+PID_0152,New Relic One,Computer accessories,CID_10,350,450,New Relic,SID_0615,WH-MAIN,https://newrelic.com/sites/default/files/wp_blog_inline_files/lew_2.jpeg
+PID_0153,Dynatrace Software Intelligence,Computer accessories,CID_10,1000,1200,Dynatrace,SID_0267,WH-MAIN,https://dt-cdn.net/images/dynatrace-platform-2120-64e8577ef0.png
+PID_0154,Jira Software Premium,Computer accessories,CID_10,200,300,Atlassian,SID_0075,WH-MAIN,https://m.media-amazon.com/images/I/61JH-peCoPL._AC_SL1500_.jpg
+PID_0155,GitHub Copilot Business,Computer accessories,CID_10,200,228,GitHub,SID_0375,WH-MAIN,https://m.media-amazon.com/images/I/41ju+430bGL._AC_SL1500_.jpg
+PID_0156,GitLab Ultimate,Computer accessories,CID_10,1000,1188,GitLab,SID_0376,WH-MAIN,https://www.almtoolbox.com/fr/blog/wp-content/uploads/2024/02/gitlab-premium-ultimate.jpg
+PID_0157,Slack Enterprise Grid,Computer accessories,CID_10,150,200,Slack (Salesforce),SID_0807,WH-MAIN,https://www.uctoday.com/wp-content/uploads/2018/11/SlackEnterpriseGridFeatured-800x400.jpg
+PID_0158,Zoom Workplace Enterprise,Computer accessories,CID_10,200,250,Zoom,SID_0997,WH-MAIN,https://m.media-amazon.com/images/I/91iQUZ3v6uL._AC_SL1500_.jpg
+PID_0159,Twilio Segment,Computer accessories,CID_10,500,600,Twilio,SID_0909,WH-MAIN,https://segment.com/content/dam/segment/global/en/blog/legacy/2023/signal-2023-launch-blog/Twilio-Segment-Product-Predicitons-PR-1200x630_2x.png
+PID_0160,SendGrid Pro 100K,Computer accessories,CID_10,100,120,SendGrid (Twilio),SID_0783,WH-MAIN,https://appsumo2-cdn.appsumo.com/media/selfsubmissions/images/bd000fbb-262e-463f-b98f-038e883f277f.png
+PID_0161,Salesforce Sales Cloud,Computer accessories,CID_10,1800,2200,Salesforce,SID_0761,WH-MAIN,https://m.media-amazon.com/images/I/61iPQwwK+QL._AC_SL1500_.jpg
+PID_0162,HubSpot Marketing Hub,Computer accessories,CID_10,9600,10000,HubSpot,SID_0426,WH-MAIN,https://appsumo2-cdn.appsumo.com/media/selfsubmissions/images/a9f450a8-c8fb-4a2f-9aaa-9b8536a60daf.png
+PID_0163,SAP S/4HANA,Computer accessories,CID_10,50000,60000,SAP,SID_0767,WH-MAIN,https://m.media-amazon.com/images/I/71JtTwgv5OL._AC_SL1500_.jpg
+PID_0164,Oracle Autonomous Database,Computer accessories,CID_10,10000,12000,Oracle,SID_0660,WH-MAIN,https://m.media-amazon.com/images/I/61nWPHrdF+L._AC_SL1500_.jpg
+PID_0165,IBM Watson Studio,Computer accessories,CID_10,3000,4000,IBM,SID_0431,WH-MAIN,https://pic.chinaz.com/ai/2023/08/29/202308291715448598.jpg
+PID_0166,ServiceNow ITSM Pro,Computer accessories,CID_10,1200,1500,ServiceNow,SID_0787,WH-MAIN,https://m.media-amazon.com/images/I/81DSeZqaypL._AC_SL1500_.jpg
+PID_0167,Workday HCM,Computer accessories,CID_10,10000,15000,Workday,SID_0971,WH-MAIN,https://m.media-amazon.com/images/I/819Jt6zovYL._AC_SL1500_.jpg
+PID_0168,Snowflake Data Cloud,Computer accessories,CID_10,5000,6000,Snowflake,SID_0812,WH-MAIN,https://m.media-amazon.com/images/I/81HhLR0tP3L._AC_SL1500_.jpg
+PID_0169,VMware vSphere Standard,Computer accessories,CID_10,1000,1200,VMware (Broadcom),SID_0945,WH-MAIN,https://m.media-amazon.com/images/I/51RMRiOk2mL._AC_SL1500_.jpg
+PID_0170,Red Hat Enterprise Linux,Computer accessories,CID_10,300,349,Red Hat (IBM),SID_0732,WH-MAIN,https://m.media-amazon.com/images/I/61uxqlVE5ML._AC_SL1500_.jpg
+PID_0171,Ubuntu Pro,Computer accessories,CID_10,200,225,Canonical,SID_0159,WH-MAIN,https://m.media-amazon.com/images/I/71gTQ7OGD0L._AC_SL1500_.jpg
+PID_0172,SUSE Linux Enterprise Server,Computer accessories,CID_10,350,400,SUSE,SID_0841,WH-MAIN,https://m.media-amazon.com/images/I/91VBRzCVvmL._AC_SL1500_.jpg
+PID_0173,Docker Business,Computer accessories,CID_10,200,288,Docker,SID_0257,WH-MAIN,https://m.media-amazon.com/images/I/41TDB-mSQYL._AC_SL1500_.jpg
+PID_0174,HashiCorp Terraform Cloud,Computer accessories,CID_10,500,600,HashiCorp,SID_0399,WH-MAIN,https://m.media-amazon.com/images/I/71JLtzAcGbL._AC_SL1500_.jpg
+PID_0175,Elastic Observability,Computer accessories,CID_10,1500,2000,Elastic,SID_0282,WH-MAIN,https://m.media-amazon.com/images/I/717crNmiWPL._AC_SL1500_.jpg
+PID_0176,MongoDB Atlas Pro,Computer accessories,CID_10,1000,1200,MongoDB,SID_0584,WH-MAIN,https://m.media-amazon.com/images/I/51afheVAaRL._AC_SL1500_.jpg
+PID_0177,Couchbase Capella,Computer accessories,CID_10,800,1000,Couchbase,SID_0212,WH-MAIN,https://m.media-amazon.com/images/I/712XU5B8AyL._AC_SL1500_.jpg
+PID_0178,Redis Enterprise,Computer accessories,CID_10,1200,1500,Redis,SID_0733,WH-MAIN,https://redis.io/wp-content/uploads/2023/04/redis-enterprise-for-caching-solution-brief-url-preview-1200x628-2.png
+PID_0179,Confluent Cloud,Computer accessories,CID_10,2000,2500,Confluent,SID_0197,WH-MAIN,https://cdn.confluent.io/wp-content/uploads/17-new-ga-connectors-1024x506.jpg
+PID_0180,Databricks Lakehouse Platform,Computer accessories,CID_10,5000,6000,Databricks,SID_0236,WH-MAIN,https://m.media-amazon.com/images/I/61PXafCjRsL._AC_SL1500_.jpg
+PID_0181,Cloudera Data Platform,Computer accessories,CID_10,8000,10000,Cloudera,SID_0186,WH-MAIN,https://m.media-amazon.com/images/I/817eF+DvD1L._AC_SL1500_.jpg
+PID_0182,Teradata VantageCloud,Computer accessories,CID_10,15000,20000,Teradata,SID_0871,WH-MAIN,https://m.media-amazon.com/images/I/71w6hsL0NHL._AC_SL1500_.jpg
+PID_0183,Nutanix Cloud Infrastructure,Computer accessories,CID_10,2500,3000,Nutanix,SID_0641,WH-MAIN,https://www.nutanixbible.com/imagesv2/products_ncp.png
+PID_0184,Pure Storage FlashArray,Storage devices,CID_14,20000,25000,Pure Storage,SID_0719,WH-MAIN,https://static2.purestorage.com/content/dam/purestorage/Test/UAT/ComponentLibrary/flasharray-x.png.imgo.png
+PID_0185,NetApp AFF A-Series,Computer accessories,CID_10,25000,30000,NetApp,SID_0611,WH-MAIN,https://sc04.alicdn.com/kf/H07c8e47bd13b4897a49205b5036ce76ct/257509771/H07c8e47bd13b4897a49205b5036ce76ct.jpg
+PID_0186,Hitachi VSP E Series,Computer accessories,CID_10,30000,35000,Hitachi Vantara,SID_0410,WH-MAIN,https://sc04.alicdn.com/kf/Hacc2d8503f5545989345989be9aaa0d8t/257509771/Hacc2d8503f5545989345989be9aaa0d8t.jpg
+PID_0187,F5 BIG-IP i2000,Computer accessories,CID_10,15000,18000,F5 Networks,SID_0315,WH-MAIN,https://m.media-amazon.com/images/I/41QLHfkQTEL._AC_SL1500_.jpg
+PID_0188,Juniper EX4100 Switch,Computer accessories,CID_10,2500,3200,Juniper Networks,SID_0472,WH-MAIN,https://m.media-amazon.com/images/I/51QRprJgozL._AC_SL1500_.jpg
+PID_0189,Arista 7050X3 Switch,Computer accessories,CID_10,8000,10000,Arista Networks,SID_0063,WH-MAIN,https://cdn.cs.1worldsync.com/02/d8/02d8b0f2-fb34-462e-a0f9-78bab244575d.jpg
+PID_0190,ExtremeSwitching 5520,Computer accessories,CID_10,3000,4000,Extreme Networks,SID_0312,WH-MAIN,https://m.media-amazon.com/images/I/71LzjVIeeRL._AC_SL1500_.jpg
+PID_0191,RUCKUS R750 Wi-Fi 6 AP,Computer accessories,CID_10,800,1100,CommScope,SID_0196,WH-MAIN,https://m.media-amazon.com/images/I/61PKXm++c9L._AC_SL1500_.jpg
+PID_0192,Corning ClearCurve Fiber,Computer accessories,CID_10,100,150,Corning,SID_0205,WH-MAIN,https://m.media-amazon.com/images/I/51Gv-9k+EvL._AC_SL1500_.jpg
+PID_0193,Amphenol QSFP-DD Cable,Cables,CID_17,100,150,Amphenol,SID_0038,WH-MAIN,https://m.media-amazon.com/images/I/61SJroMjszL._AC_SL1500_.jpg
+PID_0194,TE RJ45 Connector Jack,Computer accessories,CID_10,1,3,TE Connectivity,SID_0864,WH-MAIN,https://m.media-amazon.com/images/I/61mEyYgIiJL._AC_SL1500_.jpg
+PID_0195,Molex Micro-Fit 3.0 Header,Computer accessories,CID_10,1,2,Molex,SID_0582,WH-MAIN,https://m.media-amazon.com/images/I/61Qiu+Y9VVL._AC_SL1500_.jpg
+PID_0196,Jabil PKG Custom Board,Computer accessories,CID_10,50,80,Jabil,SID_0463,WH-MAIN,https://m.media-amazon.com/images/I/412xrY-JKjL._AC_SL1500_.jpg
+PID_0197,Flex Power Module,Computer accessories,CID_10,100,150,Flex,SID_0337,WH-MAIN,https://m.media-amazon.com/images/I/71uyOf5KROL._AC_SL1500_.jpg
+PID_0198,Sanmina PCB Assembly,Computer accessories,CID_10,80,120,Sanmina,SID_0765,WH-MAIN,https://www.sanmina.com/wp-content/uploads/2019/07/pcb_landing_top_banner.jpg
+PID_0199,ViewSonic ColorPro VP2786-4K,Computer accessories,CID_10,800,999,ViewSonic Corporation,SID_0937,WH-MAIN,https://m.media-amazon.com/images/I/81HxYe8hmlL._AC_SL1500_.jpg
+PID_0200,BenQ Mobiuz EX3210U,Computer accessories,CID_10,900,1099,BenQ Corporation,SID_0111,WH-MAIN,https://m.media-amazon.com/images/I/718XoB++3-L._AC_SL1500_.jpg
+PID_0201,AOC Agon Pro AG274QXM,Computer accessories,CID_10,800,999,AOC (TPV Technology),SID_0047,WH-MAIN,https://m.media-amazon.com/images/I/71Q8Cg8LMFL._AC_SL1500_.jpg
+PID_0202,EIZO ColorEdge CG2700S,Computer accessories,CID_10,2000,2400,Eizo Corporation,SID_0281,WH-MAIN,https://m.media-amazon.com/images/I/818mgcoZ+zL._AC_SL1500_.jpg
+PID_0203,iiyama G-Master GB2790QSU,Computer accessories,CID_10,400,500,iiyama,SID_0437,WH-MAIN,https://m.media-amazon.com/images/I/81DauzSF6eL._AC_SL1500_.jpg
+PID_0204,Sceptre 34-Inch Curved Ultrawide,Computer accessories,CID_10,250,300,Sceptre Inc.,SID_0772,WH-MAIN,https://m.media-amazon.com/images/I/71kNuKHcq-L._AC_SL1500_.jpg
+PID_0205,Vizio 65-Inch Quantum Pro,Computer accessories,CID_10,650,899,Vizio Inc.,SID_0944,WH-MAIN,https://m.media-amazon.com/images/I/71bCl40cnGL._AC_SL1500_.jpg
+PID_0206,Hannspree Zeus 13.3 Tablet,Tablets,CID_03,250,299,Hannspree,SID_0393,WH-MAIN,https://m.media-amazon.com/images/I/61m93YEcLlS._AC_SL1500_.jpg
+PID_0207,NEC MultiSync EA271U,Computer accessories,CID_10,600,750,NEC Display Solutions,SID_0609,WH-MAIN,https://m.media-amazon.com/images/I/61T+ZHhf12L._AC_SL1500_.jpg
+PID_0208,Innolux 27-inch 4K Panel,Computer accessories,CID_10,150,250,Innolux Corporation,SID_0448,WH-MAIN,https://m.media-amazon.com/images/I/61Dk2B8uErL._AC_SL1500_.jpg
+PID_0209,Thermaltake Tower 500,Computer accessories,CID_10,150,179,Thermaltake,SID_0878,WH-MAIN,https://m.media-amazon.com/images/I/61l38-J7CsL._AC_SL1500_.jpg
+PID_0210,EVGA SuperNOVA 850 GT,Computer accessories,CID_10,100,139,EVGA Corporation,SID_0309,WH-MAIN,https://m.media-amazon.com/images/I/8172-Dn5fVL._AC_SL1500_.jpg
+PID_0211,ZOTAC Gaming RTX 4070 Ti AMP,Computer accessories,CID_10,800,899,ZOTAC,SID_0998,WH-MAIN,https://m.media-amazon.com/images/I/61zTcXdk5uL._AC_SL1500_.jpg
+PID_0212,Palit RTX 4080 GameRock,Computer accessories,CID_10,1100,1250,Palit Microsystems,SID_0669,WH-MAIN,https://m.media-amazon.com/images/I/71ZUeyYQN6L._AC_SL1500_.jpg
+PID_0213,Sapphire NITRO+ RX 7900 XTX,Computer accessories,CID_10,1000,1099,Sapphire Technology,SID_0769,WH-MAIN,https://m.media-amazon.com/images/I/81tvHo10s2L._AC_SL1500_.jpg
+PID_0214,be quiet! Dark Rock Pro 4,Computer accessories,CID_10,70,89,Be Quiet!,SID_0107,WH-MAIN,https://m.media-amazon.com/images/I/81in8yGd6yL._AC_SL1500_.jpg
+PID_0215,Fractal Design North Case,Computer accessories,CID_10,120,149,Fractal Design,SID_0350,WH-MAIN,https://m.media-amazon.com/images/I/71Ju7iX3XfL._AC_SL1500_.jpg
+PID_0216,Lian Li O11 Dynamic EVO,Computer accessories,CID_10,140,159,Lian Li,SID_0517,WH-MAIN,https://m.media-amazon.com/images/I/81I0Nj5jufL._AC_SL1500_.jpg
+PID_0217,Phanteks NV7 E-ATX Case,Computer accessories,CID_10,200,219,Phanteks,SID_0685,WH-MAIN,https://m.media-amazon.com/images/I/71YZBdiF1aL._AC_SL1500_.jpg
+PID_0218,Glorious Model O Wireless,Mice,CID_13,60,79,Glorious Gaming,SID_0378,WH-MAIN,https://m.media-amazon.com/images/I/71smsucDsZL._AC_SL1500_.jpg
+PID_0219,Sennheiser IE 600,Headphones,CID_05,600,699,Sennheiser Consumer,SID_0786,WH-MAIN,https://m.media-amazon.com/images/I/51+olzGKl4L._AC_SL1500_.jpg
+PID_0220,Master & Dynamic MW75,Headphones,CID_05,450,599,Master & Dynamic,SID_0552,WH-MAIN,https://sm.pcmag.com/t/pcmag_uk/review/m/master-dyn/master-dynamic-mw75_xu4f.3840.jpg
+PID_0221,Audeze Maxwell Wireless,Computer accessories,CID_10,250,299,Audeze,SID_0077,WH-MAIN,https://m.media-amazon.com/images/I/51iE7XD13NL._AC_SL1500_.jpg
+PID_0222,Campfire Audio Trifecta Earphones,Headphones,CID_05,3000,3399,Campfire Audio,SID_0153,WH-MAIN,https://cdn.head-fi.org/a/11948604.jpg
+PID_0223,HIFIMAN Arya Stealth,Headphones,CID_05,1200,1599,HIFIMAN Electronics,SID_0404,WH-MAIN,https://m.media-amazon.com/images/I/61sPzg1X-1L._AC_SL1500_.jpg
+PID_0224,Status Between 3ANC,Earbuds,CID_06,150,199,Status Audio,SID_0830,WH-MAIN,https://m.media-amazon.com/images/I/41ieihU8dDL._AC_SL1500_.jpg
+PID_0225,Marshall Motif II ANC,Headphones,CID_05,180,199,Marshall Headphones,SID_0548,WH-MAIN,https://m.media-amazon.com/images/I/71t+kVzovEL._AC_SL1500_.jpg
+PID_0226,Grado SR325x,Headphones,CID_05,250,295,Grado Labs,SID_0386,WH-MAIN,https://m.media-amazon.com/images/I/71hkemCxOLL._AC_SL1500_.jpg
+PID_0227,Final ZE8000,Earbuds,CID_06,300,349,Final Audio,SID_0332,WH-MAIN,https://m.media-amazon.com/images/I/61VlWUqJsLL._AC_SL1500_.jpg
+PID_0228,ecobee Smart Thermostat Premium,Smart home devices,CID_18,220,249,Ecobee,SID_0274,WH-MAIN,https://m.media-amazon.com/images/I/71CsF8Zbi6L._AC_SL1500_.jpg
+PID_0229,tado Smart Radiator Thermostat V3+,Smart home devices,CID_18,80,99,Tado,SID_0855,WH-MAIN,https://m.media-amazon.com/images/I/714Fz5OFjIL._AC_SL1500_.jpg
+PID_0230,August Wi-Fi Smart Lock 4th Gen,Smart home devices,CID_18,180,229,August Home,SID_0081,WH-MAIN,https://m.media-amazon.com/images/I/61q0KLYHm8L._AC_SL1500_.jpg
+PID_0231,Nanoleaf Shapes Hexagons,Computer accessories,CID_10,180,199,Nanoleaf,SID_0603,WH-MAIN,https://m.media-amazon.com/images/I/51ZZp8TWvlL._AC_SL1500_.jpg
+PID_0232,Lutron Caseta Smart Dimmer Switch,Smart home devices,CID_18,50,59,Lutron Electronics,SID_0536,WH-MAIN,https://m.media-amazon.com/images/I/71u2kL7bimL._AC_SL1500_.jpg
+PID_0233,Leviton Decora Smart Wi-Fi Switch,Computer accessories,CID_10,40,49,Leviton,SID_0513,WH-MAIN,https://m.media-amazon.com/images/I/51RO9t8zXpL._AC_SL1500_.jpg
+PID_0234,eufyCam 3 4K Kit,Security cameras,CID_20,400,549,Eufy (Anker),SID_0305,WH-MAIN,https://m.media-amazon.com/images/I/51A4ddTVg5L._AC_SL1500_.jpg
+PID_0235,SimpliSafe 9-Piece Wireless Kit,Computer accessories,CID_10,250,299,SimplySafe,SID_0801,WH-MAIN,https://m.media-amazon.com/images/I/61ZptVydqRL._AC_SL1500_.jpg
+PID_0236,Abode Iota Security Kit,Smart home devices,CID_18,280,329,Abode Systems,SID_0006,WH-MAIN,https://m.media-amazon.com/images/I/617acmVJjdL._AC_SL1500_.jpg
+PID_0237,Eve Energy Smart Plug,Smart home devices,CID_18,30,39,Eve Systems,SID_0308,WH-MAIN,https://m.media-amazon.com/images/I/717-91Hs5+L._AC_SL1500_.jpg
+PID_0238,Linksys Velop Pro 6E,Computer accessories,CID_10,300,399,Linksys,SID_0524,WH-MAIN,https://m.media-amazon.com/images/I/51jWlqPWiVL._AC_SL1500_.jpg
+PID_0239,Tenda Nova MW12,Routers,CID_19,150,199,Tenda Technology,SID_0870,WH-MAIN,https://m.media-amazon.com/images/I/61tV2tCkA-L._AC_SL1500_.jpg
+PID_0240,Mercusys Halo H80X,Routers,CID_19,120,159,Mercusys,SID_0562,WH-MAIN,https://m.media-amazon.com/images/I/51FDBSHZ1jL._AC_SL1500_.jpg
+PID_0241,Buffalo LinkStation 220 4TB,Computer accessories,CID_10,200,249,Buffalo Inc.,SID_0145,WH-MAIN,https://m.media-amazon.com/images/I/81eNybhoQ9L._AC_SL1500_.jpg
+PID_0242,DrayTek Vigor 2865ac,Routers,CID_19,280,329,DrayTek,SID_0262,WH-MAIN,https://m.media-amazon.com/images/I/613zvKHoQBL._AC_SL1500_.jpg
+PID_0243,FRITZ!Box 7590 AX,Routers,CID_19,250,299,AVM FRITZ!,SID_0089,WH-MAIN,https://m.media-amazon.com/images/I/61SvYvoKlKL._AC_SL1500_.jpg
+PID_0244,Zyxel NWA50AX WiFi 6 AP,Routers,CID_19,70,89,Zyxel Communications,SID_1000,WH-MAIN,https://m.media-amazon.com/images/I/21ahxEhK-SL._AC_SL1500_.jpg
+PID_0245,GL.iNet Beryl AX Pocket Router,Routers,CID_19,90,119,GL.iNet,SID_0377,WH-MAIN,https://m.media-amazon.com/images/I/61FiWypNp+L._AC_SL1500_.jpg
+PID_0246,Peplink Balance 20X,Routers,CID_19,350,449,Peplink,SID_0681,WH-MAIN,https://m.media-amazon.com/images/I/71oNV4-HKhL._AC_SL1500_.jpg
+PID_0247,EnGenius ECW220 Wi-Fi 6 AP,Routers,CID_19,200,249,EnGenius Technologies,SID_0292,WH-MAIN,https://m.media-amazon.com/images/I/31aIwJHAZLL._AC_SL1500_.jpg
+PID_0248,Sabrent Rocket 4 Plus 2TB,Storage devices,CID_14,150,199,Sabrent,SID_0760,WH-MAIN,https://m.media-amazon.com/images/I/81DNmJskQAL._AC_SL1500_.jpg
+PID_0249,Lexar Professional 2000x SDXC 128GB,Storage devices,CID_14,100,149,Lexar,SID_0514,WH-MAIN,https://m.media-amazon.com/images/I/81ba9M7HCIL._AC_SL1500_.jpg
+PID_0250,Silicon Power XS70 2TB SSD,Storage devices,CID_14,120,149,Silicon Power,SID_0797,WH-MAIN,https://m.media-amazon.com/images/I/31YcdgEuldL._AC_SL1500_.jpg
+PID_0251,TeamGroup T-Force Delta RGB DDR5,Computer accessories,CID_10,110,139,TeamGroup,SID_0866,WH-MAIN,https://m.media-amazon.com/images/I/71t-pPgHwyL._AC_SL1500_.jpg
+PID_0252,G.Skill Trident Z5 RGB 32GB,Computer accessories,CID_10,130,159,G.Skill International,SID_0358,WH-MAIN,https://m.media-amazon.com/images/I/71DiVTefKBL._AC_SL1500_.jpg
+PID_0253,Patriot Viper VP4300 1TB,Storage devices,CID_14,80,109,Patriot Memory,SID_0676,WH-MAIN,https://m.media-amazon.com/images/I/613NZPTrstL._AC_SL1500_.jpg
+PID_0254,Mushkin Redline Lumina 32GB,Computer accessories,CID_10,100,129,Mushkin,SID_0601,WH-MAIN,https://m.media-amazon.com/images/I/61IPPcoxC8L._AC_SL1500_.jpg
+PID_0255,OWC ThunderBlade 8TB,Storage devices,CID_14,1500,1899,OWC (Other World Computing),SID_0666,WH-MAIN,https://m.media-amazon.com/images/I/51Z3IUJgS3L._AC_SL1500_.jpg
+PID_0256,LaCie Rugged SSD Pro 2TB,Storage devices,CID_14,350,429,LaCie (Seagate),SID_0503,WH-MAIN,https://m.media-amazon.com/images/I/81h+P-kLOnL._AC_SL1500_.jpg
+PID_0257,PNY CS3140 2TB SSD,Storage devices,CID_14,140,179,PNY Technologies,SID_0700,WH-MAIN,https://m.media-amazon.com/images/I/61CC0ZWvVLL._AC_SL1500_.jpg
+PID_0258,Satechi Thunderbolt 4 Dock,Computer accessories,CID_10,250,299,Satechi,SID_0770,WH-MAIN,https://m.media-amazon.com/images/I/61ir7eQAAlL._AC_SL1500_.jpg
+PID_0259,Twelve South BookArc flex,Computer accessories,CID_10,40,49,Twelve South,SID_0908,WH-MAIN,https://m.media-amazon.com/images/I/71MLoUpfCGL._AC_SL1500_.jpg
+PID_0260,Nomad Base One Max 3-in-1,Chargers,CID_16,120,149,Nomad Goods,SID_0629,WH-MAIN,https://media.idownloadblog.com/wp-content/uploads/2023/09/Nomad-Base-One-Max-3in1-AirPods-Pro-2-Spot.jpg
+PID_0261,Spigen ArcHybrid Mag,Chargers,CID_16,40,59,Spigen,SID_0823,WH-MAIN,https://m.media-amazon.com/images/I/71jg8tWR6CL._AC_SL1500_.jpg
+PID_0262,OtterBox Symmetry Series XT,Computer accessories,CID_10,50,69,OtterBox,SID_0664,WH-MAIN,https://m.media-amazon.com/images/I/61BQDeKNAjL._AC_SL1500_.jpg
+PID_0263,mophie powerstation pro XL,Power banks,CID_15,180,229,Mophie (Zagg),SID_0591,WH-MAIN,https://m.media-amazon.com/images/I/71QW2fHBC6L._AC_SL1500_.jpg
+PID_0264,Scosche MagicMount Pro Charge5,Computer accessories,CID_10,50,69,Scosche,SID_0775,WH-MAIN,https://m.media-amazon.com/images/I/610x7DyndbL._AC_SL1500_.jpg
+PID_0265,Native Union Drop Wireless Charger,Chargers,CID_16,40,59,Native Union,SID_0607,WH-MAIN,https://m.media-amazon.com/images/I/61Ea59AQWtL._AC_SL1500_.jpg
+PID_0266,RAVPower 65W GaN Charger,Chargers,CID_16,30,45,RavPower,SID_0727,WH-MAIN,https://m.media-amazon.com/images/I/51iLSLXL9XL._AC_SL1500_.jpg
+PID_0267,ZMI PowerPack No. 20,Computer accessories,CID_10,100,149,ZMI,SID_0995,WH-MAIN,https://cdn.mos.cms.futurecdn.net/ptHLXcurSd274a7RxojX8a.jpg
+PID_0268,Skydio 2+ Enterprise,Drones,CID_21,1500,1800,Skydio,SID_0805,WH-MAIN,https://m.media-amazon.com/images/I/61oef55Z0qL._SY88._AC_SL1500_.jpg
+PID_0269,Parrot ANAFI USA,Drones,CID_21,6000,7500,Parrot,SID_0675,WH-MAIN,https://m.media-amazon.com/images/I/618vFVTdcQL._AC_SL1500_.jpg
+PID_0270,Yuneec Typhoon H3,Computer accessories,CID_10,2000,2500,Yuneec,SID_0986,WH-MAIN,https://m.media-amazon.com/images/I/71cN6aSaWGL._AC_SL1500_.jpg
+PID_0271,Hubsan Zino Mini Pro,Drones,CID_21,450,549,Hubsan,SID_0425,WH-MAIN,https://m.media-amazon.com/images/I/61uyXElyCaL._AC_SL1500_.jpg
+PID_0272,Freefly Alta X,Drones,CID_21,15000,18000,Freefly Systems,SID_0353,WH-MAIN,https://mavdrones.com/wp-content/uploads/2024/01/Freefly-Alta-Blue-Cube-01.jpg
+PID_0273,Peak Design Travel Tripod Carbon,Computer accessories,CID_10,550,649,Peak Design,SID_0680,WH-MAIN,https://m.media-amazon.com/images/I/61cK4i+WsGL._AC_SL1500_.jpg
+PID_0274,Manfrotto Befree Advanced Carbon,Computer accessories,CID_10,300,399,Manfrotto (Vitec),SID_0541,WH-MAIN,https://m.media-amazon.com/images/I/61gIANXtx-L._AC_SL1500_.jpg
+PID_0275,Joby GorillaPod 3K PRO Kit,Computer accessories,CID_10,120,149,Joby,SID_0468,WH-MAIN,https://m.media-amazon.com/images/I/71ihYPe3ibL._AC_SL1500_.jpg
+PID_0276,Hollyland Mars 400S Pro,Computer accessories,CID_10,500,649,Hollyland Technology,SID_0412,WH-MAIN,https://m.media-amazon.com/images/I/61xqipiHTSL._AC_SL1500_.jpg
+PID_0277,Suunto 9 Peak Pro,Computer accessories,CID_10,400,499,Suunto,SID_0842,WH-MAIN,https://m.media-amazon.com/images/I/61T1UJw+PsL._AC_SL1500_.jpg
+PID_0278,Polar Vantage V3,Smartwatches,CID_04,550,599,Polar Electro,SID_0702,WH-MAIN,https://m.media-amazon.com/images/I/51Zm0jYMaKL._AC_SL1500_.jpg
+PID_0279,Amazfit T-Rex Ultra,Smartwatches,CID_04,350,399,Amazfit (Zepp Health),SID_0027,WH-MAIN,https://m.media-amazon.com/images/I/71w6yIZ4i4L._AC_SL1500_.jpg
+PID_0280,TicWatch Pro 5,Smartwatches,CID_04,300,349,Mobvoi (TicWatch),SID_0580,WH-MAIN,https://m.media-amazon.com/images/I/71RTu5isl8L._AC_SL1500_.jpg
+PID_0281,Coros Apex 2 Pro,Computer accessories,CID_10,450,499,Coros Wearables,SID_0207,WH-MAIN,https://m.media-amazon.com/images/I/81o+yUspT7L._AC_SL1500_.jpg
+PID_0282,Fossil Gen 6 Wellness Edition,Computer accessories,CID_10,250,299,Fossil Group,SID_0347,WH-MAIN,https://m.media-amazon.com/images/I/81DEF+TfCTL._AC_SL1500_.jpg
+PID_0283,G-Shock GBD-H2000,Computer accessories,CID_10,350,399,Casio (G-Shock),SID_0167,WH-MAIN,https://m.media-amazon.com/images/I/61d1bQb8c-L._AC_SL1500_.jpg
+PID_0284,Oura Ring Horizon,Smartwatches,CID_04,300,349,Oura Health,SID_0665,WH-MAIN,https://m.media-amazon.com/images/I/61gcIPGWWzL._AC_SL1500_.jpg
+PID_0285,Whoop 4.0 Tracker,Smartwatches,CID_04,200,239,Whoop,SID_0963,WH-MAIN,https://m.media-amazon.com/images/I/71CQ6esBqFL._AC_SL1500_.jpg
+PID_0286,Bellabeat Ivy Health Tracker,Computer accessories,CID_10,200,249,Bellabeat,SID_0110,WH-MAIN,https://m.media-amazon.com/images/I/510qglWaQwL._AC_SL1500_.jpg
+PID_0287,HTC VIVE XR Elite,VR headsets,CID_22,900,1099,HTC Vive,SID_0422,WH-MAIN,https://m.media-amazon.com/images/I/61gZa71pSjL._AC_SL1500_.jpg
+PID_0288,PICO 4 VR Headset,VR headsets,CID_22,400,429,Pico Interactive,SID_0690,WH-MAIN,https://m.media-amazon.com/images/I/61e4PhqUY7L._AC_SL1500_.jpg
+PID_0289,Magic Leap 2,VR headsets,CID_22,3000,3299,Magic Leap,SID_0539,WH-MAIN,https://m.media-amazon.com/images/I/513vW0qqxvL._AC_SL1500_.jpg
+PID_0290,Varjo Aero,VR headsets,CID_22,1500,1990,Varjo,SID_0928,WH-MAIN,https://m.media-amazon.com/images/I/51vq63ziaDL._AC_SL1500_.jpg
+PID_0291,Thrustmaster T300 RS GT,Computer accessories,CID_10,350,449,Thrustmaster,SID_0881,WH-MAIN,https://m.media-amazon.com/images/I/51ii8o3Ib1L._AC_SL1500_.jpg
+PID_0292,Fanatec CSL DD 8Nm,Computer accessories,CID_10,450,499,Fanatec (Endor AG),SID_0319,WH-MAIN,https://m.media-amazon.com/images/I/71LhwBQGBtL._AC_SL1500_.jpg
+PID_0293,Mad Catz R.A.T. 8+ ADV,Computer accessories,CID_10,100,129,Mad Catz,SID_0538,WH-MAIN,https://m.media-amazon.com/images/I/71vq2x9pxeL._AC_SL1500_.jpg
+PID_0294,HORI Fighting Stick Alpha,Computer accessories,CID_10,160,199,Hori,SID_0417,WH-MAIN,https://m.media-amazon.com/images/I/714guCrG5IL._AC_SL1500_.jpg
+PID_0295,Hisense 75-Inch U7K Mini-LED,Monitors,CID_11,900,1199,Hisense Group,SID_0408,WH-MAIN,https://m.media-amazon.com/images/I/71a6qYc8YXL._AC_SL1500_.jpg
+PID_0296,Skyworth 65SUE9300 65-Inch 4K TV,Monitors,CID_11,600,799,Skyworth,SID_0806,WH-MAIN,https://m.media-amazon.com/images/I/81TWLqAVXkL._AC_SL1500_.jpg
+PID_0297,Optoma UHZ50 Smart 4K Laser,Computer accessories,CID_10,2200,2799,Optoma Corporation,SID_0659,WH-MAIN,https://m.media-amazon.com/images/I/51WFaopPUBL._AC_SL1500_.jpg
+PID_0298,XGIMI Horizon Ultra,Computer accessories,CID_10,1500,1699,XGIMI Technology,SID_0978,WH-MAIN,https://m.media-amazon.com/images/I/51k4TtyK42L._AC_SL1500_.jpg
+PID_0299,Konka 55-Inch U5 Series 4K TV,Monitors,CID_11,300,399,Konka Group,SID_0497,WH-MAIN,https://m.media-amazon.com/images/I/81Y0WmtqCpL._AC_SL1500_.jpg
+PID_0300,VAVA Chroma 4K UST Laser Projector,Computer accessories,CID_10,2500,2899,Vava,SID_0930,WH-MAIN,https://m.media-amazon.com/images/I/61mWUkAuA8L._AC_SL1500_.jpg
+PID_0301,Noctua NH-D15 chromax.black,Computer accessories,CID_10,100,119,Noctua (Rascom),SID_0626,WH-MAIN,https://m.media-amazon.com/images/I/91t48GBv8TL._AC_SL1500_.jpg
+PID_0302,DeepCool AK620 Digital,Computer accessories,CID_10,70,89,DeepCool,SID_0239,WH-MAIN,https://m.media-amazon.com/images/I/71jl2CxNoxL._AC_SL1500_.jpg
+PID_0303,ARCTIC Liquid Freezer II 360,Computer accessories,CID_10,120,149,Arctic GmbH,SID_0061,WH-MAIN,https://m.media-amazon.com/images/I/61C3xuyoyQL._AC_SL1500_.jpg
+PID_0304,NZXT Kraken Elite 360 RGB,Computer accessories,CID_10,250,299,NZXT Components,SID_0647,WH-MAIN,https://m.media-amazon.com/images/I/41WDEZevUvL._AC_SL1500_.jpg
+PID_0305,SilverStone Strider Platinum 1200W,Computer accessories,CID_10,220,269,SilverStone Technology,SID_0799,WH-MAIN,https://m.media-amazon.com/images/I/71EQeU2bbQL._AC_SL1500_.jpg
+PID_0306,Lian Li UNI FAN SL-INFINITY 120 RGB,Computer accessories,CID_10,90,109,Lian Li Industrial,SID_0518,WH-MAIN,https://m.media-amazon.com/images/I/61NPQjjxPeL._AC_SL1500_.jpg
+PID_0307,Antec Dark League DF800 FLUX,Computer accessories,CID_10,80,109,Antec Inc.,SID_0046,WH-MAIN,https://m.media-amazon.com/images/I/71FOzi3ZeTL._AC_SL1500_.jpg
+PID_0308,InWin D-Frame 2.0 Case,Computer accessories,CID_10,1000,1200,InWin Development,SID_0459,WH-MAIN,https://m.media-amazon.com/images/I/61du4ie480L._AC_SL1500_.jpg
+PID_0309,Cougar Conquer 2 Case,Computer accessories,CID_10,300,350,Cougar Gaming,SID_0213,WH-MAIN,https://m.media-amazon.com/images/I/81yZKIHSP7L._AC_SL1500_.jpg
+PID_0310,ID-COOLING DASHFLOW 360 XT,Computer accessories,CID_10,90,119,ID-COOLING,SID_0434,WH-MAIN,https://m.media-amazon.com/images/I/61bEA45Z0yL._AC_SL1500_.jpg
+PID_0311,Seasonic PRIME TX-1600,Computer accessories,CID_10,500,599,Sea Sonic Electronics,SID_0778,WH-MAIN,https://m.media-amazon.com/images/I/41xO4i8u9+L._AC_SL1500_.jpg
+PID_0312,FSP Hydro Ti PRO 1000W,Computer accessories,CID_10,250,299,FSP Group,SID_0355,WH-MAIN,https://m.media-amazon.com/images/I/51yPgB5EQ9L._AC_SL1500_.jpg
+PID_0313,APC Back-UPS Pro 1500VA,Chargers,CID_16,180,229,APC (Schneider),SID_0052,WH-MAIN,https://m.media-amazon.com/images/I/71GRBxnyvAL._AC_SL1500_.jpg
+PID_0314,CyberPower CP1500PFCLCD 1500VA,Chargers,CID_16,180,219,CyberPower Systems,SID_0225,WH-MAIN,https://m.media-amazon.com/images/I/71mhftPO1dL._AC_SL1500_.jpg
+PID_0315,Tripp Lite SMART1500LCD,Computer accessories,CID_10,170,209,Tripp Lite,SID_0901,WH-MAIN,https://m.media-amazon.com/images/I/61cR65ugGTL._AC_SL1500_.jpg
+PID_0316,Huntkey 65W GaN Charger,Chargers,CID_16,25,39,Huntkey,SID_0427,WH-MAIN,https://m.media-amazon.com/images/I/616Dv7m1n2L._AC_SL1500_.jpg
+PID_0317,Super Flower Leadex VII XG 1300W,Computer accessories,CID_10,220,269,Super Flower,SID_0840,WH-MAIN,https://m.media-amazon.com/images/I/81vlQkpDTiL._AC_SL1500_.jpg
+PID_0318,Great Wall G750 Gold PSU,Computer accessories,CID_10,90,119,Great Wall,SID_0388,WH-MAIN,https://m.media-amazon.com/images/I/813gIkxYMwL._AC_SL1500_.jpg
+PID_0319,Philips Hue Play HDMI Sync Box,Smart home devices,CID_18,200,249,Philips Hue (Signify),SID_0688,WH-MAIN,https://m.media-amazon.com/images/I/61BU6npveBL._AC_SL1500_.jpg
+PID_0320,LIFX Color A19 1200 Lumens,Computer accessories,CID_10,40,59,LIFX,SID_0520,WH-MAIN,https://m.media-amazon.com/images/I/81to5bPRDwL._AC_SL1500_.jpg
+PID_0321,Govee Glide Hexa Light Panels,Smart home devices,CID_18,150,199,Govee,SID_0384,WH-MAIN,https://m.media-amazon.com/images/I/719-1NU0LiL._AC_SL1500_.jpg
+PID_0322,Yeelight Smart LED Light Panels,Smart home devices,CID_18,120,159,Yeelight,SID_0984,WH-MAIN,https://passionhome.sg/wp-content/uploads/2022/12/Yeelight-Smart-LED-Light-Panel.png
+PID_0323,Sengled Smart Bluetooth Mesh Bulb Kit,Computer accessories,CID_10,30,49,Sengled,SID_0784,WH-MAIN,https://m.media-amazon.com/images/I/71Hwqabdg+S._AC_SL1500_.jpg
+PID_0324,WiZ LED Strip Starter Kit 2m,Computer accessories,CID_10,40,59,Wiz Connected,SID_0968,WH-MAIN,https://m.media-amazon.com/images/I/617djcPvTgL._AC_SL1500_.jpg
+PID_0325,Meross Smart Wi-Fi Garage Door Opener,Smart home devices,CID_18,30,45,Meross,SID_0563,WH-MAIN,https://m.media-amazon.com/images/I/41Gb+0Ye3xL._AC_SL1500_.jpg
+PID_0326,Shelly Plus 1PM Smart Relay,Smart home devices,CID_18,15,25,Shelly (Allterco),SID_0792,WH-MAIN,https://m.media-amazon.com/images/I/81PlpSVkoxL._AC_SL1500_.jpg
+PID_0327,Kasa Smart Wi-Fi Plug Mini (EP25),Computer accessories,CID_10,20,30,TP-Link Kasa,SID_0893,WH-MAIN,https://m.media-amazon.com/images/I/61dy0MWaMhL._AC_SL1500_.jpg
+PID_0328,Lutron Caseta Smart Lighting Dimmer Switch,Smart home devices,CID_18,50,69,Lutron Caséta,SID_0535,WH-MAIN,https://m.media-amazon.com/images/I/51hB5pp0KOL._AC_SL1500_.jpg
+PID_0329,Ultimate Ears EPICBOOM,Computer accessories,CID_10,300,349,Ultimate Ears (Logitech),SID_0915,WH-MAIN,https://m.media-amazon.com/images/I/81KBCqsEkKL._AC_SL1500_.jpg
+PID_0330,Soundcore Liberty 4 NC,Computer accessories,CID_10,80,99,Soundcore (Anker),SID_0816,WH-MAIN,https://m.media-amazon.com/images/I/51UXIDjMOtL._AC_SL1500_.jpg
+PID_0331,Tribit StormBox Blast,Computer accessories,CID_10,150,199,Tribit,SID_0899,WH-MAIN,https://m.media-amazon.com/images/I/712QNIQMqBL._AC_SL1500_.jpg
+PID_0332,Tronsmart Bang Outdoor Speaker,Speakers,CID_07,100,129,Tronsmart,SID_0902,WH-MAIN,https://m.media-amazon.com/images/I/71MJdHLaYCL._AC_SL1500_.jpg
+PID_0333,DALI OBERON 5 Floorstanding Speakers,Speakers,CID_07,1000,1299,DALI Loudspeakers,SID_0230,WH-MAIN,https://m.media-amazon.com/images/I/61LTQkxUEWL._AC_SL1500_.jpg
+PID_0334,Fluance RT85 Reference Turntable,Computer accessories,CID_10,450,499,Fluance,SID_0339,WH-MAIN,https://m.media-amazon.com/images/I/718X-QzwySL._AC_SL1500_.jpg
+PID_0335,Cambridge Audio CXA81 Integrated Amp,Security cameras,CID_20,1000,1299,Cambridge Audio,SID_0151,WH-MAIN,https://m.media-amazon.com/images/I/61yFEjqnDeL._AC_SL1500_.jpg
+PID_0336,Edifier S3000Pro Active Speakers,Speakers,CID_07,800,899,Edifier International,SID_0277,WH-MAIN,https://m.media-amazon.com/images/I/51QLn7JMdNL._AC_SL1500_.jpg
+PID_0337,Creative Sound BlasterX AE-5 Plus,Computer accessories,CID_10,120,149,Creative Technology,SID_0215,WH-MAIN,https://m.media-amazon.com/images/I/51jWT0jiR8L._AC_SL1500_.jpg
+PID_0338,CalDigit TS4 Thunderbolt 4 Dock,Computer accessories,CID_10,350,399,CalDigit,SID_0150,WH-MAIN,https://m.media-amazon.com/images/I/61RBOqHLI0L._AC_SL1500_.jpg
+PID_0339,Plugable 14-in-1 USB-C Thunderbolt 4 Dock,Computer accessories,CID_10,250,299,Plugable Technologies,SID_0697,WH-MAIN,https://m.media-amazon.com/images/I/71dHU21e1HL._AC_SL1500_.jpg
+PID_0340,StarTech.com Dual 4K USB-C Dock,Computer accessories,CID_10,220,269,StarTech.com,SID_0828,WH-MAIN,https://m.media-amazon.com/images/I/6142uTAbZGL._AC_SL1500_.jpg
+PID_0341,CHOETECH 100W GaN Dual USB-C Charger,Chargers,CID_16,35,49,Choetech,SID_0178,WH-MAIN,https://www.choetech.net/wp-content/uploads/2021/03/1000X1000.jpg
+PID_0342,AUKEY Omnia 65W Fast Charger,Chargers,CID_16,30,45,Aukey,SID_0082,WH-MAIN,http://usstore-kh.com/storage/procols/June2020/9lWGssS43loCFirbkbz3.jpg
+PID_0343,HyperDrive VIPER 10-in-2 USB-C Hub,Computer accessories,CID_10,100,129,Hyper (Targus),SID_0428,WH-MAIN,https://m.media-amazon.com/images/I/81dkzD4hxIL._AC_SL1500_.jpg
+PID_0344,ZAGG Pro Keys Wireless Keyboard Box,Keyboards,CID_12,80,109,Zagg Inc.,SID_0987,WH-MAIN,https://m.media-amazon.com/images/I/41+B-WwKUlL._AC_SL1500_.jpg
+PID_0345,eufy Security Floodlight Cam 2 Pro,Security cameras,CID_20,250,299,Eufy Security,SID_0306,WH-MAIN,https://m.media-amazon.com/images/I/510zT+TkJ-L._AC_SL1500_.jpg
+PID_0346,Google Nest Doorbell (Battery),Security cameras,CID_20,150,179,Nest (Google),SID_0610,WH-MAIN,https://m.media-amazon.com/images/I/51ZvGZmTsUL._AC_SL1500_.jpg
+PID_0347,Lorex 4K Ultra HD NVR System 8-Channel,Security cameras,CID_20,700,899,Lorex Technology,SID_0531,WH-MAIN,https://m.media-amazon.com/images/I/71D2CfeRUcL._AC_SL1500_.jpg
+PID_0348,Swann Enforcer 8-Channel 4K Security System,Security cameras,CID_20,400,499,Swann,SID_0843,WH-MAIN,https://m.media-amazon.com/images/I/71kyITBEReL._AC_SL1500_.jpg
+PID_0349,Blink Outdoor 4 - 3 Camera System,Security cameras,CID_20,200,259,Blink (Amazon),SID_0124,WH-MAIN,https://m.media-amazon.com/images/I/61Ie0wCDrsL._AC_SL1500_.jpg
+PID_0350,Amcrest 4K Turret PoE Camera AI,Security cameras,CID_20,100,139,Amcrest Industries,SID_0029,WH-MAIN,https://m.media-amazon.com/images/I/51RqE5uApkL._AC_SL1500_.jpg
+PID_0351,EZVIZ C8C Lite Outdoor Pan/Tilt Camera,Security cameras,CID_20,70,99,EZVIZ,SID_0314,WH-MAIN,https://m.media-amazon.com/images/I/71Y5-tyTDIS._AC_SL1500_.jpg
+PID_0352,Foscam R4S 4MP WiFi Camera,Security cameras,CID_20,60,89,Foscam,SID_0346,WH-MAIN,https://m.media-amazon.com/images/I/41yknW3np9L._AC_SL1500_.jpg
+PID_0353,Imou Bullet 2C Wi-Fi Camera,Security cameras,CID_20,40,59,Imou,SID_0439,WH-MAIN,https://m.media-amazon.com/images/I/61f0hCniHbL._AC_SL1500_.jpg
+PID_0354,Varmilo VA87M Moonlight Mechanical Keyboard,Keyboards,CID_12,130,159,Varmilo,SID_0929,WH-MAIN,https://static.insales-cdn.com/images/products/1/7744/333020736/3.jpg
+PID_0355,Leopold FC900R PD Mechanical Keyboard,Keyboards,CID_12,120,149,Leopold,SID_0510,WH-MAIN,https://m.media-amazon.com/images/I/51oEQZCy5XL._AC_SL1500_.jpg
+PID_0356,Filco Majestouch 2 Ninja TKL,Computer accessories,CID_10,140,169,Filco (Diatec),SID_0330,WH-MAIN,https://m.media-amazon.com/images/I/61jH---AM7L._AC_SL1500_.jpg
+PID_0357,Akko 3098B Plus Mechanical Keyboard,Keyboards,CID_12,100,129,Akko,SID_0020,WH-MAIN,https://m.media-amazon.com/images/I/6107x3EW1SL._AC_SL1500_.jpg
+PID_0358,EPOMAKER TH80 Pro 75% Mechanical Keyboard,Keyboards,CID_12,80,99,EPOMAKER,SID_0296,WH-MAIN,https://m.media-amazon.com/images/I/713wd8L+lgL._AC_SL1500_.jpg
+PID_0359,Finalmouse Starlight-12 Magnesium,Mice,CID_13,200,299,Finalmouse,SID_0333,WH-MAIN,https://m.media-amazon.com/images/I/61Km-+GfQHL._AC_SL1500_.jpg
+PID_0360,Xtrfy M4 RGB Ultra-Light Gaming Mouse,Mice,CID_13,60,79,Xtrfy (Cherry),SID_0982,WH-MAIN,https://m.media-amazon.com/images/I/719dNs6QTEL._AC_SL1500_.jpg
+PID_0361,ROCCAT Vulcan II Mini Air,Keyboards,CID_12,120,149,Roccat (Turtle Beach),SID_0748,WH-MAIN,https://m.media-amazon.com/images/I/81NY0nXSNLL._AC_SL1500_.jpg
+PID_0362,G-Technology 4TB G-DRIVE ArmorATD,Storage devices,CID_14,150,189,G-Technology (WD),SID_0357,WH-MAIN,https://m.media-amazon.com/images/I/81Si-MU1CdL._AC_SL1500_.jpg
+PID_0363,Wise Advanced 1TB CFexpress Type B,Storage devices,CID_14,350,449,Wise Advanced,SID_0966,WH-MAIN,https://m.media-amazon.com/images/I/71p0Nn88kmL._AC_SL1500_.jpg
+PID_0364,Angelbird AV PRO CFexpress SE 512GB,Storage devices,CID_14,150,179,Angelbird,SID_0043,WH-MAIN,https://m.media-amazon.com/images/I/7120KGniCBL._AC_SL1500_.jpg
+PID_0365,ProGrade Digital CFexpress Type B Cobalt 325GB,Storage devices,CID_14,350,449,ProGrade Digital,SID_0709,WH-MAIN,https://m.media-amazon.com/images/I/81uitke+Y7L._AC_SL1500_.jpg
+PID_0366,Verbatim ToughMAX 64GB USB Flash Drive,Storage devices,CID_14,10,15,Verbatim,SID_0933,WH-MAIN,https://m.media-amazon.com/images/I/61-8C-A9oqL._AC_SL1500_.jpg
+PID_0367,Toshiba Canvio Advance 4TB Portable Hard Drive,Storage devices,CID_14,90,119,Toshiba Storage,SID_0888,WH-MAIN,https://m.media-amazon.com/images/I/A1wROCUtx8L._AC_SL1500_.jpg
+PID_0368,AKASO Brave 7 LE Action Camera,Computer accessories,CID_10,120,139,Akaso,SID_0019,WH-MAIN,https://m.media-amazon.com/images/I/71V52kioKGL._AC_SL1500_.jpg
+PID_0369,Zhiyun Crane M3 3-Axis Gimbal Stabilizer,Security cameras,CID_20,300,369,Zhiyun-Tech,SID_0993,WH-MAIN,https://m.media-amazon.com/images/I/71fhjwADCWL._AC_SL1500_.jpg
+PID_0370,FeiyuTech Scorp Mini Gimbal,Security cameras,CID_20,250,299,FeiyuTech,SID_0323,WH-MAIN,https://m.media-amazon.com/images/I/61GMmFaNLDL._AC_SL1500_.jpg
+PID_0371,MOZA AirCross 2 Professional Kit,Computer accessories,CID_10,350,459,Moza (Gudsen),SID_0597,WH-MAIN,https://m.media-amazon.com/images/I/71Mq2w-U7yS._AC_SL1500_.jpg
+PID_0372,PowerVision PowerEgg X Explorer Drone,Drones,CID_21,800,899,PowerVision,SID_0707,WH-MAIN,https://m.media-amazon.com/images/I/61jRqC2QCpL._AC_SL1500_.jpg
+PID_0373,Eachine EV200D FPV Goggles,Drones,CID_21,250,299,Eachine,SID_0270,WH-MAIN,https://m.media-amazon.com/images/I/61oaOEF0YvL._AC_SL1500_.jpg
+PID_0374,BETAFPV Cetus Pro FPV Drone Kit,Drones,CID_21,200,259,Betafpv,SID_0113,WH-MAIN,https://m.media-amazon.com/images/I/61tM91+F8eL._AC_SL1500_.jpg
+PID_0375,Snap Spectacles 3,Computer accessories,CID_10,350,380,Snapchat Spectacles,SID_0810,WH-MAIN,https://cdn.vox-cdn.com/thumbor/iXEl_PxMJTJ7An3JVIp4OHwEoow=/0x0:2040x1360/1920x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19367488/vpavic_191108_3783_0215.jpg
+PID_0376,Framework Laptop 13 DIY Edition,Laptops,CID_02,900,1049,Framework Computer Inc,SID_0351,WH-MAIN,https://cdn.mos.cms.futurecdn.net/fqLVS5Je9KJDMG8jTmBrHY-675-80.jpg
+PID_0377,System76 Lemur Pro Linux Laptop,Laptops,CID_02,1100,1299,System76,SID_0853,WH-MAIN,https://cdn.arstechnica.net/wp-content/uploads/2020/09/005-laptop-closed-1440x943.jpg
+PID_0378,Origin PC MILLENNIUM Desktop,Computer accessories,CID_10,2500,3000,Origin PC (Corsair),SID_0662,WH-MAIN,https://m.media-amazon.com/images/I/81sRt36LYWL._AC_SL1500_.jpg
+PID_0379,Maingear MG-1 Silver Desktop,Computer accessories,CID_10,1200,1499,Maingear,SID_0540,WH-MAIN,https://cdn.mos.cms.futurecdn.net/SAaQFMK74NLrWbhda52gKN.jpg
+PID_0380,Digital Storm Lumos Custom PC,Computer accessories,CID_10,1800,2200,Digital Storm,SID_0254,WH-MAIN,https://www.digitalstorm.com/img/products/lumos/configurator-custom.jpg
+PID_0381,Falcon Northwest Talon Desktop PC,Computer accessories,CID_10,3500,4000,Falcon Northwest,SID_0318,WH-MAIN,https://sm.pcmag.com/t/pcmag_au/review/f/falcon-nor/falcon-northwest-talon-2022_2hcd.3840.jpg
+PID_0382,CyberPowerPC Gamer Supreme Liquid Cool PC,Computer accessories,CID_10,1500,1799,CyberPowerPC,SID_0226,WH-MAIN,https://m.media-amazon.com/images/I/71jELtZLEwL._AC_SL1500_.jpg
+PID_0383,iBUYPOWER Trace MR Gaming Desktop,Computer accessories,CID_10,1100,1299,iBuyPower,SID_0432,WH-MAIN,https://m.media-amazon.com/images/I/71UuqFcWyEL._AC_SL1500_.jpg
+PID_0384,Eurocom Nightsky ARX315 Laptop,Laptops,CID_02,2200,2599,Eurocom Corporation,SID_0307,WH-MAIN,https://cdn.wccftech.com/wp-content/uploads/2021/12/m481_15.jpg
+PID_0385,Schiit Magni+ Headphone Amp,Headphones,CID_05,100,129,Schiit Audio,SID_0773,WH-MAIN,https://m.media-amazon.com/images/I/61yhKXYhrtL._AC_SL1500_.jpg
+PID_0386,Meze 109 PRO Headphones,Headphones,CID_05,700,799,Meze Audio,SID_0566,WH-MAIN,https://m.media-amazon.com/images/I/61-JKfpIRZL._AC_SL1500_.jpg
+PID_0387,Campfire Audio Trifecta Earphones,Headphones,CID_05,3000,3399,Campfire Audio,SID_0153,WH-MAIN,https://www.audiosanctuary.co.uk/images/detailed/20/audiosanctuary_campfire_trifecta_amber_3.jpg
+PID_0388,ZMF Atrium Open Back Headphones,Headphones,CID_05,2400,2699,ZMF Headphones,SID_0994,WH-MAIN,https://www.minidisc.com.au/media/catalog/product/cache/a277d955758c7f865ace1f6e2d307a85/a/t/atrium-2_1.jpg
+PID_0389,Dan Clark Audio Stealth Planar Headphones,Headphones,CID_05,3500,3999,Dan Clark Audio,SID_0231,WH-MAIN,https://www.audiosanctuary.co.uk/images/detailed/18/audiosanctuary_danclarkaudio_stealth_1.jpg
+PID_0390,ABYSS Diana TC Headphones,Headphones,CID_05,4500,4899,Abyss Headphones,SID_0007,WH-MAIN,https://cdn.head-fi.org/a/11884494.jpg
+PID_0391,Noble Audio Kublai Khan IEMs,Headphones,CID_05,2500,2799,Noble Audio,SID_0624,WH-MAIN,https://majorhifi.com/wp-content/uploads/Noble-Audio-Kublai-Khan-IEM-2-scaled.jpg
+PID_0392,Kinesis Advantage360 Split Keyboard,Keyboards,CID_12,400,459,Kinesis,SID_0488,WH-MAIN,https://m.media-amazon.com/images/I/51jEVi2sHHL._AC_SL1500_.jpg
+PID_0393,Drop + Sennheiser PC38X Gaming Headset,Headphones,CID_05,150,169,Drop,SID_0263,WH-MAIN,https://m.media-amazon.com/images/I/71whLHkw10L._AC_SL1500_.jpg
+PID_0394,Zendure SuperBase Pro 2000 Power Station,Power banks,CID_15,1800,2099,Zendure,SID_0990,WH-MAIN,https://m.media-amazon.com/images/I/51MZJie9wCL._AC_SL1500_.jpg
+PID_0395,Nimble CHAMP Portable Battery 10k,Power banks,CID_15,40,59,Nimble,SID_0621,WH-MAIN,https://m.media-amazon.com/images/I/61njybAPEZL._AC_SL1500_.jpg
+PID_0396,Omnicharge Omni 20+ Power Bank,Power banks,CID_15,200,249,Omnicharge,SID_0651,WH-MAIN,https://m.media-amazon.com/images/I/61QPNgrJeHL._AC_SL1500_.jpg
+PID_0397,Jackery Explorer 1000 Portable Power Station,Power banks,CID_15,900,1099,Jackery,SID_0465,WH-MAIN,https://m.media-amazon.com/images/I/718mw0ZrhLS._AC_SL1500_.jpg
+PID_0398,Goal Zero Yeti 1000 Core Power Station,Power banks,CID_15,800,999,Goal Zero,SID_0379,WH-MAIN,https://m.media-amazon.com/images/I/61UVY+33dLL._AC_SL1500_.jpg
+PID_0399,BLUETTI AC200MAX Expandable Power Station,Power banks,CID_15,1500,1899,Bluetti,SID_0129,WH-MAIN,https://m.media-amazon.com/images/I/71HimWEvhyL._AC_SL1500_.jpg
+PID_0400,AudioQuest Cinnamon HDMI Cable 1m,Cables,CID_17,80,99,AudioQuest,SID_0080,WH-MAIN,https://m.media-amazon.com/images/I/51W9-Qg7OaL._AC_SL1500_.jpg
+PID_0401,Blue Jeans Cable BJC LC-1 Audio Cable,Cables,CID_17,40,59,Blue Jeans Cable,SID_0128,WH-MAIN,https://m.media-amazon.com/images/I/61poS0ZPs5L._AC_SL1500_.jpg
+PID_0402,Monoprice Monolith 10 Inch THX Subwoofer,Speakers,CID_07,450,499,Monoprice,SID_0586,WH-MAIN,https://m.media-amazon.com/images/I/41VCk+EQpoL._AC_SL1500_.jpg
+PID_0403,Cable Matters Thunderbolt 4 Cable 2m,Cables,CID_17,50,69,Cable Matters,SID_0146,WH-MAIN,https://m.media-amazon.com/images/I/71OJqY+IhDL._AC_SL1500_.jpg
+PID_0404,Tilt Five Holographic Gaming System,VR headsets,CID_22,300,359,Tilt Five,SID_0882,WH-MAIN,https://img1.wsimg.com/isteam/ip/782d29b6-2377-4c6f-9205-9bcfbdbf3e66/Tilt5(7).jpeg
+PID_0405,Bigscreen Beyond VR Headset,VR headsets,CID_22,900,999,Bigscreen,SID_0117,WH-MAIN,https://m.media-amazon.com/images/I/719bevReELL._AC_SL1500_.jpg
+PID_0406,Vuzix Blade 2 Smart Glasses,VR headsets,CID_22,1200,1299,Vuzix,SID_0949,WH-MAIN,https://m.media-amazon.com/images/I/81OTnWQLkZL._AC_SL1500_.jpg
+PID_0407,Cherry MX Ultra Low Profile Switches,Computer accessories,CID_10,30,49,Cherry Americas,SID_0174,WH-MAIN,https://m.media-amazon.com/images/I/61KTMU5jZWL._AC_SL1500_.jpg
+PID_0408,Secretlab TITAN Evo Gaming Chair,Computer accessories,CID_10,500,549,Secretlab,SID_0781,WH-MAIN,https://m.media-amazon.com/images/I/41-AfqlTnQL._AC_SL1500_.jpg
+PID_0409,DXRacer Master Series Gaming Chair,Computer accessories,CID_10,450,499,DXRacer,SID_0266,WH-MAIN,https://m.media-amazon.com/images/I/513W8rbZsqL._AC_SL1500_.jpg
+PID_0410,AKRacing Masters Series Max Gaming Chair,Computer accessories,CID_10,400,469,AKRacing,SID_0021,WH-MAIN,https://m.media-amazon.com/images/I/61yzx7gBilL._AC_SL1500_.jpg
+PID_0411,Noblechairs HERO Series Gaming Chair,Computer accessories,CID_10,450,499,Noblechairs (Pro Gamersware),SID_0625,WH-MAIN,https://m.media-amazon.com/images/I/61IsLHjjcTL._AC_SL1500_.jpg
+PID_0412,Playseat Challenge Sim Racing Seat,Computer accessories,CID_10,220,249,Playseat,SID_0696,WH-MAIN,https://m.media-amazon.com/images/I/71qbbjMIMOL._AC_SL1500_.jpg
+PID_0413,Next Level Racing F-GT Lite Simulator Cockpit,Computer accessories,CID_10,280,299,Next Level Racing,SID_0617,WH-MAIN,https://m.media-amazon.com/images/I/519lqvWmkcL._AC_SL1500_.jpg
+PID_0414,Analogue Pocket Handheld System,Gaming consoles,CID_09,200,219,Analogue,SID_0042,WH-MAIN,https://m.media-amazon.com/images/I/51W-tEu1PJL._AC_SL1500_.jpg
+PID_0415,Panic Playdate Handheld Console,Gaming consoles,CID_09,180,199,Panic Inc.,SID_0673,WH-MAIN,https://m.media-amazon.com/images/I/81lq0poy+ZL._AC_SL1500_.jpg
+PID_0416,Nothing Phone (2) Smartphone,Smartphones,CID_01,600,699,Nothing Technology Ltd,SID_0632,WH-MAIN,https://m.media-amazon.com/images/I/81Rg-IHMdeL._AC_SL1500_.jpg
+PID_0417,Fairphone 5 Smart Device,Smartphones,CID_01,700,789,Fairphone B.V.,SID_0317,WH-MAIN,https://m.media-amazon.com/images/I/711DzjW3JHL._AC_SL1500_.jpg
+PID_0418,Planar PXL2790MW 27-Inch 4K Monitor,Monitors,CID_11,350,399,Planar Systems,SID_0695,WH-MAIN,https://m.media-amazon.com/images/I/A1Iqr2v1SIL._AC_SL1500_.jpg
+PID_0419,FSI DM240 Broadcast Monitor,Monitors,CID_11,4000,4200,Flanders Scientific,SID_0336,WH-MAIN,https://m.media-amazon.com/images/I/71sIoRqKniL._AC_SL1500_.jpg
+PID_0420,Boland BVB07 High Bright Monitor,Monitors,CID_11,1500,1750,Boland Monitors,SID_0131,WH-MAIN,http://www.bolandcom.com/wp-content/uploads/2015/06/BVB07DB-2017model.jpg
+PID_0421,Marshall CV503 Full HD Miniature Camera,Computer accessories,CID_10,350,399,Marshall Electronics,SID_0547,WH-MAIN,https://m.media-amazon.com/images/I/61rF0jGyz4L._AC_SL1500_.jpg
+PID_0422,Atomos Ninja V 5-Inch Monitor Recorder,Monitors,CID_11,380,499,Atomos,SID_0076,WH-MAIN,https://m.media-amazon.com/images/I/61b12z2RAXL._AC_SL1500_.jpg
+PID_0423,Viotek GNV34DBE 34-Inch Curved UWQHD,Monitors,CID_11,300,349,Viotek,SID_0939,WH-MAIN,https://m.media-amazon.com/images/I/61hL7XOp1uL._AC_SL1500_.jpg
+PID_0424,Pixio PX277 Pro Gaming Monitor,Monitors,CID_11,280,319,Pixio,SID_0694,WH-MAIN,https://m.media-amazon.com/images/I/81CD4f04LPL._AC_SL1500_.jpg
+PID_0425,AOC CQ27G2 27-inch Curved Monitor,Monitors,CID_11,200,249,AOC (TPV),SID_0048,WH-MAIN,https://m.media-amazon.com/images/I/71BvlDIn+nL._AC_SL1500_.jpg
+PID_0426,Zalman S2 ATX Mid Tower Case,Computer accessories,CID_10,50,69,Zalman,SID_0988,WH-MAIN,https://m.media-amazon.com/images/I/71qFsnZNWzL._AC_SL1500_.jpg
+PID_0427,Rosewill Cullinan V500 ATX Case,Computer accessories,CID_10,100,139,Rosewill,SID_0753,WH-MAIN,https://m.media-amazon.com/images/I/71Sfal4MK7L._AC_SL1500_.jpg
+PID_0428,PowerColor Red Devil RX 7800 XT,Computer accessories,CID_10,500,549,PowerColor (TUL),SID_0706,WH-MAIN,https://m.media-amazon.com/images/I/81my7QEJ8dL._AC_SL1500_.jpg
+PID_0429,XFX Speedster MERC310 RX 7900 XT,Computer accessories,CID_10,800,899,XFX (Pine),SID_0977,WH-MAIN,https://m.media-amazon.com/images/I/71vGm7dSHoL._AC_SL1500_.jpg
+PID_0430,GALAX GeForce RTX 4070 EX Gamer,Computer accessories,CID_10,600,649,Galax,SID_0360,WH-MAIN,https://m.media-amazon.com/images/I/81FyWeI-qpL._AC_SL1500_.jpg
+PID_0431,Gainward Phantom RTX 4090,Computer accessories,CID_10,1600,1899,Gainward (Palit Group),SID_0359,WH-MAIN,https://m.media-amazon.com/images/I/71kXAsE+cfL._AC_SL1500_.jpg
+PID_0432,Inno3D iCHILL X3 RTX 4080,Computer accessories,CID_10,1100,1299,Inno3D (InnoVISION),SID_0445,WH-MAIN,https://m.media-amazon.com/images/I/61U5PsxHroL._AC_SL1500_.jpg
+PID_0433,Colorful iGame RTX 4070 Ti Vulcan,Computer accessories,CID_10,850,949,Colorful Technology,SID_0193,WH-MAIN,https://m.media-amazon.com/images/I/61KFTgdcnGL._AC_SL1500_.jpg
+PID_0434,Bitmain Antminer S19 Pro,Computer accessories,CID_10,4000,4500,Bitmain Technologies,SID_0119,WH-MAIN,https://m.media-amazon.com/images/I/61DUyouezEL._AC_SL1500_.jpg
+PID_0435,Leadtek WinFast RTX 4060 Ti Hurricane,Computer accessories,CID_10,400,449,Leadtek Research Inc.,SID_0508,WH-MAIN,https://www.ultratech.com.bd/image/cache/catalog/products_2023/leadtek-winfast-rtx-4060-ti-hurricane-8gb-graphics-card-2-1000x1000.jpg
+PID_0436,BitFenix Nova Mesh SE TG Case,Computer accessories,CID_10,60,79,BitFenix Co.,SID_0118,WH-MAIN,https://m.media-amazon.com/images/I/71sRYl5fsxL._AC_SL1500_.jpg
+PID_0437,Wyze Cam Pan v3,Security cameras,CID_20,30,39,Wyze Labs Inc.,SID_0974,WH-MAIN,https://m.media-amazon.com/images/I/61zQmZVmeKL._AC_SL1500_.jpg
+PID_0438,Aqara Camera Hub G3,Security cameras,CID_20,90,109,Aqara (Lumi United),SID_0057,WH-MAIN,https://www.aqara-shop.co.uk/wp-content/uploads/2023/03/camdera-hub-g3-2.jpg
+PID_0439,SwitchBot Curtain Rod 2,Smart home devices,CID_18,80,99,SwitchBot (Woan Tech),SID_0846,WH-MAIN,https://m.media-amazon.com/images/I/51x8Mf-I6IL._AC_SL1500_.jpg
+PID_0440,Holy Stone HS720E GPS Drone,Drones,CID_21,250,299,Holy Stone,SID_0413,WH-MAIN,https://m.media-amazon.com/images/I/61vufzhhQ6L._AC_SL1500_.jpg
+PID_0441,Potensic ATOM 3-Axis Gimbal 4K Drone,Security cameras,CID_20,280,319,Potensic (Deepsea Excellence),SID_0704,WH-MAIN,https://m.media-amazon.com/images/I/61jRqC2QCpL._AC_SL1500_.jpg
+PID_0442,Ryze Tello Mini Drone,Drones,CID_21,80,99,Ryze Robotics,SID_0758,WH-MAIN,https://m.media-amazon.com/images/I/51NzAVgj2EL._AC_SL1500_.jpg
+PID_0443,FIMI X8 SE 2022 V2 Drone,Drones,CID_21,450,499,FIMI Technology (Xiaomi),SID_0331,WH-MAIN,https://m.media-amazon.com/images/I/61IWrMgPWbL._AC_SL1500_.jpg
+PID_0444,INNOCN 27C1U 4K Monitor,Monitors,CID_11,250,299,Innocn (Century Joint),SID_0446,WH-MAIN,https://m.media-amazon.com/images/I/614ffbKYBfL._AC_SL1500_.jpg
+PID_0445,KTC M27T20 Mini-LED Monitor,Monitors,CID_11,450,499,KTC (Kangguan Technology),SID_0501,WH-MAIN,https://m.media-amazon.com/images/I/61WXcesztyL._AC_SL1500_.jpg
+PID_0446,Nextorage NEM-PA 2TB PS5 SSD,Storage devices,CID_14,140,169,Nextorage Corporation,SID_0619,WH-MAIN,https://m.media-amazon.com/images/I/61lBwvgxQ2L._AC_SL1500_.jpg
+PID_0447,Exascend Nitro CFexpress Type B 512GB,Storage devices,CID_14,400,499,Exascend Inc.,SID_0310,WH-MAIN,https://m.media-amazon.com/images/I/81BVMTOlC-L._AC_SL1500_.jpg
+PID_0448,Innodisk SATADOM-MV 3ME4 128GB,Storage devices,CID_14,100,129,Innodisk Corporation,SID_0447,WH-MAIN,https://m.media-amazon.com/images/I/41ToV871FLL._AC_SL1500_.jpg
+PID_0449,Apacer AS340 Panther 480GB SSD,Storage devices,CID_14,30,45,Apacer Technology,SID_0051,WH-MAIN,https://m.media-amazon.com/images/I/815xH+CWqkL._AC_SL1500_.jpg
+PID_0450,EarFun Air Pro 3 Wireless Earbuds,Earbuds,CID_06,60,79,EarFun Technology,SID_0271,WH-MAIN,https://m.media-amazon.com/images/I/51NJT9k3TkL._AC_SL1500_.jpg
+PID_0451,DOSS SoundBox Touch Portable Speaker,Speakers,CID_07,30,39,DOSS Audio,SID_0259,WH-MAIN,https://m.media-amazon.com/images/I/71QIESVX4jL._AC_SL1500_.jpg
+PID_0452,Libratone TRACK Air+ Wireless Earbuds,Earbuds,CID_06,180,199,Libratone A/S,SID_0519,WH-MAIN,https://cdn.mos.cms.futurecdn.net/q5mvXEFTrcbduJhRjR6ezm-1200-80.jpg
+PID_0453,Devialet Phantom I 103 dB Speaker,Speakers,CID_07,2200,2400,Devialet SA,SID_0250,WH-MAIN,https://images.squarespace-cdn.com/content/v1/5e9ae6aefbbac82692909731/1613310686001-LFO13PDPNUA2YUA5YY56/Phantom_103_dB_-_White_matte___STEREO_2400x750.png
+PID_0454,Ruark Audio R410 Integrated Music System,Speakers,CID_07,1300,1499,Ruark Audio,SID_0757,WH-MAIN,https://m.media-amazon.com/images/I/71EEVTunKSL._AC_SL1500_.jpg
+PID_0455,Audio Pro C10 MkII Multiroom Speaker,Speakers,CID_07,400,449,Audio Pro AB,SID_0078,WH-MAIN,https://m.media-amazon.com/images/I/71-rLelSB3L._AC_SL1500_.jpg
+PID_0456,Vifa Oslo Bluetooth Speaker,Speakers,CID_07,500,549,Vifa (Guangzhou Vifa),SID_0938,WH-MAIN,https://m.media-amazon.com/images/I/81aCIx51viL._AC_SL1500_.jpg
+PID_0457,Tapo C210 Pan/Tilt Security Camera,Security cameras,CID_20,30,39,Tapo (TP-Link),SID_0859,WH-MAIN,https://m.media-amazon.com/images/I/61qRnATTTJL._AC_SL1500_.jpg
+PID_0458,Blue by ADT Indoor Camera,Security cameras,CID_20,150,199,Blue by ADT,SID_0127,WH-MAIN,https://m.media-amazon.com/images/I/61Tf0TEzgoL._AC_SL1500_.jpg
+PID_0459,8BitDo Ultimate Bluetooth Controller,Computer accessories,CID_10,60,69,8BitDo (Shenzhen),SID_0003,WH-MAIN,https://m.media-amazon.com/images/I/51CY9cBKwRL._AC_SL1500_.jpg
+PID_0460,PDP REMATCH Wired Controller Switch,Gaming consoles,CID_09,25,29,PDP (Performance Designed),SID_0679,WH-MAIN,https://m.media-amazon.com/images/I/61jXbxBjyLL._AC_SL1500_.jpg
+PID_0461,SCUF Instinct Pro Xbox Controller,Gaming consoles,CID_09,200,229,Scuf Gaming (Corsair),SID_0776,WH-MAIN,https://m.media-amazon.com/images/I/710wtuzSPZL._AC_SL1500_.jpg
+PID_0462,KontrolFreek FPS Freek Galaxy,Computer accessories,CID_10,15,19,KontrolFreek (SteelSeries),SID_0499,WH-MAIN,https://m.media-amazon.com/images/I/71YpfentY1L._AC_SL1500_.jpg
+PID_0463,SteelSeries Apex Pro TKL Keyboard,Keyboards,CID_12,180,199,SteelSeries ApS,SID_0833,WH-MAIN,https://m.media-amazon.com/images/I/811-0kItnvL._AC_SL1500_.jpg
+PID_0464,Moondrop Blessing 3 In-Ear Monitors,Earbuds,CID_06,300,319,Moondrop Lab,SID_0589,WH-MAIN,https://m.media-amazon.com/images/I/61KBHRMn8ZL._AC_SL1500_.jpg
+PID_0465,Linsoul KZ ZS10 Pro IEMs,Earbuds,CID_06,40,49,Linsoul Audio,SID_0525,WH-MAIN,https://m.media-amazon.com/images/I/61-0DcVDsmL._AC_SL1500_.jpg
+PID_0466,TRUTHEAR x Crinacle ZERO IEMs,Earbuds,CID_06,45,54,Truthear,SID_0904,WH-MAIN,https://m.media-amazon.com/images/I/61zhlZr74YL._AC_SL1500_.jpg
+PID_0467,Tanchjim Oxygen In-Ear Monitors,Earbuds,CID_06,250,279,Tanchjim,SID_0858,WH-MAIN,https://m.media-amazon.com/images/I/61WyGgv3tVL._AC_SL1500_.jpg
+PID_0468,KZ ZEX Pro Electrostatic IEMs,Earbuds,CID_06,35,42,Knowledge Zenith (KZ),SID_0494,WH-MAIN,https://m.media-amazon.com/images/I/71tPKMHD3AL._AC_SL1500_.jpg
+PID_0469,STAX SR-L700MK2 Earspeaker,Headphones,CID_05,1500,1699,Stax Ltd.,SID_0831,WH-MAIN,https://m.media-amazon.com/images/I/71RMrxTz7cL._AC_SL1500_.jpg
+PID_0470,Amazfit GTR 4 Smart Watch,Smartwatches,CID_04,180,199,Zepp Health (Amazfit),SID_0991,WH-MAIN,https://m.media-amazon.com/images/I/61ACOwvUwSL._AC_SL1500_.jpg
+PID_0471,COROS PACE 3 GPS Sport Watch,Smartwatches,CID_04,220,249,Coros Wearables Inc.,SID_0208,WH-MAIN,https://m.media-amazon.com/images/I/61HE8zhwT7L._AC_SL1500_.jpg
+PID_0472,Movado Connect 2.0 Smartwatch,Smartwatches,CID_04,450,495,Movado Group Inc.,SID_0596,WH-MAIN,https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6393/6393463_sd.jpg
+PID_0473,Vortex Poker 3 Mechanical Keyboard,Keyboards,CID_12,120,139,Vortexgear,SID_0946,WH-MAIN,https://m.media-amazon.com/images/I/71rhCWJdf-L._AC_SL1500_.jpg
+PID_0474,Mistel Barocco MD770 Split Keyboard,Keyboards,CID_12,150,169,Mistel Keyboard,SID_0576,WH-MAIN,https://m.media-amazon.com/images/I/61TWRqkKocL._AC_SL1500_.jpg
+PID_0475,Wooting 60HE Analog Keyboard,Keyboards,CID_12,170,189,Wooting (Wooting B.V.),SID_0970,WH-MAIN,https://m.media-amazon.com/images/I/71sel8PrUJL._AC_SL1500_.jpg
+PID_0476,NuPhy Air75 Low-Profile Keyboard,Keyboards,CID_12,110,129,NuPhy Studio,SID_0640,WH-MAIN,https://m.media-amazon.com/images/I/61zS4S1wMiL._AC_SL1500_.jpg
+PID_0477,Pimax Crystal VR Headset,VR headsets,CID_22,1500,1599,Pimax Technology,SID_0691,WH-MAIN,https://m.media-amazon.com/images/I/41O9Rjb3UKL._AC_SL1500_.jpg
+PID_0478,XREAL Air 2 AR Glasses,Computer accessories,CID_10,380,399,XREAL (Nreal),SID_0981,WH-MAIN,https://m.media-amazon.com/images/I/51ye22RVvYL._AC_SL1500_.jpg
+PID_0479,Ultraleap Leap Motion Controller 2,Computer accessories,CID_10,120,139,Ultraleap Ltd.,SID_0916,WH-MAIN,https://m.media-amazon.com/images/I/31mFdQ0h3BL._AC_SL1500_.jpg
+PID_0480,Lynx R-1 Mixed Reality Headset,VR headsets,CID_22,800,849,Lynx Mixed Reality,SID_0537,WH-MAIN,https://arvrtips.com/wp-content/uploads/2021/10/lynx-r1-headset-promo-shot.png
+PID_0481,RealWear Navigator 500 Headset,Computer accessories,CID_10,2500,2700,RealWear Inc.,SID_0731,WH-MAIN,https://m.media-amazon.com/images/I/418suUit1ML._AC_SL1500_.jpg
+PID_0482,bHaptics TactSuit X40 VR Vest,VR headsets,CID_22,500,529,bhaptics Inc.,SID_0115,WH-MAIN,https://m.media-amazon.com/images/I/61epDrBN28S._AC_SL1500_.jpg
+PID_0483,Hubitat Elevation C-8 Smart Hub,Smart home devices,CID_18,120,149,Hubitat Inc.,SID_0424,WH-MAIN,https://m.media-amazon.com/images/I/61ZOrdDD1nL._AC_SL1500_.jpg
+PID_0484,Homey Pro Smart Home Hub,Smart home devices,CID_18,380,399,Athom (Homey),SID_0074,WH-MAIN,https://m.media-amazon.com/images/I/51RV8YSyJyL._AC_SL1500_.jpg
+PID_0485,Shelly RGBW2 Smart Wi-Fi Switch,Smart home devices,CID_18,20,25,Shelly (Allterco Robotics),SID_0791,WH-MAIN,https://m.media-amazon.com/images/I/818EXi-dL0L._AC_SL1500_.jpg
+PID_0486,Nuki Smart Lock 3.0 Pro,Smart home devices,CID_18,280,329,Nuki Home Solutions,SID_0639,WH-MAIN,https://m.media-amazon.com/images/I/515S3h5k55L._AC_SL1500_.jpg
+PID_0487,Tedee GO Smart Lock,Smart home devices,CID_18,220,250,Tedee Sp. z o.o.,SID_0867,WH-MAIN,https://m.media-amazon.com/images/I/71F+DoXLLUL._AC_SL1500_.jpg
+PID_0488,Loxone Miniserver Home Automation,Smart home devices,CID_18,600,699,Loxone Electronics,SID_0533,WH-MAIN,https://m.media-amazon.com/images/I/91QLOlYjDNL._AC_SL1500_.jpg
+PID_0489,Level Lock+ Smart Lock with Apple Keys,Smart home devices,CID_18,300,329,Level Home Inc.,SID_0512,WH-MAIN,https://m.media-amazon.com/images/I/71-b0cWGWlL._AC_SL1500_.jpg
+PID_0490,CableMod PRO ModMesh Cable Extension Kit,Cables,CID_17,40,59,CableMod (Screaming Cloud),SID_0147,WH-MAIN,https://m.media-amazon.com/images/I/61tL5uldVRL._AC_SL1500_.jpg
+PID_0491,Zeskit Maya 8K 48Gbps HDMI Cable,Cables,CID_17,20,25,Zeskit,SID_0992,WH-MAIN,https://m.media-amazon.com/images/I/714nkgfJlPL._AC_SL1500_.jpg
+PID_0492,Silkland 8K DisplayPort 1.4 Cable,Cables,CID_17,15,20,Silkland,SID_0798,WH-MAIN,https://m.media-amazon.com/images/I/71-MX88MCrL._AC_SL1500_.jpg
+PID_0493,iVANKY 12-in-1 Dual Monitor Dock,Monitors,CID_11,120,149,Ivanky,SID_0462,WH-MAIN,https://m.media-amazon.com/images/I/61aGB9HfjEL._AC_SL1500_.jpg
+PID_0494,Syncwire Magnetic Wireless Car Charger,Chargers,CID_16,30,39,Syncwire,SID_0848,WH-MAIN,https://m.media-amazon.com/images/I/71f3-prR94L._AC_SL1500_.jpg
+PID_0495,VAXEE Outset AX Wireless Mouse,Mice,CID_13,120,139,Vaxee (Taipei),SID_0931,WH-MAIN,https://m.media-amazon.com/images/I/314nsO-tEZL._AC_SL1500_.jpg
+PID_0496,Lamzu Atlantis Mini 4K Wireless Mouse,Mice,CID_13,100,109,Lamzu,SID_0505,WH-MAIN,https://m.media-amazon.com/images/I/614fXsjOz1L._AC_SL1500_.jpg
+PID_0497,Ninjutso Sora V2 Wireless Mouse,Mice,CID_13,100,119,Ninjutso,SID_0622,WH-MAIN,https://m.media-amazon.com/images/I/31Xz82Fzg7L._AC_SL1500_.jpg
+PID_0498,Lethal Gaming Gear Saturn Pro Mousepad,Mice,CID_13,45,59,Lethal Gaming Gear,SID_0511,WH-MAIN,https://m.media-amazon.com/images/I/71xyWM+TDzL._AC_SL1500_.jpg
+PID_0499,Endgame Gear XM2we Wireless Mouse,Mice,CID_13,80,99,Endgame Gear,SID_0290,WH-MAIN,https://m.media-amazon.com/images/I/51bc6WTIp3L._AC_SL1500_.jpg
+PID_0500,Pulsar X2V2 Wireless Gaming Mouse,Mice,CID_13,90,109,Pulsar Gaming Gear,SID_0717,WH-MAIN,https://m.media-amazon.com/images/I/51142H3ylVL._AC_SL1500_.jpg

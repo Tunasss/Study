@@ -1,0 +1,23 @@
+category_id,category
+CID_01,Smartphones
+CID_02,Laptops
+CID_03,Tablets
+CID_04,Smartwatches
+CID_05,Headphones
+CID_06,Earbuds
+CID_07,Speakers
+CID_08,Gaming laptops
+CID_09,Gaming consoles
+CID_10,Computer accessories
+CID_11,Monitors
+CID_12,Keyboards
+CID_13,Mice
+CID_14,Storage devices
+CID_15,Power banks
+CID_16,Chargers
+CID_17,Cables
+CID_18,Smart home devices
+CID_19,Routers
+CID_20,Security cameras
+CID_21,Drones
+CID_22,VR headsets

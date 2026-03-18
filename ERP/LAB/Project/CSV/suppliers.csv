@@ -1,0 +1,1001 @@
+supplier_id,supplier_name,email,address,country,country_id,website,opening_balance
+SID_0001,1MORE Technology,support@1moreusa.com,"10225 Barnes Canyon Road, Suite A202, San Diego, CA 92121",USA,US,https://usa.1more.com,0
+SID_0002,3M Co,contact@3mco.com,"3M Center, St Paul, Mn",USA,US,https://www.3mco.com,0
+SID_0003,8BitDo (Shenzhen),support@8bitdo.com,"Room 213, Building 4, Huafeng Smart Innovation Park, Bao'an",China,CN,https://www.8bitdo.com,0
+SID_0004,Abbott Laboratories,contact@abbottlaboratories.com,"100 Abbott Park Road, Abbott Park, Il",USA,US,https://www.abbottlaboratories.com,0
+SID_0005,Abbvie Inc.,contact@abbvieinc.com,"1 North Waukegan Road, North Chicago, Il",USA,US,https://www.abbvieinc.com,0
+SID_0006,Abode Systems,support@goabode.com,"P.O. Box 111453, Campbell, CA 95011",USA,US,https://goabode.com,0
+SID_0007,Abyss Headphones,support@abyss-headphones.com,"10 Timber Ln, Marlboro, NJ 07746",USA,US,https://abyss-headphones.com,0
+SID_0008,Accenture Plc,contact@accentureplc.com,"1 Grand Canal Square, Dublin, Ireland",Ireland,IE,https://www.accentureplc.com,0
+SID_0009,Acer Inc.,info@acer.com,"8F, 88, Sec. 1, Xintai 5th Rd., Xizhi, New Taipei City",Taiwan,TW,https://www.acer.com,0
+SID_0010,ADATA Technology,sales@adata.com,"2F., No. 258, Liancheng Rd., Zhonghe Dist., New Taipei",Taiwan,TW,https://www.adata.com,0
+SID_0011,Adobe Inc.,contact@adobeinc.com,"345 Park Ave, San Jose, Ca",USA,US,https://www.adobeinc.com,0
+SID_0012,Adobe Systems,support@adobe.com,"345 Park Avenue, San Jose, CA 95110",USA,US,https://www.adobe.com,0
+SID_0013,Advanced Micro Devices Inc,contact@advancedmicrodevicesinc.com,"2485 Augustine Drive, Santa Clara, Ca",USA,US,https://www.advancedmicrodevicesinc.com,0
+SID_0014,Advantest Corp,contact@advantestcorp.com,"Shin-Marunouchi Center Building, Chiyoda-Ku, Tokyo 100-0005, Japan",Japan,JP,https://www.advantestcorp.com,0
+SID_0015,Aflac Inc,contact@aflacinc.com,"1932 Wynnton Rd, Columbus, Ga",USA,US,https://www.aflacinc.com,0
+SID_0016,Agnico Eagle Mines Ltd,contact@agnicoeagleminesltd.com,"145 King Street East, Toronto, Ontario, Canada",Canada,CA,https://www.agnicoeagleminesltd.com,0
+SID_0017,"Air Products & Chemicals, Inc.",contact@airproductschemicalsinc.com,"1940 Air Products Blvd., Allentown, Pa",USA,US,https://www.airproductschemicalsinc.com,0
+SID_0018,"Airbnb, Inc.",contact@airbnbinc.com,"888 Brannan St., San Francisco, Ca",USA,US,https://www.airbnbinc.com,0
+SID_0019,Akaso,support@akasotech.com,"Frederick St, Frederick, MD",USA,US,https://www.akasotech.com,0
+SID_0020,Akko,support@akkogear.com,"Building 1, Yuchuangyuan, Shenzhen",China,CN,https://en.akkogear.com,0
+SID_0021,AKRacing,support@akracing.com,"300 East Esplanade Dr, Suite 900, Oxnard, CA 93036",USA,US,https://www.akracing.com,0
+SID_0022,Alcon Inc,contact@alconinc.com,"6201 South Freeway, Fort Worth, Tx",USA,US,https://www.alconinc.com,0
+SID_0023,Allstate Corp,contact@allstatecorp.com,"3100 Sanders Road, Northbrook, Il",USA,US,https://www.allstatecorp.com,0
+SID_0024,"Alnylam Pharmaceuticals, Inc.",contact@alnylampharmaceuticalsinc.com,"675 West Kendall Street, Cambridge, Ma",USA,US,https://www.alnylampharmaceuticalsinc.com,0
+SID_0025,Alphabet Inc.,contact@alphabetinc.com,"1600 Amphitheatre Parkway, Mountain View, Ca",USA,US,https://www.alphabetinc.com,0
+SID_0026,"Altria Group, Inc.",contact@altriagroupinc.com,"6601 West Broad Street, Richmond, Va",USA,US,https://www.altriagroupinc.com,0
+SID_0027,Amazfit (Zepp Health),support@amazfit.com,"12/F, Building B2, Zhongguancun Software Park",China,CN,https://www.amazfit.com,0
+SID_0028,Amazon Com Inc,contact@amazoncominc.com,"410 Terry Avenue North, Seattle, Wa",USA,US,https://www.amazoncominc.com,0
+SID_0029,Amcrest Industries,support@amcrest.com,"16727 Park Row Dr, Houston, TX 77084",USA,US,https://amcrest.com,0
+SID_0030,AMD,support@amd.com,"2485 Augustine Drive, Santa Clara, CA 95054",USA,US,https://www.amd.com,0
+SID_0031,American Electric Power Co Inc,contact@americanelectricpowercoinc.com,"1 Riverside Plaza, Columbus, Oh",USA,US,https://www.americanelectricpowercoinc.com,0
+SID_0032,American Express Co,contact@americanexpressco.com,"200 Vesey Street, New York, Ny",USA,US,https://www.americanexpressco.com,0
+SID_0033,"American International Group, Inc.",contact@americaninternationalgroupinc.com,"1271 Ave Of The Americas, New York, Ny",USA,US,https://www.americaninternationalgroupinc.com,0
+SID_0034,American Tower Corp /Ma/,contact@americantowercorpma.com,"222 Berkeley Street, Boston, Ma",USA,US,https://www.americantowercorpma.com,0
+SID_0035,Ameriprise Financial Inc,contact@ameriprisefinancialinc.com,"1099 Ameriprise Financial Center, Minneapolis, Mn",USA,US,https://www.ameriprisefinancialinc.com,0
+SID_0036,Ametek Inc/,contact@ametekinc.com,"1100 Cassatt Road, Berwyn, Pa",USA,US,https://www.ametekinc.com,0
+SID_0037,Amgen Inc,contact@amgeninc.com,"One Amgen Center Drive, Thousand Oaks, Ca",USA,US,https://www.amgeninc.com,0
+SID_0038,Amphenol,info@amphenol.com,"358 Hall Avenue, Wallingford, CT 06492",USA,US,https://www.amphenol.com,0
+SID_0039,Amphenol Corp /De/,contact@amphenolcorpde.com,"358 Hall Ave, Wallingford, Ct",USA,US,https://www.amphenolcorpde.com,0
+SID_0040,Analog Devices,support@analog.com,"One Analog Way, Wilmington, MA 01887",USA,US,https://www.analog.com,0
+SID_0041,Analog Devices Inc,contact@analogdevicesinc.com,"One Analog Way, Wilmington, Ma",USA,US,https://www.analogdevicesinc.com,0
+SID_0042,Analogue,support@analogue.co,"1634 11th Ave, Seattle, WA 98122",USA,US,https://www.analogue.co,0
+SID_0043,Angelbird,support@angelbird.com,"Lustenau, Vorarlberg",Austria,AT,https://www.angelbird.com,0
+SID_0044,Anker Innovations,support@anker.com,"Room 1318-19, Hollywood Plaza, 610 Nathan Road, Mongkok",Hong Kong,HK,https://www.anker.com,0
+SID_0045,Ansys,support@ansys.com,"2600 Ansys Drive, Canonsburg, PA 15317",USA,US,https://www.ansys.com,0
+SID_0046,Antec Inc.,support@antec.com,"47600 Kato Rd, Fremont, CA 94538",USA,US,https://www.antec.com,0
+SID_0047,AOC (TPV Technology),support@aoc.com,"10F, No. 230, Liancheng Rd., Zhonghe, New Taipei",Taiwan,TW,https://www.aoc.com,0
+SID_0048,AOC (TPV),support@aoc.com,"10F, No. 230, Liancheng Rd, Zhonghe Dist, New Taipei City 23553",Taiwan,TW,https://aoc.com,0
+SID_0049,AOHI (Aocheng),support@iaohi.com,"Shenzhen Aocheng Technology, 14F, Central Business Tower, Shenzhen",China,CN,https://iaohi.com,0
+SID_0050,Aon Plc,contact@aonplc.com,"15 Georges Quay, Dublin 2, Ireland",Ireland,IE,https://www.aonplc.com,0
+SID_0051,Apacer Technology,support@apacer.com,"1F., No. 32, Zhonghua Rd., Tu-Cheng Dist., New Taipei City 236",Taiwan,TW,https://www.apacer.com,0
+SID_0052,APC (Schneider),support@apc.com,"132 Fairgrounds Rd, West Kingston, RI",USA,US,https://www.apc.com,0
+SID_0053,"Apollo Global Management, Inc.",contact@apolloglobalmanagementinc.com,"9 West 57Th Street, 42Nd Floor, New York, Ny",USA,US,https://www.apolloglobalmanagementinc.com,0
+SID_0054,Apple Inc.,contactus.uk@euro.apple.com,"One Apple Park Way, Cupertino, CA 95014",USA,US,https://www.apple.com,0
+SID_0055,Applied Materials Inc /De,contact@appliedmaterialsincde.com,"3050 Bowers Ave, Santa Clara, Ca",USA,US,https://www.appliedmaterialsincde.com,0
+SID_0056,Applovin Corp,contact@applovincorp.com,"1100 Page Mill Rd, Palo Alto, Ca",USA,US,https://www.applovincorp.com,0
+SID_0057,Aqara (Lumi United),support@aqara.com,"8th Floor, Jinqi Wisdom Valley, No. 1 Tangling Rd., Nanshan",China,CN,https://www.aqara.com,0
+SID_0058,Arcelormittal,contact@arcelormittal.com,"24-26, Boulevard D?Avranches, Grand Duchy Of Luxembourg, Luxembourg",USA,US,https://www.arcelormittal.com,0
+SID_0059,Arch Capital Group Ltd.,contact@archcapitalgroupltd.com,"Waterloo House, Ground Floor, Pembroke, Bermuda",USA,US,https://www.archcapitalgroupltd.com,0
+SID_0060,Archer-Daniels-Midland Co,contact@archerdanielsmidlandco.com,"77 W. Wacker Dr., Chicago, Il",USA,US,https://www.archerdanielsmidlandco.com,0
+SID_0061,Arctic GmbH,support@arctic.de,"Beijerstane 2, 21244 Buchholz",Germany,DE,https://www.arctic.de,0
+SID_0062,Ares Management Corp,contact@aresmanagementcorp.com,"1800 Ave Of The Stars, Los Angeles, Ca",USA,US,https://www.aresmanagementcorp.com,0
+SID_0063,Arista Networks,support@arista.com,"5453 Great America Parkway, Santa Clara, CA 95054",USA,US,https://www.arista.com,0
+SID_0064,"Arista Networks, Inc.",contact@aristanetworksinc.com,"5453 Great America Parkway, Santa Clara, Ca",USA,US,https://www.aristanetworksinc.com,0
+SID_0065,Arlo Technologies,support@arlo.com,"2200 Faraday Ave. Suite 150, Carlsbad, CA 92008",USA,US,https://www.arlo.com,0
+SID_0066,Arm Holdings Plc /Uk,contact@armholdingsplcuk.com,"110 Fulbourn Road, Cambridge, United Kingdom",United Kingdom,GB,https://www.armholdingsplcuk.com,0
+SID_0067,Arm Ltd,support@arm.com,"110 Fulbourn Road, Cambridge CB1 9NJ",United Kingdom,GB,https://www.arm.com,0
+SID_0068,Arthur J. Gallagher & Co.,contact@arthurjgallagherco.com,"2850 Golf Road, Rolling Meadows, Il",USA,US,https://www.arthurjgallagherco.com,0
+SID_0069,Asml Holding Nv,contact@asmlholdingnv.com,"De Run 6501, Dr Veldhoven, Netherlands",USA,US,https://www.asmlholdingnv.com,0
+SID_0070,"Ast Spacemobile, Inc.",contact@astspacemobileinc.com,"Midland Intl. Air & Space Port, Midland, Tx",USA,US,https://www.astspacemobileinc.com,0
+SID_0071,Astells & Kern (Dreamus),support@astellnkern.com,"311, Gangnam-daero, Seocho-gu, Seoul",South Korea,KR,https://www.astellnkern.com,0
+SID_0072,ASUS (ASUSTeK),support@asus.com,"15 Li-Te Road, Peitou, Taipei 11259",Taiwan,TW,https://www.asus.com,0
+SID_0073,At&T Inc.,contact@attinc.com,"208 S. Akard St, Dallas, Tx",USA,US,https://www.attinc.com,0
+SID_0074,Athom (Homey),support@homey.app,"Rigtersbleek-Zandvoort 10, 7521 BE Enschede",Netherlands,NL,https://homey.app,0
+SID_0075,Atlassian,support@atlassian.com,"350 Bush Street, Floor 13, San Francisco, CA 94104",USA,US,https://www.atlassian.com,0
+SID_0076,Atomos,support@atomos.com,"33-41 Balmain St, Cremorne VIC 3121",Australia,AU,https://www.atomos.com,0
+SID_0077,Audeze,support@audeze.com,"3412 S. Susan St, Santa Ana, CA 92704",USA,US,https://www.audeze.com,0
+SID_0078,Audio Pro AB,support@audiopro.com,"Garnisonsgatan 52, 254 66 Helsingborg",Sweden,SE,https://www.audiopro.com,0
+SID_0079,Audio-Technica,support@atus.com,"1221 Commerce Drive, Stow, OH 44224",USA,US,https://www.audio-technica.com,0
+SID_0080,AudioQuest,support@audioquest.com,"2621 White Rd, Irvine, CA 92614",USA,US,https://www.audioquest.com,0
+SID_0081,August Home,support@august.com,"665 3rd St, Suite 150, San Francisco, CA 94107",USA,US,https://august.com,0
+SID_0082,Aukey,support@aukey.com,"102-B, Building P09, South China City, Shenzhen",China,CN,https://www.aukey.com,0
+SID_0083,Austrian Audio GmbH,support@austrian.audio,"Eitnergasse 15, 1230 Wien",Austria,AT,https://austrian.audio,0
+SID_0084,Autel Robotics,support@autelrobotics.com,"22522 29th Dr SE Ste 101, Bothell, WA 98021",USA,US,https://www.autelrobotics.com,0
+SID_0085,Autodesk,support@autodesk.com,"One Market St, Ste 400, San Francisco, CA 94105",USA,US,https://www.autodesk.com,0
+SID_0086,"Autodesk, Inc.",contact@autodeskinc.com,"One Market, Ste. 400., San Francisco, Ca",USA,US,https://www.autodeskinc.com,0
+SID_0087,Automatic Data Processing Inc,contact@automaticdataprocessinginc.com,"One Adp Boulvard, Roseland, Nj",USA,US,https://www.automaticdataprocessinginc.com,0
+SID_0088,Autozone Inc,contact@autozoneinc.com,"123 South Front St, Memphis, Tn",USA,US,https://www.autozoneinc.com,0
+SID_0089,AVM FRITZ!,support@avm.de,"Alt-Moabit 95, 10559 Berlin",Germany,DE,https://en.avm.de,0
+SID_0090,Axis Communications,info@axis.com,"Emdalavägen 14, 223 69 Lund",Sweden,SE,https://www.axis.com,0
+SID_0091,"Axon Enterprise, Inc.",contact@axonenterpriseinc.com,"17800 N. 85Th St., Scottsdale, Az",USA,US,https://www.axonenterpriseinc.com,0
+SID_0092,AYANEO,support@ayaneo.com,"Building 2, No. 1, No. 10 South Olympic Science & Technology Park, Haidian",China,CN,https://www.ayaneo.com,0
+SID_0093,Ayn Technologies,support@ayn.hk,"Room 402, Building 3, Silver Star Hi-tech Park, Longhua, Shenzhen",USA,US,https://www.ayn.hk,0
+SID_0094,Bae Systems Plc /Fi/,contact@baesystemsplcfi.com,"6 Carlton Gardens, London, United Kingdom",United Kingdom,GB,https://www.baesystemsplcfi.com,0
+SID_0095,Baker Hughes Co,contact@bakerhughesco.com,"575 North Dairy Ashford Road, Suite 100, Houston, Tx",USA,US,https://www.bakerhughesco.com,0
+SID_0096,"Banco Bilbao Vizcaya Argentaria, S.A.",contact@bancobilbaovizcayaargentariasa.com,"Calle Azul 4, Madrid, Spain",Spain,ES,https://www.bancobilbaovizcayaargentariasa.com,0
+SID_0097,Banco Santander (Brasil) S.A.,contact@bancosantanderbrasilsa.com,"Av. Juscelino Kubitschek, 2235, Sao Paulo, Sp, Brazil",Brazil,BR,https://www.bancosantanderbrasilsa.com,0
+SID_0098,"Banco Santander, S.A.",contact@bancosantandersa.com,"Ciudad Grupo Santander, Madrid, Spain",Spain,ES,https://www.bancosantandersa.com,0
+SID_0099,Bang & Olufsen,support@bang-olufsen.com,"Bang og Olufsen Allé 1, 7600 Struer",Denmark,DK,https://www.bang-olufsen.com,0
+SID_0100,Bank Of America Corp /De/,contact@bankofamericacorpde.com,"Bank Of America Corporate Center, Charlotte, Nc",USA,US,https://www.bankofamericacorpde.com,0
+SID_0101,Bank Of Montreal /Can/,contact@bankofmontrealcan.com,"1 First Canadian Place, Toronto, Ontario, Canada",Canada,CA,https://www.bankofmontrealcan.com,0
+SID_0102,Bank Of New York Mellon Corp,contact@bankofnewyorkmelloncorp.com,"240 Greenwich Street, New York, Ny",USA,US,https://www.bankofnewyorkmelloncorp.com,0
+SID_0103,Bank Of Nova Scotia,contact@bankofnovascotia.com,"40 Temperance Street, Toronto, Ontario, Canada",Canada,CA,https://www.bankofnovascotia.com,0
+SID_0104,Barclays Plc,contact@barclaysplc.com,"1 Churchill Place, London, United Kingdom",United Kingdom,GB,https://www.barclaysplc.com,0
+SID_0105,Baseus Technology,care@baseus.com,"Room 601, 3rd Bldg, Minzhi Ave, Shenzhen",China,CN,https://www.baseus.com,0
+SID_0106,Bayerische Motoren Werke Ag/Adr,contact@bayerischemotorenwerkeagadr.com,"120 Broadway, New York, Ny",USA,US,https://www.bayerischemotorenwerkeagadr.com,0
+SID_0107,Be Quiet!,support@bequiet.com,"Biedenkamp 3A, 21509 Glinde",Germany,DE,https://www.bequiet.com,0
+SID_0108,Becton Dickinson & Co,contact@bectondickinsonco.com,"One Becton Dr, Franklin Lakes, Nj",USA,US,https://www.bectondickinsonco.com,0
+SID_0109,Belkin,support@belkin.com,"555 S. Aviation Blvd., Suite 180, El Segundo, CA 90245",USA,US,https://www.belkin.com,0
+SID_0110,Bellabeat,support@bellabeat.com,"2010 El Camino Real, Santa Clara, CA 95050",USA,US,https://bellabeat.com,0
+SID_0111,BenQ Corporation,support@benq.com,"16 Jihu Road, Neihu, Taipei 114",Taiwan,TW,https://www.benq.com,0
+SID_0112,Berkshire Hathaway Inc,contact@berkshirehathawayinc.com,"3555 Farnam Street, Omaha, Ne",USA,US,https://www.berkshirehathawayinc.com,0
+SID_0113,Betafpv,support@betafpv.com,Shenzhen,China,CN,https://betafpv.com,0
+SID_0114,Beyerdynamic,info@beyerdynamic.com,"56 Central Ave, Farmingdale, NY 11735",USA,US,https://www.beyerdynamic.com,0
+SID_0115,bhaptics Inc.,support@bhaptics.com,"Unit 503, 70, Yuseong-daero 1689beon-gil, Yuseong-gu, Daejeon",South Korea,KR,https://www.bhaptics.com,0
+SID_0116,Bigme (Shenzhen) Digital Co.,support@bigme.vip,"101, Building B, No. 2, Chuangye 4th Road, Shiyan Street, Bao'an, Shenzhen",China,CN,https://bigmestore.com,0
+SID_0117,Bigscreen,support@bigscreenvr.com,"548 Market St, Suite 33343, San Francisco, CA 94104",USA,US,https://www.bigscreenvr.com,0
+SID_0118,BitFenix Co.,support@bitfenix.com,"3F, No. 79, Sec. 1, Xintai 5th Rd., Xizhi Dist., New Taipei City 221",Taiwan,TW,https://www.bitfenix.com,0
+SID_0119,Bitmain Technologies,support@bitmain.com,"Building 25, North Olympic Science & Technology Park, Baosheng South Road, Haidian",China,CN,https://www.bitmain.com,0
+SID_0120,"Blackrock, Inc.",contact@blackrockinc.com,"50 Hudson Yards, New York, Ny",USA,US,https://www.blackrockinc.com,0
+SID_0121,Blackstone Inc.,contact@blackstoneinc.com,"345 Park Avenue, New York, Ny",USA,US,https://www.blackstoneinc.com,0
+SID_0122,Blackview (Doke),support@blackview.hk,"8F, Block B, Northern Tower, Xianqing Road, Longhua District, Shenzhen",China,CN,https://www.blackview.hk,0
+SID_0123,Blaze Entertainment (Evercade),support@evercade.co.uk,"Letchworth Garden City, SG6 1BE",United Kingdom,GB,https://evercade.co.uk,0
+SID_0124,Blink (Amazon),support@blinkforhome.com,"100 River's Edge Dr, Medford, MA",USA,US,https://blinkforhome.com,0
+SID_0125,"Block, Inc.",contact@blockinc.com,"1955 Broadway, Oakland, Ca",USA,US,https://www.blockinc.com,0
+SID_0126,Bloom Energy Corp,contact@bloomenergycorp.com,"4353 North First Street, San Jose, Ca",USA,US,https://www.bloomenergycorp.com,0
+SID_0127,Blue by ADT,support@adt.com,"1501 Yamato Rd., Boca Raton, FL 33431",USA,US,https://www.bluebyadt.com,0
+SID_0128,Blue Jeans Cable,support@bluejeanscable.com,"3236 16th Ave W, Seattle, WA 98119",USA,US,https://www.bluejeanscable.com,0
+SID_0129,Bluetti,support@bluettipower.com,"6185 S Valley View Blvd, Suite D, Las Vegas, NV 89118",USA,US,https://www.bluettipower.com,0
+SID_0130,Boeing Co,contact@boeingco.com,"929 Long Bridge Drive, Arlington, Va",USA,US,https://www.boeingco.com,0
+SID_0131,Boland Monitors,support@bolandmoms.com,"16 Rancho Cir, Lake Forest, CA 92630",USA,US,https://www.bolandmoms.com,0
+SID_0132,Booking Holdings Inc.,contact@bookingholdingsinc.com,"800 Connecticut Ave, Norwalk, Ct",USA,US,https://www.bookingholdingsinc.com,0
+SID_0133,Bosch,contact@bosch.com,"Robert-Bosch-Platz 1, 70839 Gerlingen-Schillerhöhe",Germany,DE,https://www.bosch.com,0
+SID_0134,Bose Corporation,support@bose.com,"100 The Mountain Road, Framingham, MA 01701",USA,US,https://www.bose.com,0
+SID_0135,Boston Scientific Corp,contact@bostonscientificcorp.com,"300 Boston Scientific Way, Marlborough, Ma",USA,US,https://www.bostonscientificcorp.com,0
+SID_0136,Bowers & Wilkins,support@bowerswilkins.com,"5541 Fermi Ct, Carlsbad, CA 92008",USA,US,https://www.bowerswilkins.com,0
+SID_0137,Bp Plc,contact@bpplc.com,"1 St James'S Square, London, United Kingdom",United Kingdom,GB,https://www.bpplc.com,0
+SID_0138,Brinc Drones,support@brincdrones.com,"4848 South Polaris Ave., Las Vegas, NV 89103",USA,US,https://brincdrones.com,0
+SID_0139,Bristol Myers Squibb Co,contact@bristolmyerssquibbco.com,"Route 206 And Province Line Road, Princeton, Nj",USA,US,https://www.bristolmyerssquibbco.com,0
+SID_0140,Broadcom,support@broadcom.com,"1320 Ridder Park Drive, San Jose, CA 95131",USA,US,https://www.broadcom.com,0
+SID_0141,Broadcom Inc.,contact@broadcominc.com,"3421 Hillview Avenue, Palo Alto, Ca",USA,US,https://www.broadcominc.com,0
+SID_0142,Brookfield Asset Management Ltd.,contact@brookfieldassetmanagementltd.com,"Brookfield, New York, Ny",USA,US,https://www.brookfieldassetmanagementltd.com,0
+SID_0143,Brookfield Corp /On/,contact@brookfieldcorpon.com,"Brookfield Place, 181 Bay St, Ste 100, Toronto, Ontario, Canada",Canada,CA,https://www.brookfieldcorpon.com,0
+SID_0144,Brother Industries,customer.service@brother.com,"200 Crossing Boulevard, Bridgewater, NJ 08807",USA,US,https://www.brother-usa.com,0
+SID_0145,Buffalo Inc.,support@buffalo.jp,"30-20, Ohsu 4-chome, Naka-ku, Nagoya",Japan,JP,https://www.buffalo.jp,0
+SID_0146,Cable Matters,support@cablematters.com,"15300 Woodinville-Redmond Rd NE, Suite B, Woodinville, WA 98072",USA,US,https://www.cablematters.com,0
+SID_0147,CableMod (Screaming Cloud),support@cablemod.com,"Flat B, 10/F, Luk Hop Industrial Building, 8 Luk Hop St., San Po Kong",Hong Kong,HK,https://cablemod.com,0
+SID_0148,Cadence Design Systems,support@cadence.com,"2655 Seely Avenue, San Jose, CA 95134",USA,US,https://www.cadence.com,0
+SID_0149,Cadence Design Systems Inc,contact@cadencedesignsystemsinc.com,"2655 Seely Avenue Bldg 5, San Jose, Ca",USA,US,https://www.cadencedesignsystemsinc.com,0
+SID_0150,CalDigit,support@caldigit.com,"1941 E. Miraloma Ave, Placentia, CA",USA,US,https://www.caldigit.com,0
+SID_0151,Cambridge Audio,support@cambridgeaudio.com,"Gallery Court, Hankey Place, London",United Kingdom,GB,https://www.cambridgeaudio.com,0
+SID_0152,Campfire Audio,support@campfireaudio.com,"2400 SE Ankeny St, Portland, OR 97214",USA,US,https://www.campfireaudio.com,0
+SID_0153,Campfire Audio,support@campfireaudio.com,"2400 SE Ankeny St, Portland, OR 97214",USA,US,https://campfireaudio.com,0
+SID_0154,Canadian Imperial Bank Of Commerce /Can/,contact@canadianimperialbankofcommercecan.com,"81 Bay Street, Toronto, Ontario, Canada",Canada,CA,https://www.canadianimperialbankofcommercecan.com,0
+SID_0155,Canadian National Railway Co,contact@canadiannationalrailwayco.com,"935 De La Gauchetiere St W, Canada, Quebec, Canada",USA,US,https://www.canadiannationalrailwayco.com,0
+SID_0156,Canadian Natural Resources Ltd,contact@canadiannaturalresourcesltd.com,"2100, 855-2 Street Sw, Calgary Alberta Canada, Alberta, Canada",Canada,CA,https://www.canadiannaturalresourcesltd.com,0
+SID_0157,Canadian Pacific Kansas City Ltd/Cn,contact@canadianpacifickansascityltdcn.com,"7550 Ogden Dale Road S.E., Calgary Alberta, Alberta, Canada",Canada,CA,https://www.canadianpacifickansascityltdcn.com,0
+SID_0158,Canon Inc.,pr@canon.co.jp,"30-2, Shimomaruko 3-chome, Ohta-ku, Tokyo",Japan,JP,https://www.canon.com,0
+SID_0159,Canonical,support@canonical.com,"Blue Fin Building, 5th Floor, 110 Southwark Street, London SE1 0SU",United Kingdom,GB,https://canonical.com,0
+SID_0160,Capital One Financial Corp,contact@capitalonefinancialcorp.com,"1680 Capital One Drive, Mclean, Va",USA,US,https://www.capitalonefinancialcorp.com,0
+SID_0161,Cardinal Health Inc,contact@cardinalhealthinc.com,"7000 Cardinal Place, Dublin, Oh",USA,US,https://www.cardinalhealthinc.com,0
+SID_0162,Carnival Corp,contact@carnivalcorp.com,"3655 Nw 87Th Ave, Miami, Fl",USA,US,https://www.carnivalcorp.com,0
+SID_0163,Carnival Plc,contact@carnivalplc.com,"100 Harbour Parade, Southampton So15 1St, United Kingdom",United Kingdom,GB,https://www.carnivalplc.com,0
+SID_0164,Carrier Global Corp,contact@carrierglobalcorp.com,"13995 Pasteur Boulevard, Palm Beach Gardens, Fl",USA,US,https://www.carrierglobalcorp.com,0
+SID_0165,Carvana Co.,contact@carvanaco.com,"300 E. Rio Salado Parkway, Tempe, Az",USA,US,https://www.carvanaco.com,0
+SID_0166,Casetify,support@casetify.com,"11/F, 1063 King's Road, Quarry Bay",Hong Kong,HK,https://www.casetify.com,0
+SID_0167,Casio (G-Shock),support@casio.com,"6-2, Hon-machi 1-chome, Shibuya-ku, Tokyo",Japan,JP,https://www.casio.com,0
+SID_0168,Caterpillar Inc,contact@caterpillarinc.com,"5205 N. O'Connor Boulevard, Irving, Tx",USA,US,https://www.caterpillarinc.com,0
+SID_0169,"Cbre Group, Inc.",contact@cbregroupinc.com,"2121 North Pearl Street, Dallas, Tx",USA,US,https://www.cbregroupinc.com,0
+SID_0170,"Cencora, Inc.",contact@cencorainc.com,"1 West First Avenue, Conshohocken, Pa",USA,US,https://www.cencorainc.com,0
+SID_0171,Cenovus Energy Inc.,contact@cenovusenergyinc.com,"225 - 6 Avenue S.W., Calgary, Alberta, Canada",Canada,CA,https://www.cenovusenergyinc.com,0
+SID_0172,Check Point,support@checkpoint.com,"959 Skyway Road, Suite 300, San Carlos, CA 94070",USA,US,https://www.checkpoint.com,0
+SID_0173,"Cheniere Energy, Inc.",contact@cheniereenergyinc.com,"845 Texas Avenue, Houston, Tx",USA,US,https://www.cheniereenergyinc.com,0
+SID_0174,Cherry Americas,support@cherry.de,"10400 58th Pl, Suite 100, Kenosha, WI 53144",USA,US,https://www.cherryamericas.com,0
+SID_0175,Chevron Corp,contact@chevroncorp.com,"1400 Smith Street, Houston, Tx",USA,US,https://www.chevroncorp.com,0
+SID_0176,Chipotle Mexican Grill Inc,contact@chipotlemexicangrillinc.com,"610 Newport Center Dr, Newport Beach, Ca",USA,US,https://www.chipotlemexicangrillinc.com,0
+SID_0177,Chocoladefabriken Lindt & Spruengli Ag/Adr,contact@chocoladefabrikenlindtspruengliagadr.com,"Seestrasse 204, Kilchberg, Switzerland",Switzerland,CH,https://www.chocoladefabrikenlindtspruengliagadr.com,0
+SID_0178,Choetech,support@choetech.com,"Shenzhen Dingle Intelligent, Shenzhen",China,CN,https://www.choetech.com,0
+SID_0179,Chubb Ltd,contact@chubbltd.com,"Barengasse 32, Zurich, Switzerland",Switzerland,CH,https://www.chubbltd.com,0
+SID_0180,Ciena Corp,contact@cienacorp.com,"7035 Ridge Road, Hanover, Md",USA,US,https://www.cienacorp.com,0
+SID_0181,Cigna Group,contact@cignagroup.com,"900 Cottage Grove Road, Bloomfield, Ct",USA,US,https://www.cignagroup.com,0
+SID_0182,Cintas Corp,contact@cintascorp.com,"6800 Cintas Blvd, Cincinnati, Oh",USA,US,https://www.cintascorp.com,0
+SID_0183,Cisco Systems,tac@cisco.com,"170 West Tasman Drive, San Jose, CA 95134",USA,US,https://www.cisco.com,0
+SID_0184,"Cisco Systems, Inc.",contact@ciscosystemsinc.com,"170 West Tasman Dr, San Jose, Ca",USA,US,https://www.ciscosystemsinc.com,0
+SID_0185,Citigroup Inc,contact@citigroupinc.com,"388 Greenwich Street, New York, Ny",USA,US,https://www.citigroupinc.com,0
+SID_0186,Cloudera,support@cloudera.com,"395 Page Mill Road, Palo Alto, CA 94306",USA,US,https://www.cloudera.com,0
+SID_0187,"Cloudflare, Inc.",contact@cloudflareinc.com,"101 Townsend St., San Francisco, Ca",USA,US,https://www.cloudflareinc.com,0
+SID_0188,Cme Group Inc.,contact@cmegroupinc.com,"20 S. Wacker Dr., Chicago, Il",USA,US,https://www.cmegroupinc.com,0
+SID_0189,Coca Cola Co,contact@cocacolaco.com,"One Coca Cola Plaza, Atlanta, Ga",USA,US,https://www.cocacolaco.com,0
+SID_0190,Coherent Corp.,contact@coherentcorp.com,"375 Saxonburg Blvd, Saxonburg, Pa",USA,US,https://www.coherentcorp.com,0
+SID_0191,"Coinbase Global, Inc.",contact@coinbaseglobalinc.com,"One Madison Avenue, New York, Ny",USA,US,https://www.coinbaseglobalinc.com,0
+SID_0192,Colgate Palmolive Co,contact@colgatepalmoliveco.com,"300 Park Ave, New York, Ny",USA,US,https://www.colgatepalmoliveco.com,0
+SID_0193,Colorful Technology,faq.en@colorful.cn,"13F, Central Business Tower, No. 88 Fuhua First Rd., Futian District, Shenzhen",China,CN,https://www.colorful.cn,0
+SID_0194,Comcast Corp,contact@comcastcorp.com,"One Comcast Center, Philadelphia, Pa",USA,US,https://www.comcastcorp.com,0
+SID_0195,Comfort Systems Usa Inc,contact@comfortsystemsusainc.com,"9753 Katy Freeway, Houston, Tx",USA,US,https://www.comfortsystemsusainc.com,0
+SID_0196,CommScope,support@commscope.com,"3642 E US Hwy 70, Claremont, NC 28610",USA,US,https://www.commscope.com,0
+SID_0197,Confluent,support@confluent.io,"899 W Evelyn Ave, Mountain View, CA 94041",USA,US,https://www.confluent.io,0
+SID_0198,Conocophillips,contact@conocophillips.com,"925 N. Eldridge Parkway, Houston, Tx",USA,US,https://www.conocophillips.com,0
+SID_0199,Consolidated Edison Inc,contact@consolidatededisoninc.com,"4 Irving Place, New York, Ny",USA,US,https://www.consolidatededisoninc.com,0
+SID_0200,Constellation Energy Corp,contact@constellationenergycorp.com,"1310 Point Street, Baltimore, Md",USA,US,https://www.constellationenergycorp.com,0
+SID_0201,Control4 (Snap One),support@control4.com,"11734 S. Election Rd., Salt Lake City, UT 84020",USA,US,https://www.control4.com,0
+SID_0202,Cooler Master,store@coolermaster.com,"8F., No. 788-1, Zhongzheng Rd., Zhonghe Dist., New Taipei",Taiwan,TW,https://www.coolermaster.com,0
+SID_0203,Copart Inc,contact@copartinc.com,"14185 Dallas Parkway, Dallas, Tx",USA,US,https://www.copartinc.com,0
+SID_0204,"Coreweave, Inc.",contact@coreweaveinc.com,"290 W. Mt. Pleasant Avenue, Suite 4100, Livingston, Nj",USA,US,https://www.coreweaveinc.com,0
+SID_0205,Corning,support@corning.com,"One Riverfront Plaza, Corning, NY 14831",USA,US,https://www.corning.com,0
+SID_0206,Corning Inc /Ny,contact@corningincny.com,"One Riverfront Plaza, Corning, Ny",USA,US,https://www.corningincny.com,0
+SID_0207,Coros Wearables,support@coros.com,"14511 Franklin Ave, Suite 220, Tustin, CA 92780",USA,US,https://www.coros.com,0
+SID_0208,Coros Wearables Inc.,support@coros.com,"14511 Franklin Ave., Suite 220, Tustin, CA 92780",USA,US,https://coros.com,0
+SID_0209,Corsair Gaming Inc.,support@corsair.com,"47100 Bayside Parkway, Fremont, CA 94538",USA,US,https://www.corsair.com,0
+SID_0210,"Corteva, Inc.",contact@cortevainc.com,"9330 Zionsville Road, Indianapolis, In",USA,US,https://www.cortevainc.com,0
+SID_0211,Costco Wholesale Corp /New,contact@costcowholesalecorpnew.com,"999 Lake Drive, Issaquah, Wa",USA,US,https://www.costcowholesalecorpnew.com,0
+SID_0212,Couchbase,support@couchbase.com,"3250 Olcott Street, Santa Clara, CA 95054",USA,US,https://www.couchbase.com,0
+SID_0213,Cougar Gaming,support@cougargaming.com,"No. 225, Ln. 54, Anhe Rd., Tainan",Taiwan,TW,https://cougargaming.com,0
+SID_0214,"Coupang, Inc.",contact@coupanginc.com,"720 Olive Way, Seattle, Wa",USA,US,https://www.coupanginc.com,0
+SID_0215,Creative Technology,support@creative.com,"31 International Business Park, Creative Resource",Singapore,SG,https://www.creative.com,0
+SID_0216,Crestron Electronics Inc.,support@crestron.com,"15 Volvo Dr., Rockleigh, NJ 07647",USA,US,https://www.crestron.com,0
+SID_0217,Crh Public Ltd Co,contact@crhpublicltdco.com,"Stonemason'S Way, Rathfarnham, Dublin 16, Ireland",Ireland,IE,https://www.crhpublicltdco.com,0
+SID_0218,CrowdStrike,support@crowdstrike.com,"206 E. 9th Street, Suite 1400, Austin, TX 78701",USA,US,https://www.crowdstrike.com,0
+SID_0219,"Crowdstrike Holdings, Inc.",contact@crowdstrikeholdingsinc.com,"206 E. 9Th Street, Austin, Tx",USA,US,https://www.crowdstrikeholdingsinc.com,0
+SID_0220,Crown Castle Inc.,contact@crowncastleinc.com,"8020 Katy Freeway, Houston, Tx",USA,US,https://www.crowncastleinc.com,0
+SID_0221,Csl Ltd,contact@cslltd.com,"45 Poplar Rd, Prakville Victoria Austra, Australia",Australia,AU,https://www.cslltd.com,0
+SID_0222,Csx Corp,contact@csxcorp.com,"500 Water Street, Jacksonville, Fl",USA,US,https://www.csxcorp.com,0
+SID_0223,Cummins Inc,contact@cumminsinc.com,"500 Jackson St, Columbus, In",USA,US,https://www.cumminsinc.com,0
+SID_0224,Cvs Health Corp,contact@cvshealthcorp.com,"One Cvs Dr., Woonsocket, Ri",USA,US,https://www.cvshealthcorp.com,0
+SID_0225,CyberPower Systems,support@cpsww.com,"4241 12th Ave E, Suite 400, Shakopee, MN",USA,US,https://www.cyberpowersystems.com,0
+SID_0226,CyberPowerPC,support@cyberpowerpc.com,"730 Baldwin Park Blvd, City of Industry, CA 91746",USA,US,https://www.cyberpowerpc.com,0
+SID_0227,D-Link Corporation,support@dlink.com,"No. 289, Xinhu 3rd Road, Neihu District, Taipei",Taiwan,TW,https://www.dlink.com,0
+SID_0228,D-Link Europe Ltd.,support@dlink.com,"Artemis Building, Odyssey Business Park, West End Road, South Ruislip, HA4 6QE",United Kingdom,GB,https://eu.dlink.com,0
+SID_0229,Dahua Technology,support.usa@dahuatech.com,"23 Hubble, Irvine, CA 92618",USA,US,https://www.dahuasecurity.com,0
+SID_0230,DALI Loudspeakers,support@dali-speakers.com,"Dali Alle 1, 9610 Norager",Denmark,DK,https://www.dali-speakers.com,0
+SID_0231,Dan Clark Audio,support@danclarkaudio.com,"3366 Kurtz St, San Diego, CA 92110",USA,US,https://danclarkaudio.com,0
+SID_0232,Danaher Corp /De/,contact@danahercorpde.com,"2200 Pennsylvania Ave. N.W., Washington, Dc",USA,US,https://www.danahercorpde.com,0
+SID_0233,Das Keyboard,support@daskeyboard.com,"10415 Morado Circle, Building I, Suite 110, Austin, TX 78759",USA,US,https://www.daskeyboard.com,0
+SID_0234,Dassault Systèmes,support@3ds.com,"10 Rue Marcel Dassault, 78140 Vélizy-Villacoublay",France,FR,https://www.3ds.com,0
+SID_0235,Dasung Tech,support@dasung.com,"Room 104, Building 2, No. 1 North Street, Zhongguancun, Haidian, Beijing",China,CN,https://dasung-tech.myshopify.com,0
+SID_0236,Databricks,support@databricks.com,"160 Spear Street, 13th Floor, San Francisco, CA 94105",USA,US,https://databricks.com,0
+SID_0237,Datadog,support@datadoghq.com,"620 8th Avenue, 45th Floor, New York, NY 10018",USA,US,https://www.datadoghq.com,0
+SID_0238,"Datadog, Inc.",contact@datadoginc.com,"620 Eighth Avenue, 45Th Floor, New York, Ny",USA,US,https://www.datadoginc.com,0
+SID_0239,DeepCool,support@deepcool.com,"Building 10, No. 9 Courtyard, Haidian, Beijing",China,CN,https://www.deepcool.com,0
+SID_0240,Deere & Co,contact@deereco.com,"One John Deere Place, Moline, Il",USA,US,https://www.deereco.com,0
+SID_0241,Dekoni Audio,support@dekoniaudio.com,"1214 River Ave., Lakewood, NJ 08701",USA,US,https://dekoniaudio.com,0
+SID_0242,Delair,support@delair.aero,"670 Rue Jean Perrin, 31670 Labège",France,FR,https://delair.aero,0
+SID_0243,Delkin Devices,support@delkin.com,"13350 Kirkham Way, Poway, CA 92064",USA,US,https://www.delkin.com,0
+SID_0244,Dell Technologies,support@dell.com,"One Dell Way, Round Rock, TX 78682",USA,US,https://www.dell.com,0
+SID_0245,Dell Technologies Inc.,contact@delltechnologiesinc.com,"One Dell Way, Round Rock, Tx",USA,US,https://www.delltechnologiesinc.com,0
+SID_0246,"Delta Air Lines, Inc.",contact@deltaairlinesinc.com,"Hartsfield-Jackson Atlanta Intl Airport, Atlanta, Ga",USA,US,https://www.deltaairlinesinc.com,0
+SID_0247,Denon,support@denon.com,"5541 Fermi Ct, Carlsbad, CA 92008",USA,US,https://www.denon.com,0
+SID_0248,Desview (Shenzhen Bestview),support@desview.com,"Floor 15, Building 1, COFCO Business Park, Bao'an, Shenzhen",China,CN,https://www.desview.com,0
+SID_0249,Deutsche Bank Aktiengesellschaft,contact@deutschebankaktiengesellschaft.com,"Deutsche Bank Ag - Legal Department, New York, Ny",USA,US,https://www.deutschebankaktiengesellschaft.com,0
+SID_0250,Devialet SA,support@devialet.com,"10 Place de la Madeleine, 75008 Paris",USA,US,https://www.devialet.com,0
+SID_0251,Diageo Plc,contact@diageoplc.com,"16 Great Marlborough Street, London, United Kingdom",United Kingdom,GB,https://www.diageoplc.com,0
+SID_0252,"Diamondback Energy, Inc.",contact@diamondbackenergyinc.com,"500 West Texas Avenue, Midland, Tx",USA,US,https://www.diamondbackenergyinc.com,0
+SID_0253,"Digital Realty Trust, Inc.",contact@digitalrealtytrustinc.com,"2323 Bryan Street, Dallas, Tx",USA,US,https://www.digitalrealtytrustinc.com,0
+SID_0254,Digital Storm,support@digitalstorm.com,"8100 Camino Arroyo, Morgan Hill, CA 95037",USA,US,https://www.digitalstorm.com,0
+SID_0255,DJI,support@dji.com,"14th Floor, West Wing, Skyworth Semiconductor Design Building",China,CN,https://www.dji.com,0
+SID_0256,DJI Enterprise,enterprise@dji.com,"Skyworth Semiconductor Design Building, Nanshan, Shenzhen",China,CN,https://enterprise.dji.com,0
+SID_0257,Docker,support@docker.com,"3790 El Camino Real, Suite 1052, Palo Alto, CA 94306",USA,US,https://www.docker.com,0
+SID_0258,"Dominion Energy, Inc",contact@dominionenergyinc.com,"600 East Canal Street, Richmond, Va",USA,US,https://www.dominionenergyinc.com,0
+SID_0259,DOSS Audio,support@dossaudio.com,"Building 4, Wonders Technology Park, Baolong Ave., Longgang",China,CN,https://www.dossaudio.com,0
+SID_0260,DPVR (Shanghai),support@dpvr.com,"Building 25, No. 498, Guo Shoujing Road, Pudong, Shanghai",China,CN,https://www.dpvr.com,0
+SID_0261,Draganfly Inc.,support@draganfly.com,"2108 St. George Ave., Saskatoon, SK S7M 0K7",Canada,CA,https://draganfly.com,0
+SID_0262,DrayTek,support@draytek.com,"No. 26, Fushing Rd., Hukou, Hsinchu",Taiwan,TW,https://www.draytek.com,0
+SID_0263,Drop,support@drop.com,"1390 Market St, Suite 200, San Francisco, CA 94102",USA,US,https://drop.com,0
+SID_0264,Ducky Channel,support@duckychannel.com.tw,"No. 381, Yangguang St., Neihu Dist., Taipei",Taiwan,TW,https://www.duckychannel.com.tw,0
+SID_0265,Duke Energy Corp,contact@dukeenergycorp.com,"525 South Tryon Street, Charlotte, Nc",USA,US,https://www.dukeenergycorp.com,0
+SID_0266,DXRacer,support@dxracer.com,"9177 E M-36, Whitmore Lake, MI 48189",USA,US,https://www.dxracer.com,0
+SID_0267,Dynatrace,support@dynatrace.com,"1601 Trapelo Road, Suite 116, Waltham, MA 02451",USA,US,https://www.dynatrace.com,0
+SID_0268,Dynaudio A/S,support@dynaudio.com,"Sverigesvej 15, 8660 Skanderborg",Denmark,DK,https://www.dynaudio.com,0
+SID_0269,E.On Se,contact@eonse.com,"E.On-Platz 1, Dusseldorf, Germany",Germany,DE,https://www.eonse.com,0
+SID_0270,Eachine,support@eachine.com,Guangdong,China,CN,https://www.eachine.com,0
+SID_0271,EarFun Technology,support@myearfun.com,"Room 503, No. 2 Building, Kexing Science Park, Nanshan",China,CN,https://www.myearfun.com,0
+SID_0272,Eaton Corp Plc,contact@eatoncorpplc.com,"30 Pembroke Road, Dublin, Ireland",Ireland,IE,https://www.eatoncorpplc.com,0
+SID_0273,Ebay Inc,contact@ebayinc.com,"2025 Hamilton Avenue, San Jose, Ca",USA,US,https://www.ebayinc.com,0
+SID_0274,Ecobee,support@ecobee.com,"25 Dockside Dr, Suite 700, Toronto, ON",Canada,CA,https://www.ecobee.com,0
+SID_0275,EcoFlow Inc.,support@ecoflow.com,"No. 18, North Area, Creative Culture Park, Nanshan, Shenzhen",China,CN,https://www.ecoflow.com,0
+SID_0276,Ecolab Inc.,contact@ecolabinc.com,"1 Ecolab Place, Saint Paul, Mn",USA,US,https://www.ecolabinc.com,0
+SID_0277,Edifier International,support@edifier.com,"Flat/RM 1007, 10/F, Exchange Tower, Kowloon Bay",Hong Kong,HK,https://www.edifier.com,0
+SID_0278,Edwards Lifesciences Corp,contact@edwardslifesciencescorp.com,"One Edwards Way, Irvine, Ca",USA,US,https://www.edwardslifesciencescorp.com,0
+SID_0279,Eero LLC (Amazon),support@eero.com,"660 3rd St, 4th Floor, San Francisco, CA 94107",USA,US,https://eero.com,0
+SID_0280,Einova (Eggtronic),support@einova.com,"Via J. F. Kennedy 111, 41122 Modena",Italy,IT,https://www.einova.com,0
+SID_0281,Eizo Corporation,support@eizo.com,"153 Shimokashiwano, Hakusan, Ishikawa",Japan,JP,https://www.eizo.com,0
+SID_0282,Elastic,support@elastic.co,"800 West El Camino Real, Suite 350, Mountain View, CA 94040",USA,US,https://www.elastic.co,0
+SID_0283,Elbit Systems Ltd,contact@elbitsystemsltd.com,"Advanced Technology Center, Haifa, Israel, Israel",Israel,IL,https://www.elbitsystemsltd.com,0
+SID_0284,Electronic Arts Inc.,contact@electronicartsinc.com,"209 Redwood Shores Parkway, Redwood City, Ca",USA,US,https://www.electronicartsinc.com,0
+SID_0285,"Elevance Health, Inc.",contact@elevancehealthinc.com,"220 Virginia Avenue, Indianapolis, In",USA,US,https://www.elevancehealthinc.com,0
+SID_0286,Elgato,support@elgato.com,"3950 E C V C, Unit 100, Charlotte, NC 28217",USA,US,https://www.elgato.com,0
+SID_0287,Eli Lilly & Co,contact@elilillyco.com,"Lilly Corporate Ctr, Indianapolis, In",USA,US,https://www.elilillyco.com,0
+SID_0288,Emerson Electric Co,contact@emersonelectricco.com,"8027 Forsyth Blvd, St Louis, Mo",USA,US,https://www.emersonelectricco.com,0
+SID_0289,Enbridge Inc,contact@enbridgeinc.com,"200 425 - 1St Street Sw, Calgary, Alberta, Canada",Canada,CA,https://www.enbridgeinc.com,0
+SID_0290,Endgame Gear,support@endgamegear.com,"Gaußstraße 1, 10589 Berlin",Germany,DE,https://www.endgamegear.com,0
+SID_0291,Energy Transfer Lp,contact@energytransferlp.com,"8111 Westchester Drive, Dallas, Tx",USA,US,https://www.energytransferlp.com,0
+SID_0292,EnGenius Technologies,support@engeniustech.com,"1580 Scenic Ave, Costa Mesa, CA 92626",USA,US,https://www.engeniustech.com,0
+SID_0293,Entergy Corp /De/,contact@entergycorpde.com,"639 Loyola Ave, New Orleans, La",USA,US,https://www.entergycorpde.com,0
+SID_0294,Enterprise Products Partners L.P.,contact@enterpriseproductspartnerslp.com,"1100 Louisiana 10Th Floor, Houston, Tx",USA,US,https://www.enterpriseproductspartnerslp.com,0
+SID_0295,Eog Resources Inc,contact@eogresourcesinc.com,"1111 Bagby, Sky Lobby 2, Houston, Tx",USA,US,https://www.eogresourcesinc.com,0
+SID_0296,EPOMAKER,support@epomaker.com,"Silver Star Hi-tech Park, Shenzhen",USA,US,https://epomaker.com,0
+SID_0297,Epson,support@epson.com,"3131 Katella Ave, Los Alamitos, CA 90720",USA,US,https://epson.com,0
+SID_0298,Eqt Corp,contact@eqtcorp.com,"625 Liberty Avenue, Pittsburgh, Pa",USA,US,https://www.eqtcorp.com,0
+SID_0299,Equinix Inc,contact@equinixinc.com,"One Lagoon Drive, Redwood City, Ca",USA,US,https://www.equinixinc.com,0
+SID_0300,Equinor Asa,contact@equinorasa.com,"Forusbeen 50, Stavanger Norway, Norway",Norway,NO,https://www.equinorasa.com,0
+SID_0301,ErgoDox EZ,contact@ergodox-ez.com,"7F., No. 37, Sec. 2, Sanmin Road, Banqiao Dist., New Taipei City 220",Taiwan,TW,https://ergodox-ez.com,0
+SID_0302,Ericsson AB,info@ericsson.com,"Torshamnsgatan 21, 164 83 Stockholm",Sweden,SE,https://www.ericsson.com,0
+SID_0303,Ericsson Lm Telephone Co,contact@ericssonlmtelephoneco.com,"Torshamnsgatan 21 - 23, Stockholm Sweden, Sweden",Sweden,SE,https://www.ericssonlmtelephoneco.com,0
+SID_0304,Estee Lauder Companies Inc,contact@esteelaudercompaniesinc.com,"767 Fifth Ave, New York, Ny",USA,US,https://www.esteelaudercompaniesinc.com,0
+SID_0305,Eufy (Anker),support@eufylife.com,"989 Jacklin Rd, Milpitas, CA 95035",USA,US,https://www.eufy.com,0
+SID_0306,Eufy Security,support@eufylife.com,"Milpitas, CA 95035",USA,US,https://us.eufy.com,0
+SID_0307,Eurocom Corporation,sales@eurocom.com,"2460 Lancaster Rd, Ottawa, ON K1B 4S5",Canada,CA,https://www.eurocom.com,0
+SID_0308,Eve Systems,support@evehome.com,"Rotkreuzplatz 1, 80634 Munich",Germany,DE,https://www.evehome.com,0
+SID_0309,EVGA Corporation,support@evga.com,"408 Saturn St, Brea, CA 92821",USA,US,https://www.evga.com,0
+SID_0310,Exascend Inc.,support@exascend.com,"Room 4, 10F, No. 126, Nanjing E. Rd., Sec. 4, Taipei",Taiwan,TW,https://exascend.com,0
+SID_0311,Exelon Corp,contact@exeloncorp.com,"10 S. Dearborn Street, Chicago, Il",USA,US,https://www.exeloncorp.com,0
+SID_0312,Extreme Networks,support@extremenetworks.com,"2121 RDU Center Drive, Suite 300, Morrisville, NC 27560",USA,US,https://www.extremenetworks.com,0
+SID_0313,Exxon Mobil Corp,contact@exxonmobilcorp.com,"22777 Springwoods Village Parkway, Spring, Tx",USA,US,https://www.exxonmobilcorp.com,0
+SID_0314,EZVIZ,support@ezviz.com,"Level 6, No. 31, Lane 16, West Lake District",China,CN,https://www.ezviz.com,0
+SID_0315,F5 Networks,support@f5.com,"801 5th Ave, Seattle, WA 98104",USA,US,https://www.f5.com,0
+SID_0316,Fairfax Financial Holdings Ltd/ Can,contact@fairfaxfinancialholdingsltdcan.com,"Fairfax Financial Holdings Ltd, Toronto, Ontario, Canada",Canada,CA,https://www.fairfaxfinancialholdingsltdcan.com,0
+SID_0317,Fairphone B.V.,support@fairphone.com,"Jollemanhof 17, 1019 GW Amsterdam",Netherlands,NL,https://www.fairphone.com,0
+SID_0318,Falcon Northwest,support@falcon-nw.com,"2015 Commerce Dr, Medford, OR 97504",USA,US,https://www.falcon-nw.com,0
+SID_0319,Fanatec (Endor AG),support@fanatec.com,"E.ON-Allee 3, 84036 Landshut",Germany,DE,https://fanatec.com,0
+SID_0320,Fastenal Co,contact@fastenalco.com,"2001 Theurer Blvd, Winona, Mn",USA,US,https://www.fastenalco.com,0
+SID_0321,Fedex Corp,contact@fedexcorp.com,"942 South Shady Grove Road, Memphis, Tn",USA,US,https://www.fedexcorp.com,0
+SID_0322,Feelworld,support@feelworld.cn,"Lanyuan Industrial Park, No. 37, Jinkun Rd., Lantian Economic Development Zone, Zhangzhou",China,CN,https://feelworld.ltd,0
+SID_0323,FeiyuTech,support@feiyu-tech.com,"Qixing District, Guilin, Guangxi",China,CN,https://www.feiyu-tech.com,0
+SID_0324,Ferguson Enterprises Inc. /De/,contact@fergusonenterprisesincde.com,"751 Lakefront Commons, Newport News, Va",USA,US,https://www.fergusonenterprisesincde.com,0
+SID_0325,Ferrari N.V.,contact@ferrarinv.com,"Via Abetone Inferiore N. 4, Maranello, Italy",Italy,IT,https://www.ferrarinv.com,0
+SID_0326,Ferrovial Se,contact@ferrovialse.com,"Gustav Mahlerplein 61-63, Amsterdam, Netherlands",Netherlands,NL,https://www.ferrovialse.com,0
+SID_0327,Fibaro (Nice Group),support@fibaro.com,"Lotnicza 1, 60-421 Poznań",Poland,PL,https://www.fibaro.com,0
+SID_0328,Fifth Third Bancorp,contact@fifththirdbancorp.com,"38 Fountain Sq Plz, Cincinnati, Oh",USA,US,https://www.fifththirdbancorp.com,0
+SID_0329,FiiO,support@fiio.com,"Room 502, Bldg A, Xingzhiyuan, Tianhe, Guangzhou",China,CN,https://www.fiio.com,0
+SID_0330,Filco (Diatec),support@diatec.co.jp,"4F Kanda-Ogawamachi Bldg, Tokyo",Japan,JP,https://www.diatec.co.jp,0
+SID_0331,FIMI Technology (Xiaomi),support@fimi.com,"No. 348, South Olympic Science & Technology Park, Baosheng South Rd., Haidian",China,CN,https://www.fimi.com,0
+SID_0332,Final Audio,support@snt-t.com,"3-12-7 Kitakase, Saiwai-ku, Kawasaki, Kanagawa",Japan,JP,https://snext-final.com,0
+SID_0333,Finalmouse,support@finalmouse.com,"Seattle, WA",USA,US,https://finalmouse.com,0
+SID_0334,FireEye (Trellix),support@trellix.com,"6000 Headquarters Drive, Suite 600, Plano, TX 75024",USA,US,https://www.trellix.com,0
+SID_0335,Fitbit (Google),support@fitbit.com,"199 Fremont Street, 14th Floor, San Francisco, CA 94105",USA,US,https://www.fitbit.com,0
+SID_0336,Flanders Scientific,support@flandersscientific.com,"6215 Shiloh Crossing, Suite G, Alpharetta, GA 30005",USA,US,https://www.flandersscientific.com,0
+SID_0337,Flex,support@flex.com,"6201 America Center Drive, San Jose, CA 95002",USA,US,https://www.flex.com,0
+SID_0338,Flir Systems,flir.support@flir.com,"27700 SW Parkway Avenue, Wilsonville, OR 97070",USA,US,https://www.flir.com,0
+SID_0339,Fluance,support@fluance.com,"4080 Montrose Rd, Niagara Falls, ON",Canada,CA,https://www.fluance.com,0
+SID_0340,Flyability SA,support@flyability.com,"Avenue de Sévelin 20, 1004 Lausanne",USA,US,https://www.flyability.com,0
+SID_0341,Flywoo,support@flywoo.net,"Floor 4, Building 5D, Skyworth Innovation Valley, Bao'an, Shenzhen",China,CN,https://flywoo.net,0
+SID_0342,Focal-JMLab,support@focal.com,"108 Rue de l'Avenir, 42350 La Talaudière",USA,US,https://www.focal.com,0
+SID_0343,Ford Motor Co,contact@fordmotorco.com,"One American Road, Dearborn, Mi",USA,US,https://www.fordmotorco.com,0
+SID_0344,Fortinet,support@fortinet.com,"899 Kifer Road, Sunnyvale, CA 94086",USA,US,https://www.fortinet.com,0
+SID_0345,"Fortinet, Inc.",contact@fortinetinc.com,"909 Kifer Road, Sunnyvale, Ca",USA,US,https://www.fortinetinc.com,0
+SID_0346,Foscam,support@foscam.com,"Shenzhen Foscam Intelligent, Shenzhen",China,CN,https://www.foscam.com,0
+SID_0347,Fossil Group,support@fossil.com,"901 S. Central Expy, Richardson, TX 75080",USA,US,https://www.fossilgroup.com,0
+SID_0348,Fostex (Foster Electric),support@fostex.jp,"1-1-109 Tsutsujigaoka, Akishima, Tokyo 196-8550",Japan,JP,https://www.fostexinternational.com,0
+SID_0349,Foxconn,info@foxconn.com,"No. 2, Ziyou St., Tucheng Dist., New Taipei",Taiwan,TW,https://www.foxconn.com,0
+SID_0350,Fractal Design,support@fractal-design.com,"Datavägen 37B, 436 32 Askim",Sweden,SE,https://www.fractal-design.com,0
+SID_0351,Framework Computer Inc,support@frame.work,"1875 Connecticut Ave NW, Floor 10, Washington, DC 20009",USA,US,https://frame.work,0
+SID_0352,Franco Nevada Corp,contact@franconevadacorp.com,"199 Bay Street, Suite 2000, Toronto, Ontario, Canada",Canada,CA,https://www.franconevadacorp.com,0
+SID_0353,Freefly Systems,support@freeflysystems.com,19141 Woodinville Snohomish Rd NE,USA,US,https://freeflysystems.com,0
+SID_0354,Freeport-Mcmoran Inc,contact@freeportmcmoraninc.com,"4340 E. Cotton Center Blvd., Phoenix, Az",USA,US,https://www.freeportmcmoraninc.com,0
+SID_0355,FSP Group,support@fsp-group.com.tw,"No. 22, Jianguo E. Rd., Taoyuan",Taiwan,TW,https://www.fsp-group.com,0
+SID_0356,Fujitsu Limited,askfujitsu@fujitsu.com,"Shiodome City Center, 1-5-2 Higashi-Shimbashi, Tokyo",Japan,JP,https://www.fujitsu.com,0
+SID_0357,G-Technology (WD),support@wdc.com,"San Jose, CA 95119",USA,US,https://www.westerndigital.com/g-technology,0
+SID_0358,G.Skill International,support@gskill.com,"9F, No. 285, Sec. 2, Tiding Blvd., Neihu, Taipei",Taiwan,TW,https://www.gskill.com,0
+SID_0359,Gainward (Palit Group),support@gainward.com,"10F., No. 8, Jihu Rd., Neihu Dist., Taipei City 114",Taiwan,TW,https://www.gainward.com,0
+SID_0360,Galax,support@galax.com,"Unit 1101, 11/F, Enterprise Square Two, 3 Sheung Yuet Rd, Kowloon Bay",Hong Kong,HK,https://www.galax.com,0
+SID_0361,Galderma Group Ag/Adr,contact@galdermagroupagadr.com,"383 Madison Avenue, New York, Ny",USA,US,https://www.galdermagroupagadr.com,0
+SID_0362,Gamesense,support@gamesense.gg,"500 Westover Dr., #12411, Sanford, NC 27330",USA,US,https://gamesense.gg,0
+SID_0363,Garmin Aviation,aviation.support@garmin.com,"1200 E. 151st Street, Olathe, KS 66062",USA,US,https://fly.garmin.com,0
+SID_0364,Garmin Ltd.,support@garmin.com,"1200 E. 151st Street, Olathe, KS 66062",USA,US,https://www.garmin.com,0
+SID_0365,Ge Healthcare Technologies Inc.,contact@gehealthcaretechnologiesinc.com,"500 West Monroe Street, Chicago, Il",USA,US,https://www.gehealthcaretechnologiesinc.com,0
+SID_0366,Ge Vernova Inc.,contact@gevernovainc.com,"58 Charles Street, Cambridge, Ma",USA,US,https://www.gevernovainc.com,0
+SID_0367,Genelec Oy,support@genelec.com,"Olvitie 5, 74100 Iisalmi",Finland,FI,https://www.genelec.com,0
+SID_0368,General Dynamics Corp,contact@generaldynamicscorp.com,"11011 Sunset Hills Rd, Reston, Va",USA,US,https://www.generaldynamicscorp.com,0
+SID_0369,General Electric Co,contact@generalelectricco.com,"1 Neumann Way, Evendale, Oh",USA,US,https://www.generalelectricco.com,0
+SID_0370,General Motors Co,contact@generalmotorsco.com,"1240 Woodward Avenue, Detroit, Mi",USA,US,https://www.generalmotorsco.com,0
+SID_0371,GepRC,support@geprc.com,"Floor 3, Building E, No. 1, No. 10 South Olympic Science Park, Shenzhen",China,CN,https://geprc.com,0
+SID_0372,Gigabyte Technology,support@gigabyte.com,"No. 6, Baoqiang Rd., Xindian Dist., New Taipei",Taiwan,TW,https://www.gigabyte.com,0
+SID_0373,Gigaset Communications,support@gigaset.com,"Frankenstraße 2, 46395 Bocholt",Germany,DE,https://www.gigaset.com,0
+SID_0374,"Gilead Sciences, Inc.",contact@gileadsciencesinc.com,"333 Lakeside Dr, Foster City, Ca",USA,US,https://www.gileadsciencesinc.com,0
+SID_0375,GitHub,support@github.com,"88 Colin P Kelly Jr St, San Francisco, CA 94107",USA,US,https://github.com,0
+SID_0376,GitLab,support@gitlab.com,"268 Bush Street, Suite 350, San Francisco, CA 94104",USA,US,https://about.gitlab.com,0
+SID_0377,GL.iNet,support@gl-inet.com,"Unit 203, 2/F, Building 19W, Science Park",Hong Kong,HK,https://www.gl-inet.com,0
+SID_0378,Glorious Gaming,support@gloriousgaming.com,"13809 Research Blvd, Austin, TX 78750",USA,US,https://www.gloriousgaming.com,0
+SID_0379,Goal Zero,support@goalzero.com,"675 W 14600 S, Bluffdale, UT 84065",USA,US,https://www.goalzero.com,0
+SID_0380,Gold Fields Ltd,contact@goldfieldsltd.com,"150 Helen Road, Sandton, South Africa",USA,US,https://www.goldfieldsltd.com,0
+SID_0381,Goldman Sachs Group Inc,contact@goldmansachsgroupinc.com,"200 West Street, New York, Ny",USA,US,https://www.goldmansachsgroupinc.com,0
+SID_0382,Google LLC,support-in@google.com,"1600 Amphitheatre Parkway, Mountain View, CA 94043",USA,US,https://www.google.com,0
+SID_0383,GoPro Inc.,support@gopro.com,"3025 Clearview Way, San Mateo, CA 94402",USA,US,https://www.gopro.com,0
+SID_0384,Govee,support@govee.com,"Shenzhen Qianyan Technology, Shenzhen",China,CN,https://www.govee.com,0
+SID_0385,GPD (Shenzhen GPD),support@gpd.hk,"Room 1006, 10th Floor, Building 4, Huafeng Smart Innovation Park, Bao'an",China,CN,https://www.gpd.hk,0
+SID_0386,Grado Labs,info@gradolabs.com,"4614 7th Ave, Brooklyn, NY 11220",USA,US,https://gradolabs.com,0
+SID_0387,Grayscale Bitcoin Trust Etf,contact@grayscalebitcointrustetf.com,"290 Harbor Drive, Stamford, Ct",USA,US,https://www.grayscalebitcointrustetf.com,0
+SID_0388,Great Wall,support@gwm.com.cn,"Technology Building, Shenzhen",China,CN,https://www.gwm-global.com,0
+SID_0389,Great-West Lifeco Inc.,contact@greatwestlifecoinc.com,"100 Osborne St. N., Winnipeg, Manitoba, Canada",Canada,CA,https://www.greatwestlifecoinc.com,0
+SID_0390,Greenliant Systems,support@greenliant.com,"3970 Freedom Circle, Santa Clara, CA 95054",USA,US,https://www.greenliant.com,0
+SID_0391,Gryphon Online Safety,support@gryphononline.com,"10531 4S Commons Dr, Suite 166, San Diego, CA 92127",USA,US,https://gryphononline.com,0
+SID_0392,Haleon Plc,contact@haleonplc.com,"Building 5, First Floor, Weybridge, United Kingdom",United Kingdom,GB,https://www.haleonplc.com,0
+SID_0393,Hannspree,support@hannspree.com,"No. 488, Sec. 2, Tiding Blvd., Neihu, Taipei",Taiwan,TW,https://www.hannspree.com,0
+SID_0394,Hanvon Technology,support@hanvon.com,"Building 5, No. 8, Dongbeiwang West Road, Haidian, Beijing",China,CN,https://www.hanvon.com,0
+SID_0395,Hanwha Vision (Samsung Techwin),support@hanwhavision.com,"6, Pangyo-ro 319beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do 13488",South Korea,KR,https://www.hanwhavision.com,0
+SID_0396,HaptX Inc.,support@haptx.com,"2200 1st Ave. S., Suite 405, Seattle, WA 98134",USA,US,https://haptx.com,0
+SID_0397,Harman International,HCare@harman.com,"400 Atlantic Street, Stamford, CT 06901",USA,US,https://www.harman.com,0
+SID_0398,"Hartford Insurance Group, Inc.",contact@hartfordinsurancegroupinc.com,"One Hartford Plaza, Hartford, Ct",USA,US,https://www.hartfordinsurancegroupinc.com,0
+SID_0399,HashiCorp,support@hashicorp.com,"101 Second Street, Suite 700, San Francisco, CA 94105",USA,US,https://www.hashicorp.com,0
+SID_0400,"Hca Healthcare, Inc.",contact@hcahealthcareinc.com,"One Park Plz, Nashville, Tn",USA,US,https://www.hcahealthcareinc.com,0
+SID_0401,HEDD Audio GmbH,support@hedd.audio,"Salzufer 13-14, 10587 Berlin",Germany,DE,https://www.hedd.audio,0
+SID_0402,Heico Corp,contact@heicocorp.com,"3000 Taft St, Hollywood, Fl",USA,US,https://www.heicocorp.com,0
+SID_0403,Hershey Co,contact@hersheyco.com,"19 East Chocolate Avenue, Hershey, Pa",USA,US,https://www.hersheyco.com,0
+SID_0404,HIFIMAN Electronics,customerservice@hifiman.com,"2602 Beltagh Ave, Bellmore, NY 11710",USA,US,https://hifiman.com,0
+SID_0405,Hikvision,support.usa@hikvision.com,"18639 Railroad Street, City of Industry, CA 91748",USA,US,https://www.hikvision.com,0
+SID_0406,Hilton Worldwide Holdings Inc.,contact@hiltonworldwideholdingsinc.com,"7930 Jones Branch Drive, Suite 1100, Mclean, Va",USA,US,https://www.hiltonworldwideholdingsinc.com,0
+SID_0407,Hisense,service@hisense-usa.com,"105 Satellite Boulevard NW, Suwanee, GA 30024",USA,US,https://www.hisense-usa.com,0
+SID_0408,Hisense Group,service@hisense.com,"No. 11 Jiangxi Road, Qingdao",China,CN,https://global.hisense.com,0
+SID_0409,Hitachi Ltd,contact@hitachiltd.com,"6-6, Marunouchi 1-Chome, Tokyo Japan, Japan",Japan,JP,https://www.hitachiltd.com,0
+SID_0410,Hitachi Vantara,support@hitachivantara.com,"2535 Augustine Drive, Santa Clara, CA 95054",USA,US,https://www.hitachivantara.com,0
+SID_0411,HMD Global,support@nokia.com,"Bertel Jungin aukio 9, 02600 Espoo",Finland,FI,https://www.hmd.com,0
+SID_0412,Hollyland Technology,support@hollyland-tech.com,"8F, Building 5D, Skyworth Innovation Valley",China,CN,https://www.hollyland-tech.com,0
+SID_0413,Holy Stone,support@holystone.com,"Building 1, Xialingpai Industrial Park, Dalang Dist., Longhua",China,CN,https://www.holystone.com,0
+SID_0414,"Home Depot, Inc.",contact@homedepotinc.com,"2455 Paces Ferry Road, Atlanta, Ga",USA,US,https://www.homedepotinc.com,0
+SID_0415,Honeywell International Inc,contact@honeywellinternationalinc.com,"855 S. Mint Street, Charlotte, Nc",USA,US,https://www.honeywellinternationalinc.com,0
+SID_0416,HONOR Device Co.,uk.support@hihonor.com,"Suite 4, 7th Floor, 50 Broadway, London",United Kingdom,GB,https://www.hihonor.com,0
+SID_0417,Hori,support@hori.jp,"1-4-24 Honcho, Nakano-ku, Tokyo",Japan,JP,https://stores.horiusa.com,0
+SID_0418,Horton D R Inc /De/,contact@hortondrincde.com,"1341 Horton Circle, Arlington, Tx",USA,US,https://www.hortondrincde.com,0
+SID_0419,Howmet Aerospace Inc.,contact@howmetaerospaceinc.com,"201 Isabella Street, Pittsburgh, Pa",USA,US,https://www.howmetaerospaceinc.com,0
+SID_0420,HP Inc.,hpsupport@hp.com,"1501 Page Mill Road, Palo Alto, CA 94304",USA,US,https://www.hp.com,0
+SID_0421,Hsbc Holdings Plc,contact@hsbcholdingsplc.com,"8 Canada Square, London, United Kingdom",Canada,CA,https://www.hsbcholdingsplc.com,0
+SID_0422,HTC Vive,support@vive.com,"No. 6-3, Baoqiang Rd., Xindian, New Taipei",Taiwan,TW,https://www.vive.com,0
+SID_0423,Huawei Technologies,support@huawei.com,"Huawei Base, Bantian, Longgang, Shenzhen",China,CN,https://www.huawei.com,0
+SID_0424,Hubitat Inc.,support@hubitat.com,"8258 S. 48th St., Suite 2, Phoenix, AZ 85044",USA,US,https://hubitat.com,0
+SID_0425,Hubsan,support@hubsan.com,"13th Floor, Building 1C, Shenzhen Software Park",China,CN,https://www.hubsan.com,0
+SID_0426,HubSpot,support@hubspot.com,"25 First Street, 2nd Floor, Cambridge, MA 02141",USA,US,https://www.hubspot.com,0
+SID_0427,Huntkey,support@huntkey.com,"Huntkey Industrial Park, Ban Tian, Shenzhen",China,CN,https://www.huntkey.com,0
+SID_0428,Hyper (Targus),support@hypershop.com,"930 Auburn Ct, Fremont, CA 94538",USA,US,https://www.hypershop.com,0
+SID_0429,Hyperkin Inc.,support@hyperkin.com,"1939 West Mission Blvd, Pomona, CA 91766",USA,US,https://www.hyperkin.com,0
+SID_0430,HyperX,support@hyperx.com,"17600 Newhope Street, Fountain Valley, CA 92708",USA,US,https://www.hyperx.com,0
+SID_0431,IBM,support@ibm.com,"1 New Orchard Road, Armonk, NY 10504",USA,US,https://www.ibm.com,0
+SID_0432,iBuyPower,support@ibuypower.com,"529 N Baldwin Park Blvd, City of Industry, CA 91746",USA,US,https://www.ibuypower.com,0
+SID_0433,Icici Bank Ltd,contact@icicibankltd.com,"Icici Bank Towers, Mumbai, India",India,IN,https://www.icicibankltd.com,0
+SID_0434,ID-COOLING,support@idcooling.com,Shenzhen Industrial Park,China,CN,https://www.idcooling.com,0
+SID_0435,Idexx Laboratories Inc /De,contact@idexxlaboratoriesincde.com,"One Idexx Drive, Westbrook, Me",USA,US,https://www.idexxlaboratoriesincde.com,0
+SID_0436,iFi Audio (Abbingdon Global),support@ifi-audio.com,"Guildford, Surrey, GU1 4RW",United Kingdom,GB,https://ifi-audio.com,0
+SID_0437,iiyama,support@iiyama.com,"Wijkermeerstraat 8, 2131 Hoofddorp",Netherlands,NL,https://iiyama.com,0
+SID_0438,Illinois Tool Works Inc,contact@illinoistoolworksinc.com,"155 Harlem Avenue, Glenview, Il",USA,US,https://www.illinoistoolworksinc.com,0
+SID_0439,Imou,support@imoulife.com,"Dahua Technology, Binjiang, Hangzhou",China,CN,https://www.imoulife.com,0
+SID_0440,Imperial Oil Ltd,contact@imperialoilltd.com,"505 Quarry Park Boulevard S.E., Calgary, Alberta, Canada",Canada,CA,https://www.imperialoilltd.com,0
+SID_0441,Infineon Technologies,support@infineon.com,"Am Campeon 1-15, 85579 Neubiberg",Germany,DE,https://www.infineon.com,0
+SID_0442,Infineon Technologies Ag,contact@infineontechnologiesag.com,"Am Campeon 1-12, Neubiberg, Munich, Germany",Germany,DE,https://www.infineontechnologiesag.com,0
+SID_0443,Ing Groep Nv,contact@inggroepnv.com,"Po Box 1800, Amsterdam, Netherlands",Netherlands,NL,https://www.inggroepnv.com,0
+SID_0444,Ingersoll Rand Inc.,contact@ingersollrandinc.com,"525 Harbour Place Drive, Suite 600, Davidson, Nc",USA,US,https://www.ingersollrandinc.com,0
+SID_0445,Inno3D (InnoVISION),support@inno3d.com,"Unit A & B, 21/F, Mai Wah Industrial Building, 1-7 Wah Sing St., Kwai Chung",Hong Kong,HK,https://www.inno3d.com,0
+SID_0446,Innocn (Century Joint),support@innocn.com,"15F, T1, Evergrande Qianhai Financial Center, Nanshan",China,CN,https://www.innocn.com,0
+SID_0447,Innodisk Corporation,support@innodisk.com,"9F., No. 237, Sec. 1, Datong Rd., Xizhi Dist., New Taipei City 221",Taiwan,TW,https://www.innodisk.com,0
+SID_0448,Innolux Corporation,support@innolux.com,"No. 160, Kesyue Rd., Chu-Nan, Miaoli",Taiwan,TW,https://www.innolux.com,0
+SID_0449,Insta360,service@insta360.com,"2nd Floor, Building V2, Shenzhen Software Park",China,CN,https://www.insta360.com,0
+SID_0450,Integral Memory PLC,support@integralmemory.com,"Unit 6, Iron Bridge Close, Iron Bridge Business Park, London NW10 0UF",United Kingdom,GB,https://www.integralmemory.com,0
+SID_0451,Intel Corp,contact@intelcorp.com,"2200 Mission College Blvd, Santa Clara, Ca",USA,US,https://www.intelcorp.com,0
+SID_0452,Intel Corporation,support@intel.com,"2200 Mission College Blvd, Santa Clara, CA 95054",USA,US,https://www.intel.com,0
+SID_0453,"Interactive Brokers Group, Inc.",contact@interactivebrokersgroupinc.com,"One Pickwick Plaza, Greenwich, Ct",USA,US,https://www.interactivebrokersgroupinc.com,0
+SID_0454,"Intercontinental Exchange, Inc.",contact@intercontinentalexchangeinc.com,"5660 New Northside Drive,, Atlanta, Ga",USA,US,https://www.intercontinentalexchangeinc.com,0
+SID_0455,International Business Machines Corp,contact@internationalbusinessmachinescorp.com,"1 New Orchard Road, Armonk, Ny",USA,US,https://www.internationalbusinessmachinescorp.com,0
+SID_0456,Intuit Inc.,contact@intuitinc.com,"2700 Coast Avenue, Mountain View, Ca",USA,US,https://www.intuitinc.com,0
+SID_0457,Intuitive Surgical Inc,contact@intuitivesurgicalinc.com,"1020 Kifer Road, Sunnyvale, Ca",USA,US,https://www.intuitivesurgicalinc.com,0
+SID_0458,"Invesco Qqq Trust, Series 1",contact@invescoqqqtrustseries1.com,"3500 Lacey Road, Downers Grove, Il",USA,US,https://www.invescoqqqtrustseries1.com,0
+SID_0459,InWin Development,support@in-win.com,"No. 57, Ln. 350, Nanshan Rd., Lujhu",Taiwan,TW,https://www.in-win.com,0
+SID_0460,Ishares Gold Trust,contact@isharesgoldtrust.com,"Blackrock Inc., San Francisco, Ca",USA,US,https://www.isharesgoldtrust.com,0
+SID_0461,Itau Unibanco Holding S.A.,contact@itauunibancoholdingsa.com,"Pc. Alfredo Egydio De Souza Aranha, 100, Sao Paulo, Brazil",Brazil,BR,https://www.itauunibancoholdingsa.com,0
+SID_0462,Ivanky,support@ivanky.com,"Floor 6, Building 2, Longgang Industrial Zone, Shenzhen",China,CN,https://ivanky.com,0
+SID_0463,Jabil,contact@jabil.com,"10800 Roosevelt Boulevard North, St. Petersburg, FL 33716",USA,US,https://www.jabil.com,0
+SID_0464,Jabra,support@jabra.com,"Lautrupbjerg 7, 2750 Ballerup",Denmark,DK,https://www.jabra.com,0
+SID_0465,Jackery,support@jackery.com,"48531 Warm Springs Blvd, Suite 408, Fremont, CA 94539",USA,US,https://www.jackery.com,0
+SID_0466,JBL,support@jbl.com,"8500 Balboa Blvd, Northridge, CA 91329",USA,US,https://www.jbl.com,0
+SID_0467,"Jd.Com, Inc.",contact@jdcominc.com,"20Th Floor, Building A, No. 18 Kechuang, Daxing District, Beijing, China",China,CN,https://www.jdcominc.com,0
+SID_0468,Joby,support@joby.com,"1435 Anacapa St, Santa Barbara, CA 93101",USA,US,https://joby.com,0
+SID_0469,Johnson & Johnson,contact@johnsonjohnson.com,"One Johnson & Johnson Plz, New Brunswick, Nj",USA,US,https://www.johnsonjohnson.com,0
+SID_0470,Johnson Controls International Plc,contact@johnsoncontrolsinternationalplc.com,"One Albert Quay, Cork, Ireland",Ireland,IE,https://www.johnsoncontrolsinternationalplc.com,0
+SID_0471,Jpmorgan Chase & Co,contact@jpmorganchaseco.com,"270 Park Avenue, New York, Ny",USA,US,https://www.jpmorganchaseco.com,0
+SID_0472,Juniper Networks,support@juniper.net,"1133 Innovation Way, Sunnyvale, CA 94089",USA,US,https://www.juniper.net,0
+SID_0473,Kat VR (Hangzhou),support@katvr.com,"Room 901, Building 6, No. 1818-2, Wenyi West Rd, Hangzhou",China,CN,https://www.kat-vr.com,0
+SID_0474,Kb Financial Group Inc.,contact@kbfinancialgroupinc.com,"141, Uisadang-Daero, Seoul, Korea, Republic Of",South Korea,KR,https://www.kbfinancialgroupinc.com,0
+SID_0475,Kbdfans (Changzhou),support@kbdfans.com,"Building 2, No. 18, Huasheng Road, Changzhou, Jiangsu",China,CN,https://kbdfans.com,0
+SID_0476,Keenetic Ltd.,help@keenetic.com,"Unit 1202, 12/F, Mirror Tower, 61 Mody Road, Tsim Sha Tsui, Kowloon",Hong Kong,HK,https://keenetic.com,0
+SID_0477,KEF Audio,info.us@kef.com,"10 Timber Lane, Marlboro, NJ 07746",USA,US,https://www.kef.com,0
+SID_0478,Kennerton Audio Equipment,support@kennerton.com,Saint Petersburg,Russia,RU,https://kennerton.com,0
+SID_0479,Kenvue Inc.,contact@kenvueinc.com,"1 Kenvue Way, Summit, Nj",USA,US,https://www.kenvueinc.com,0
+SID_0480,Kespry Inc.,support@kespry.com,"1160 Chess Dr., Foster City, CA 94404",USA,US,https://www.kespry.com,0
+SID_0481,Keurig Dr Pepper Inc.,contact@keurigdrpepperinc.com,"6425 Hall Of Fame Lane, Frisco, Tx",USA,US,https://www.keurigdrpepperinc.com,0
+SID_0482,Keychron,support@keychron.com,"Unit 403, 4/F, 8 Wong Chuk Hang Road, Aberdeen",Hong Kong,HK,https://www.keychron.com,0
+SID_0483,Keysight Technologies,contact@keysight.com,"1400 Fountaingrove Parkway, Santa Rosa, CA 95403",USA,US,https://www.keysight.com,0
+SID_0484,"Keysight Technologies, Inc.",contact@keysighttechnologiesinc.com,"1400 Fountaingrove Parkway, Santa Rosa, Ca",USA,US,https://www.keysighttechnologiesinc.com,0
+SID_0485,Kimberly Clark Corp,contact@kimberlyclarkcorp.com,"351 Phelps Drive, Irving, Tx",USA,US,https://www.kimberlyclarkcorp.com,0
+SID_0486,"Kinder Morgan, Inc.",contact@kindermorganinc.com,"1001 Louisiana Street, Houston, Tx",USA,US,https://www.kindermorganinc.com,0
+SID_0487,Kindle (Amazon HQ),kindle-support@amazon.com,"410 Terry Ave N, Seattle, WA 98109",USA,US,https://www.amazon.com/kindle,0
+SID_0488,Kinesis,support@kinesis.com,"22030 20th Ave SE, Suite 102, Bothell, WA 98021",USA,US,https://kinesis-ergo.com,0
+SID_0489,Kingston Technology,support@kingston.com,"17600 Newhope Street, Fountain Valley, CA 92708",USA,US,https://www.kingston.com,0
+SID_0490,Kioxia Holdings Corporation/Adr,contact@kioxiaholdingscorporationadr.com,"383 Madison Avenue, New York, Ny",USA,US,https://www.kioxiaholdingscorporationadr.com,0
+SID_0491,Kkr & Co. Inc.,contact@kkrcoinc.com,"30 Hudson Yards, New York, Ny",USA,US,https://www.kkrcoinc.com,0
+SID_0492,Kla Corp,contact@klacorp.com,"One Technology Drive, Milpitas, Ca",USA,US,https://www.klacorp.com,0
+SID_0493,Klipsch,support@klipsch.com,"3502 Woodview Trace, Suite 200, Indianapolis, IN 46268",USA,US,https://www.klipsch.com,0
+SID_0494,Knowledge Zenith (KZ),support@kz-audio.com,"No. 1, Jingsheng 3rd St., Nancun Town, Panyu Dist., Guangzhou",China,CN,https://www.kz-audio.com,0
+SID_0495,Kobo (Rakuten),support@kobo.com,"135 Liberty St, Suite 101, Toronto, ON M6K 1A7",Canada,CA,https://www.kobo.com,0
+SID_0496,Kongsberg Gruppen Asa/Adr,contact@kongsberggruppenasaadr.com,"120 Broadway, New York, Ny",USA,US,https://www.kongsberggruppenasaadr.com,0
+SID_0497,Konka Group,service@konka.com,"Konka Technology Building, South No. 12 Road, Shenzhen",China,CN,https://www.konka.com.hk,0
+SID_0498,Konnected.io,support@konnected.io,"Orlando, FL",USA,US,https://konnected.io,0
+SID_0499,KontrolFreek (SteelSeries),support@kontrolfreek.com,"2020 Westheimer Rd., #311, Houston, TX 77098",USA,US,https://www.kontrolfreek.com,0
+SID_0500,Kroger Co,contact@krogerco.com,"1014 Vine St, Cincinnati, Oh",USA,US,https://www.krogerco.com,0
+SID_0501,KTC (Kangguan Technology),support@ktc.cn,"Kangguan Industrial Park, No. 4023 Northern Wuhe Ave., Longgang",China,CN,https://www.ktcplay.com,0
+SID_0502,"L3Harris Technologies, Inc. /De/",contact@l3harristechnologiesincde.com,"1025 W Nasa Blvd, Melbourne, Fl",USA,US,https://www.l3harristechnologiesincde.com,0
+SID_0503,LaCie (Seagate),support@lacie.com,"47488 Kato Rd, Fremont, CA 94538",USA,US,https://www.lacie.com,0
+SID_0504,Lam Research Corp,contact@lamresearchcorp.com,"4650 Cushing Blvd, Fremont, Ca",USA,US,https://www.lamresearchcorp.com,0
+SID_0505,Lamzu,support@lamzu.com,"Room 1205, Building 2, Cloud Park, Longgang District, Shenzhen",China,CN,https://lamzu.com,0
+SID_0506,Las Vegas Sands Corp,contact@lasvegassandscorp.com,"5420 S. Durango Drive, Las Vegas, Nv",USA,US,https://www.lasvegassandscorp.com,0
+SID_0507,Lattice Semiconductor,support@latticesemi.com,"5555 NE Moore Ct, Hillsboro, OR 97124",USA,US,https://www.latticesemi.com,0
+SID_0508,Leadtek Research Inc.,support@leadtek.com,"18F, No. 166, Jian-1st Rd., Zhonghe Dist., New Taipei City 235",Taiwan,TW,https://www.leadtek.com,0
+SID_0509,Lenovo Group,customerservice@lenovo.com,"1009 Think Place, Morrisville, NC 27560",USA,US,https://www.lenovo.com,0
+SID_0510,Leopold,support@leopold.co.kr,"7, Goyang-daero, Ilsanseo-gu, Goyang-si",South Korea,KR,https://www.leopold.co.kr,0
+SID_0511,Lethal Gaming Gear,support@lethalgaminggear.com,"1309 J.P. Hennessy Dr., Suite A, La Vergne, TN 37086",USA,US,https://lethalgaminggear.com,0
+SID_0512,Level Home Inc.,support@level.co,"900 Middlefield Rd., 4th Floor, Redwood City, CA 94063",USA,US,https://level.co,0
+SID_0513,Leviton,support@leviton.com,"201 North Service Rd, Melville, NY 11747",USA,US,https://www.leviton.com,0
+SID_0514,Lexar,support@lexar.com,"1610 McCandless Dr, Milpitas, CA 95035",USA,US,https://www.lexar.com,0
+SID_0515,Lexmark,support@lexmark.com,"740 West New Circle Road, Lexington, KY 40550",USA,US,https://www.lexmark.com,0
+SID_0516,LG Electronics,customerservice@lge.com,"128 Yeoui-daero, Yeongdeungpo-gu, Seoul",South Korea,KR,https://www.lg.com,0
+SID_0517,Lian Li,support@lian-li.com,"No.11-1, Kong-Chien 1st Rd., Chi-Tu, Keelung",Taiwan,TW,https://www.lian-li.com,0
+SID_0518,Lian Li Industrial,support@lian-li.com,"No.11-1, Kong-Chien 1st Rd., Keelung",Taiwan,TW,https://lian-li.com,0
+SID_0519,Libratone A/S,support@libratone.com,"Niels Hemmingsens Gade 24, 1153 København",Denmark,DK,https://www.libratone.com,0
+SID_0520,LIFX,support@lifx.com,"513 E Main St, Suite 100, Charlottesville, VA",USA,US,https://www.lifx.com,0
+SID_0521,Light (The Light Phone),support@thelightphone.com,"195 Chrystie St, Suite 802, New York, NY 10002",USA,US,https://www.thelightphone.com,0
+SID_0522,Lilliput (Owanda),support@lilliput.com,"No. 26, Fuqiang Rd., Lantian Economic Development Zone, Zhangzhou, Fujian",China,CN,https://www.lilliput.com,0
+SID_0523,Linde Plc,contact@lindeplc.com,"Forge, 43 Church Street West, Woking Surrey, United Kingdom",United Kingdom,GB,https://www.lindeplc.com,0
+SID_0524,Linksys,support@linksys.com,"121 Theory, Irvine, CA 92617",USA,US,https://www.linksys.com,0
+SID_0525,Linsoul Audio,support@linsoul.com,"No. 11-13 Science Park West Ave., Shatin",Hong Kong,HK,https://www.linsoul.com,0
+SID_0526,"Live Nation Entertainment, Inc.",contact@livenationentertainmentinc.com,"9348 Civic Center Drive, Beverly Hills, Ca",USA,US,https://www.livenationentertainmentinc.com,0
+SID_0527,Lloyds Banking Group Plc,contact@lloydsbankinggroupplc.com,"25 Gresham Street, London, United Kingdom",United Kingdom,GB,https://www.lloydsbankinggroupplc.com,0
+SID_0528,Lockheed Martin Corp,contact@lockheedmartincorp.com,"6801 Rockledge Dr, Bethesda, Md",USA,US,https://www.lockheedmartincorp.com,0
+SID_0529,Logitech G,support@logitechg.com,"7700 Gateway Blvd, Newark, CA 94560",USA,US,https://www.logitechg.com,0
+SID_0530,Logitech International,support@logitech.com,"7700 Gateway Blvd, Newark, CA 94560",USA,US,https://www.logitech.com,0
+SID_0531,Lorex Technology,support@lorex.com,"250 Royal Crest Court, Markham, ON",Canada,CA,https://www.lorex.com,0
+SID_0532,Lowes Companies Inc,contact@lowescompaniesinc.com,"1000 Lowes Blvd., Mooresville, Nc",USA,US,https://www.lowescompaniesinc.com,0
+SID_0533,Loxone Electronics,support@loxone.com,"Smart Home 1, 4154 Kollerschlag",Austria,AT,https://www.loxone.com,0
+SID_0534,Lumentum Holdings Inc.,contact@lumentumholdingsinc.com,"1001 Ridder Park Drive, San Jose, Ca",USA,US,https://www.lumentumholdingsinc.com,0
+SID_0535,Lutron Caséta,support@lutron.com,"Coopersburg, PA 18036",USA,US,https://www.casetawireless.com,0
+SID_0536,Lutron Electronics,support@lutron.com,"7200 Suter Rd, Coopersburg, PA 18036",USA,US,https://www.lutron.com,0
+SID_0537,Lynx Mixed Reality,support@lynx-r.com,"75 Rue de Lourmel, 75015 Paris",USA,US,https://www.lynx-r.com,0
+SID_0538,Mad Catz,support@madcatz.com,"Flat 1, 10/F, No. 8, Kwun Tong Road",Hong Kong,HK,https://www.madcatz.com,0
+SID_0539,Magic Leap,support@magicleap.com,"7500 W Sunrise Blvd, Plantation, FL 33313",USA,US,https://www.magicleap.com,0
+SID_0540,Maingear,support@maingear.com,"206 Market St, Kenilworth, NJ 07033",USA,US,https://maingear.com,0
+SID_0541,Manfrotto (Vitec),support@manfrotto.com,"Via dell'Industria 12, 36061 Bassano del Grappa",Italy,IT,https://www.manfrotto.com,0
+SID_0542,Manulife Financial Corp,contact@manulifefinancialcorp.com,"200 Bloor St East, Nt-10, Toronto, Ontario, Canada",Canada,CA,https://www.manulifefinancialcorp.com,0
+SID_0543,Marantz,support@marantz.com,"5541 Fermi Ct, Carlsbad, CA 92008",USA,US,https://www.marantz.com,0
+SID_0544,Marathon Petroleum Corp,contact@marathonpetroleumcorp.com,"539 South Main Street, Findlay, Oh",USA,US,https://www.marathonpetroleumcorp.com,0
+SID_0545,Marriott International Inc /Md/,contact@marriottinternationalincmd.com,"7750 Wisconsin Avenue, Bethesda, Md",USA,US,https://www.marriottinternationalincmd.com,0
+SID_0546,"Marsh & Mclennan Companies, Inc.",contact@marshmclennancompaniesinc.com,"1166 Avenue Of The Americas, New York, Ny",USA,US,https://www.marshmclennancompaniesinc.com,0
+SID_0547,Marshall Electronics,support@marshall-usa.com,"20608 Madrona Ave, Torrance, CA 90503",USA,US,https://marshall-usa.com,0
+SID_0548,Marshall Headphones,support@marshallheadphones.com,"Centralplan 15, 111 20 Stockholm",Sweden,SE,https://www.marshallheadphones.com,0
+SID_0549,Martin Marietta Materials Inc,contact@martinmariettamaterialsinc.com,"4123 Parklake Ave, Raleigh, Nc",USA,US,https://www.martinmariettamaterialsinc.com,0
+SID_0550,Marvell Technology,info@marvell.com,"1000 N. MACEDO BLVD, Santa Clara, CA 95054",USA,US,https://www.marvell.com,0
+SID_0551,"Marvell Technology, Inc.",contact@marvelltechnologyinc.com,"1000 N. West Street, Wilmington, De",USA,US,https://www.marvelltechnologyinc.com,0
+SID_0552,Master & Dynamic,support@masterdynamic.com,"127 West 26th Street, New York, NY 10001",USA,US,https://www.masterdynamic.com,0
+SID_0553,Mastercard Inc,contact@mastercardinc.com,"2000 Purchase Street, Purchase, Ny",USA,US,https://www.mastercardinc.com,0
+SID_0554,McAfee,support@mcafee.com,"6220 America Center Drive, San Jose, CA 95002",USA,US,https://www.mcafee.com,0
+SID_0555,Mcdonalds Corp,contact@mcdonaldscorp.com,"110 North Carpenter Street, Chicago, Il",USA,US,https://www.mcdonaldscorp.com,0
+SID_0556,Mckesson Corp,contact@mckessoncorp.com,"6555 State Highway 161, Irving, Tx",USA,US,https://www.mckessoncorp.com,0
+SID_0557,MediaTek Inc.,contact@mediatek.com,"No. 1, Dusing 1st Rd., Hsinchu Science Park",Taiwan,TW,https://www.mediatek.com,0
+SID_0558,Medline Inc.,contact@medlineinc.com,"3 Lakes Drive, Northfield, Il",USA,US,https://www.medlineinc.com,0
+SID_0559,Meebook (Haoqing),support@meebook.com,"Building 4, Science & Technology Park, Nanshan, Shenzhen",China,CN,https://www.meebook.com,0
+SID_0560,Mercadolibre Inc,contact@mercadolibreinc.com,"Dr. Luis Bonavita 1294 Of. 1733 Tower Ii, Montevideo, Uruguay",USA,US,https://www.mercadolibreinc.com,0
+SID_0561,"Merck & Co., Inc.",contact@merckcoinc.com,"126 East Lincoln Avenue, Rahway, Nj",USA,US,https://www.merckcoinc.com,0
+SID_0562,Mercusys,support@mercusys.com,"No. 5, Keyuan Rd, Nanshan, Shenzhen",China,CN,https://www.mercusys.com,0
+SID_0563,Meross,support@meross.com,"Chengdu Meross Technology, Chengdu",China,CN,https://www.meross.com,0
+SID_0564,"Meta Platforms, Inc.",contact@metaplatformsinc.com,"1 Meta Way, Menlo Park, Ca",USA,US,https://www.metaplatformsinc.com,0
+SID_0565,Metlife Inc,contact@metlifeinc.com,"200 Park Avenue, New York, Ny",USA,US,https://www.metlifeinc.com,0
+SID_0566,Meze Audio,support@mezeaudio.com,"Iuliu Maniu str., nr. 38, 1st floor, ap. 2, Baia Mare, 430131",Romania,RO,https://mezeaudio.com,0
+SID_0567,Microchip Technology,suport@microchip.com,"2355 West Chandler Blvd., Chandler, AZ 85224",USA,US,https://www.microchip.com,0
+SID_0568,Microchip Technology Inc,contact@microchiptechnologyinc.com,"2355 W Chandler Blvd, Chandler, Az",USA,US,https://www.microchiptechnologyinc.com,0
+SID_0569,Microdrones GmbH,support@microdrones.com,"Mühlener Str. 11, 57072 Siegen",Germany,DE,https://www.microdrones.com,0
+SID_0570,Micron Technology,support@micron.com,"8000 S. Federal Way, Boise, ID 83707",USA,US,https://www.micron.com,0
+SID_0571,Micron Technology Inc,contact@microntechnologyinc.com,"8000 S Federal Way, Boise, Id",USA,US,https://www.microntechnologyinc.com,0
+SID_0572,Microsoft Corp,contact@microsoftcorp.com,"One Microsoft Way, Redmond, Wa",USA,US,https://www.microsoftcorp.com,0
+SID_0573,Microsoft Corporation,support@microsoft.com,"One Microsoft Way, Redmond, WA 98052",USA,US,https://www.microsoft.com,0
+SID_0574,"Midea Group Co., Ltd./Adr",contact@mideagroupcoltdadr.com,"Midea New Headquarter Building, No. 6, Foshan, Guangdong, China",China,CN,https://www.mideagroupcoltdadr.com,0
+SID_0575,MikroTik (SIA Mikrotīkls),support@mikrotik.com,"Brivibas gatve 214i, Riga, LV-1039",Latvia,LV,https://mikrotik.com,0
+SID_0576,Mistel Keyboard,support@mistelkeyboard.com,"No. 4, Ln. 183, Sec. 2, Datong Rd., Xizhi Dist., New Taipei City 221",Taiwan,TW,http://www.mistelkeyboard.com,0
+SID_0577,Mitsubishi Ufj Financial Group Inc,contact@mitsubishiufjfinancialgroupinc.com,"4-5, Marunouchi 1-Chome, Tokyo, Japan",Japan,JP,https://www.mitsubishiufjfinancialgroupinc.com,0
+SID_0578,Mizuho Financial Group Inc,contact@mizuhofinancialgroupinc.com,"1-5-5, Otemachi, Chiyoda-Ku, Tokyo, Japan",Japan,JP,https://www.mizuhofinancialgroupinc.com,0
+SID_0579,MobiScribe (TeamScribe),support@mobiscribe.com,"1150 Ringwood Ct, Suite B, San Jose, CA 95131",USA,US,https://www.mobiscribe.com,0
+SID_0580,Mobvoi (TicWatch),support@mobvoi.com,"Building 2-106, No.2 Shangdi West Rd, Beijing",China,CN,https://www.mobvoi.com,0
+SID_0581,Mode Designs,support@modedesigns.com,"55 Almaden Blvd, Floor 6, San Jose, CA 95113",USA,US,https://modedesigns.com,0
+SID_0582,Molex,support@molex.com,"2222 Wellington Court, Lisle, IL 60532",USA,US,https://www.molex.com,0
+SID_0583,"Mondelez International, Inc.",contact@mondelezinternationalinc.com,"905 West Fulton Market, Chicago, Il",USA,US,https://www.mondelezinternationalinc.com,0
+SID_0584,MongoDB,support@mongodb.com,"1633 Broadway, 38th Floor, New York, NY 10019",USA,US,https://www.mongodb.com,0
+SID_0585,Monolithic Power Systems Inc,contact@monolithicpowersystemsinc.com,"1555 Palm Beach Lakes Blvd., West Palm Beach, Fl",USA,US,https://www.monolithicpowersystemsinc.com,0
+SID_0586,Monoprice,support@monoprice.com,"1 Pointe Dr, Suite 400, Brea, CA 92821",USA,US,https://www.monoprice.com,0
+SID_0587,Monster Beverage Corp,contact@monsterbeveragecorp.com,"1 Monster Way, Corona, Ca",USA,US,https://www.monsterbeveragecorp.com,0
+SID_0588,Moodys Corp /De/,contact@moodyscorpde.com,"7 World Trade Center, New York, Ny",USA,US,https://www.moodyscorpde.com,0
+SID_0589,Moondrop Lab,support@moondroplab.com,"Floor 2, No. 888 Tianfu Avenue North, High-Tech Zone, Chengdu",China,CN,https://moondroplab.com,0
+SID_0590,Moondrop Technology,support@moondroplab.com,"No.888 Tianfu Avenue North, Chengdu, Sichuan",China,CN,https://www.moondroplab.com,0
+SID_0591,Mophie (Zagg),support@mophie.com,"910 West Legacy Center Way, Midvale, UT 84047",USA,US,https://www.zagg.com/mophie,0
+SID_0592,Morgan Stanley,contact@morganstanley.com,"1585 Broadway, New York, Ny",USA,US,https://www.morganstanley.com,0
+SID_0593,Motorola Mobility,support@motorola.com,"222 W. Merchandise Mart Plaza, Suite 1800, Chicago, IL 60654",USA,US,https://www.motorola.com,0
+SID_0594,"Motorola Solutions, Inc.",contact@motorolasolutionsinc.com,"500 W. Monroe St., Chicago, Il",USA,US,https://www.motorolasolutionsinc.com,0
+SID_0595,Mous,support@mous.co,"The Leather Market, Unit 4.1.1, Weston St, London SE1 3ER",United Kingdom,GB,https://www.mous.co,0
+SID_0596,Movado Group Inc.,support@movado.com,"650 From Rd., Suite 375, Paramus, NJ 07652",USA,US,https://www.movadogroup.com,0
+SID_0597,Moza (Gudsen),support@gudsen.com,"Nanshan District, Shenzhen",China,CN,https://www.gudsen.com,0
+SID_0598,Mplx Lp,contact@mplxlp.com,"200 E. Hardin Street, Findlay, Oh",USA,US,https://www.mplxlp.com,0
+SID_0599,Msci Inc.,contact@msciinc.com,"7 World Trade Center, New York, Ny",USA,US,https://www.msciinc.com,0
+SID_0600,MSI (Micro-Star),USAsales@msi.com,"No.69, Lide St., Zhonghe Dist., New Taipei",Taiwan,TW,https://www.msi.com,0
+SID_0601,Mushkin,support@mushkin.com,"828 New Holland Ave, Lancaster, PA 17602",USA,US,https://www.mushkin.com,0
+SID_0602,Naim Audio Ltd.,support@naimaudio.com,"Southampton Rd, Salisbury SP1 2LN",United Kingdom,GB,https://www.naimaudio.com,0
+SID_0603,Nanoleaf,support@nanoleaf.me,"100 Front St E, Toronto, ON",Canada,CA,https://nanoleaf.me,0
+SID_0604,"Nasdaq, Inc.",contact@nasdaqinc.com,"151 W. 42Nd Street, New York, Ny",USA,US,https://www.nasdaqinc.com,0
+SID_0605,National Grid Plc,contact@nationalgridplc.com,"1-3 Strand, London, United Kingdom",United Kingdom,GB,https://www.nationalgridplc.com,0
+SID_0606,National Instruments,support@ni.com,"11500 N Mopac Expwy, Austin, TX 78759",USA,US,https://www.ni.com,0
+SID_0607,Native Union,support@nativeunion.com,"21/F, Eastside, 9 Hing Yip St, Kwun Tong",Hong Kong,HK,https://www.nativeunion.com,0
+SID_0608,Natwest Group Plc,contact@natwestgroupplc.com,"Gogarburn, Edinburgh, Scotland, United Kingdom",United Kingdom,GB,https://www.natwestgroupplc.com,0
+SID_0609,NEC Display Solutions,support@necdisplay.com,"4-1-1, Shibaura, Minato-ku, Tokyo",Japan,JP,https://www.sharpnecdisplays.com,0
+SID_0610,Nest (Google),support@google.com,"Mountain View, CA 94043",USA,US,https://store.google.com/category/connected_home,0
+SID_0611,NetApp,support@netapp.com,"1395 Crossman Avenue, Sunnyvale, CA 94089",USA,US,https://www.netapp.com,0
+SID_0612,Netatmo (Legrand),support@netatmo.com,"8 Rue Jean Jaurès, 92100 Boulogne-Billancourt",France,FR,https://www.netatmo.com,0
+SID_0613,Netflix Inc,contact@netflixinc.com,"121 Albright Way, Los Gatos, Ca",USA,US,https://www.netflixinc.com,0
+SID_0614,Netgear Inc.,customer.service@netgear.com,"350 E. Plumeria Drive, San Jose, CA 95134",USA,US,https://www.netgear.com,0
+SID_0615,New Relic,support@newrelic.com,"188 Spear Street, Suite 1000, San Francisco, CA 94105",USA,US,https://www.newrelic.com,0
+SID_0616,Newmont Corp /De/,contact@newmontcorpde.com,"6900 E Layton Ave, Denver, Co",USA,US,https://www.newmontcorpde.com,0
+SID_0617,Next Level Racing,support@nextlevelracing.com,"121 Waterways Dr, Coomera QLD 4209",Australia,AU,https://nextlevelracing.com,0
+SID_0618,Nextera Energy Inc,contact@nexteraenergyinc.com,"700 Universe Blvd, Juno Beach, Fl",USA,US,https://www.nexteraenergyinc.com,0
+SID_0619,Nextorage Corporation,support@nextorage.net,"4-16-1, Minatomirai, Nishi-ku, Yokohama, Kanagawa 220-0012",Japan,JP,https://www.nextorage.net,0
+SID_0620,"Nike, Inc.",contact@nikeinc.com,"One Bowerman Dr, Beaverton, Or",USA,US,https://www.nikeinc.com,0
+SID_0621,Nimble,support@gonimble.com,"100 Kalmus Dr, Suite 200, Costa Mesa, CA 92626",USA,US,https://www.gonimble.com,0
+SID_0622,Ninjutso,support@ninjutso.com,"No. 11, Jinshui Rd, Nanshan District, Shenzhen",China,CN,https://ninjutso.com,0
+SID_0623,Nintendo,nintendo@noa.nintendo.com,"4600 150th Ave NE, Redmond, WA 98052",USA,US,https://www.nintendo.com,0
+SID_0624,Noble Audio,support@nobleaudio.com,"109 Hwy 110 S, Whitehouse, TX 75791",USA,US,https://nobleaudio.com,0
+SID_0625,Noblechairs (Pro Gamersware),support@noblechairs.com,"Immersionsstr. 1, 10553 Berlin",Germany,DE,https://www.noblechairs.com,0
+SID_0626,Noctua (Rascom),support@noctua.at,"Wagramer Str. 81, 1220 Vienna",Austria,AT,https://noctua.at,0
+SID_0627,Nokia,support@nokia.com,"Karaportti 3, 02610 Espoo",Finland,FI,https://www.nokia.com,0
+SID_0628,Nokia Corp,contact@nokiacorp.com,"Karakaari 7, Espoo Finland, Finland",Finland,FI,https://www.nokiacorp.com,0
+SID_0629,Nomad Goods,support@nomadgoods.com,"1187 Coast Village Rd, Santa Barbara, CA 93108",USA,US,https://nomadgoods.com,0
+SID_0630,Norfolk Southern Corp,contact@norfolksoutherncorp.com,"650 W Peachtree Street Nw, Atlanta, Ga",USA,US,https://www.norfolksoutherncorp.com,0
+SID_0631,Northrop Grumman Corp /De/,contact@northropgrummancorpde.com,"2980 Fairview Park Drive, Falls Church, Va",USA,US,https://www.northropgrummancorpde.com,0
+SID_0632,Nothing Technology Ltd,support@nothing.tech,"80 Cheapside, London, EC2V 6EE",United Kingdom,GB,https://nothing.tech,0
+SID_0633,Novartis Ag,contact@novartisag.com,"Lichtstrasse 35, Basel, Switzerland",Switzerland,CH,https://www.novartisag.com,0
+SID_0634,NovelKeys LLC,support@novelkeys.com,"68079 Red Arrow Hwy, Hartford, MI 49057",USA,US,https://novelkeys.com,0
+SID_0635,Novo Nordisk A S,contact@novonordiskas.com,"Novo Alle Dk 2880, Bagsvaerd Denmark, Denmark",Denmark,DK,https://www.novonordiskas.com,0
+SID_0636,"Nrg Energy, Inc.",contact@nrgenergyinc.com,"910 Louisiana Street, Houston, Tx",USA,US,https://www.nrgenergyinc.com,0
+SID_0637,Nu Holdings Ltd.,contact@nuholdingsltd.com,"Rua Capote Valente, 39, Sao Paulo, Sp, Brazil",Brazil,BR,https://www.nuholdingsltd.com,0
+SID_0638,Nucor Corp,contact@nucorcorp.com,"1915 Rexford Rd, Charlotte, Nc",USA,US,https://www.nucorcorp.com,0
+SID_0639,Nuki Home Solutions,support@nuki.io,"Münzgrabenstraße 92/4, 8010 Graz",Austria,AT,https://nuki.io,0
+SID_0640,NuPhy Studio,support@nuphy.com,"Room 402, Building A, Sunshine Science Park, Nanshan, Shenzhen",China,CN,https://nuphy.com,0
+SID_0641,Nutanix,support@nutanix.com,"1740 Technology Drive, Suite 150, San Jose, CA 95110",USA,US,https://www.nutanix.com,0
+SID_0642,Nutrien Ltd.,contact@nutrienltd.com,"211 19Th Street East, Saskatoon, Saskatchewan, Canada",Canada,CA,https://www.nutrienltd.com,0
+SID_0643,Nvidia Corp,contact@nvidiacorp.com,"2788 San Tomas Expressway, Santa Clara, Ca",USA,US,https://www.nvidiacorp.com,0
+SID_0644,NVIDIA Corporation,info@nvidia.com,"2788 San Tomas Expressway, Santa Clara, CA 95051",USA,US,https://www.nvidia.com,0
+SID_0645,NXP Semiconductors,support@nxp.com,"6501 William Cannon Drive West, Austin, TX 78735",USA,US,https://www.nxp.com,0
+SID_0646,NZXT,support@nzxt.com,"15736 E. Valley Blvd, City of Industry, CA 91744",USA,US,https://www.nzxt.com,0
+SID_0647,NZXT Components,support@nzxt.com,"15736 E. Valley Blvd, City of Industry, CA",USA,US,https://nzxt.com,0
+SID_0648,O Reilly Automotive Inc,contact@oreillyautomotiveinc.com,"233 S Patterson Ave, Springfield, Mo",USA,US,https://www.oreillyautomotiveinc.com,0
+SID_0649,Okta,support@okta.com,"100 First Street, 6th Floor, San Francisco, CA 94105",USA,US,https://www.okta.com,0
+SID_0650,"Old Dominion Freight Line, Inc.",contact@olddominionfreightlineinc.com,"500 Old Dominion Way, Thomasville, Nc",USA,US,https://www.olddominionfreightlineinc.com,0
+SID_0651,Omnicharge,support@omnicharge.co,"21600 Oxnard St, Suite 300, Woodland Hills, CA 91367",USA,US,https://www.omnicharge.co,0
+SID_0652,Omnitype,support@omnitype.com,"500 Westover Dr, #12411, Sanford, NC 27330",USA,US,https://omnitype.com,0
+SID_0653,Oneok Inc /New/,contact@oneokincnew.com,"100 West 5Th St, Tulsa, Ok",USA,US,https://www.oneokincnew.com,0
+SID_0654,OnePlus Technology,support@oneplus.com,"Shenzhen, Guangdong",China,CN,https://www.oneplus.com,0
+SID_0655,Onkyo,support@onkyousa.com,"18 Park Way, Upper Saddle River, NJ 07458",USA,US,https://www.onkyousa.com,0
+SID_0656,Onyx International,support@onyx-international.com,"Room 1002, 10/F, No. 1, No. 10 South Olympic Science Park, Haidian, Beijing",China,CN,https://boox.com,0
+SID_0657,Onyx International Inc. (Boox),support@onyx-international.com,"Room 1002, 10th Floor, No. 1, No. 10 South Olympic Science & Technology Park, Haidian",China,CN,https://www.boox.com,0
+SID_0658,OPPO Electronics,support@oppo.com,"18 Haibin Road, Wusha, Chang'an, Dongguan",China,CN,https://www.oppo.com,0
+SID_0659,Optoma Corporation,support@optoma.com,"12F., No. 213, Sec. 3, Beixin Rd., Xindian",Taiwan,TW,https://www.optoma.com,0
+SID_0660,Oracle,support@oracle.com,"2300 Oracle Way, Austin, TX 78741",USA,US,https://www.oracle.com,0
+SID_0661,Oracle Corp,contact@oraclecorp.com,"2300 Oracle Way, Austin, Tx",USA,US,https://www.oraclecorp.com,0
+SID_0662,Origin PC (Corsair),support@originpc.com,"12400 SW 134th Ct, Suite 8, Miami, FL 33186",USA,US,https://www.originpc.com,0
+SID_0663,Otis Worldwide Corp,contact@otisworldwidecorp.com,"One Carrier Place, Farmington, Ct",USA,US,https://www.otisworldwidecorp.com,0
+SID_0664,OtterBox,support@otterbox.com,"209 S. Meldrum St, Fort Collins, CO 80521",USA,US,https://www.otterbox.com,0
+SID_0665,Oura Health,support@ouraring.com,"Elektroniikkatie 10, 90590 Oulu",Finland,FI,https://ouraring.com,0
+SID_0666,OWC (Other World Computing),support@owc.com,"8 Galaxy Way, Woodstock, IL 60098",USA,US,https://www.owc.com,0
+SID_0667,Paccar Inc,contact@paccarinc.com,"Paccar Building, Bellevue, Wa",USA,US,https://www.paccarinc.com,0
+SID_0668,Palantir Technologies Inc.,contact@palantirtechnologiesinc.com,"19505 Biscayne Boulevard, Aventura, Fl",USA,US,https://www.palantirtechnologiesinc.com,0
+SID_0669,Palit Microsystems,support@palit.com,"10F., No. 8, Jihu Rd., Neihu Dist., Taipei",Taiwan,TW,https://www.palit.com,0
+SID_0670,Palo Alto Networks,support@paloaltonetworks.com,"3000 Tannery Way, Santa Clara, CA 95054",USA,US,https://www.paloaltonetworks.com,0
+SID_0671,Palo Alto Networks Inc,contact@paloaltonetworksinc.com,"3000 Tannery Way, Santa Clara, Ca",USA,US,https://www.paloaltonetworksinc.com,0
+SID_0672,Panasonic Holdings,support@panasonic.com,"1006 Oaza Kadoma, Kadoma-shi, Osaka 571-8501",Japan,JP,https://www.panasonic.com,0
+SID_0673,Panic Inc.,support@play.date,"315 SW 11th Ave, Suite 400, Portland, OR 97205",USA,US,https://play.date,0
+SID_0674,Parker-Hannifin Corp,contact@parkerhannifincorp.com,"6035 Parkland Boulevard, Cleveland, Oh",USA,US,https://www.parkerhannifincorp.com,0
+SID_0675,Parrot,support@parrot.com,"174 Quai de Jemmapes, 75010 Paris",USA,US,https://www.parrot.com,0
+SID_0676,Patriot Memory,support@patriotmemory.com,"47027 Benicia St, Fremont, CA 94538",USA,US,https://www.patriotmemory.com,0
+SID_0677,Paychex Inc,contact@paychexinc.com,"911 Panorama Trail S, Rochester, Ny",USA,US,https://www.paychexinc.com,0
+SID_0678,"Paypal Holdings, Inc.",contact@paypalholdingsinc.com,"2211 North First Street, San Jose, Ca",USA,US,https://www.paypalholdingsinc.com,0
+SID_0679,PDP (Performance Designed),support@pdp.com,"14115 Danielson St., Suite 200, Poway, CA 92064",USA,US,https://www.pdp.com,0
+SID_0680,Peak Design,support@peakdesign.com,"2325 3rd St, Suite 410, San Francisco, CA 94107",USA,US,https://www.peakdesign.com,0
+SID_0681,Peplink,support@peplink.com,"Unit 701, 7/F, 11-13 Science Park West Ave",Hong Kong,HK,https://www.peplink.com,0
+SID_0682,Pepsico Inc,contact@pepsicoinc.com,"700 Anderson Hill Rd, Purchase, Ny",USA,US,https://www.pepsicoinc.com,0
+SID_0683,Pfizer Inc,contact@pfizerinc.com,"66 Hudson Boulevard East, New York, Ny",USA,US,https://www.pfizerinc.com,0
+SID_0684,Pg&E Corp,contact@pgecorp.com,"300 Lakeside Drive, Oakland, Ca",USA,US,https://www.pgecorp.com,0
+SID_0685,Phanteks,support@phanteks.com,"20249 Paseo Lucido, Walnut, CA 91789",USA,US,https://www.phanteks.com,0
+SID_0686,Philip Morris International Inc.,contact@philipmorrisinternationalinc.com,"677 Washington Blvd, Ste. 1100, Stamford, Ct",USA,US,https://www.philipmorrisinternationalinc.com,0
+SID_0687,Philips,philips.support@philips.com,"High Tech Campus 52, 5656 AG Eindhoven",Netherlands,NL,https://www.philips.com,0
+SID_0688,Philips Hue (Signify),support@philips-hue.com,"High Tech Campus 48, Eindhoven",Netherlands,NL,https://www.philips-hue.com,0
+SID_0689,Phillips 66,contact@phillips66.com,"2331 Citywest Blvd., Houston, Tx",USA,US,https://www.phillips66.com,0
+SID_0690,Pico Interactive,support@picoxr.com,"Haidian District, Beijing",China,CN,https://www.picoxr.com,0
+SID_0691,Pimax Technology,support@pimax.com,"Building A, 11th Floor, Fenghuanggang No. 3rd Industrial Zone, Bao'an, Shenzhen",China,CN,https://pimax.com,0
+SID_0692,Pioneer Corporation,customer.service@pioneer.com,"2050 W 190th Street, Suite 100, Torrance, CA",USA,US,https://www.pioneerelectronics.com,0
+SID_0693,Pitaka,support@ipitaka.com,"Room 303, Building 1, No. 1, Xinghua Rd., Nanshan, Shenzhen",China,CN,https://www.ipitaka.com,0
+SID_0694,Pixio,support@pixiogaming.com,"19701 Hamilton Ave, Suite 150, Torrance, CA 90502",USA,US,https://www.pixiogaming.com,0
+SID_0695,Planar Systems,support@planar.com,"1195 NE Compton Dr, Hillsboro, OR 97006",USA,US,https://www.planar.com,0
+SID_0696,Playseat,support@playseat.com,"Herenweg 29, 2465 AA Rijnsaterwoude",Netherlands,NL,https://www.playseat.com,0
+SID_0697,Plugable Technologies,support@plugable.com,"14432 SE Eastgate Way, Bellevue, WA",USA,US,https://plugable.com,0
+SID_0698,Plume Design Inc.,support@plume.com,"290 California Ave, Suite 200, Palo Alto, CA 94301",USA,US,https://www.plume.com,0
+SID_0699,"Pnc Financial Services Group, Inc.",contact@pncfinancialservicesgroupinc.com,"The Tower At Pnc Plaza, Pittsburgh, Pa",USA,US,https://www.pncfinancialservicesgroupinc.com,0
+SID_0700,PNY Technologies,support@pny.com,"100 Jefferson Rd, Parsippany, NJ 07054",USA,US,https://www.pny.com,0
+SID_0701,PocketBook International SA,support@pocketbook-int.com,"Crocicchio Cortogna 6, 6900 Lugano",Switzerland,CH,https://pocketbook.ch,0
+SID_0702,Polar Electro,support@polar.com,"Professorintie 5, 90440 Kempele",Finland,FI,https://www.polar.com,0
+SID_0703,Polk Audio,polkcs@polkaudio.com,"5541 Fermi Ct, Carlsbad, CA 92008",USA,US,https://www.polkaudio.com,0
+SID_0704,Potensic (Deepsea Excellence),support@potensic.com,"Room 526, 5/F, East Wing, 801 Building, Tairan 9th Rd., Futian",China,CN,https://potensic.com,0
+SID_0705,PowerA (ACCO Brands),support@powera.com,"4 Corporate Dr, Lake Zurich, IL 60047",USA,US,https://www.powera.com,0
+SID_0706,PowerColor (TUL),support@powercolor.com,"7F, No. 79, Sec 1, Xintai 5th Rd, Xizhi Dist, New Taipei City 221",Taiwan,TW,https://www.powercolor.com,0
+SID_0707,PowerVision,support@powervision.me,"Chaoyang District, Beijing",China,CN,https://www.powervision.me,0
+SID_0708,Procter & Gamble Co,contact@proctergambleco.com,"One Procter & Gamble Plaza, Cincinnati, Oh",USA,US,https://www.proctergambleco.com,0
+SID_0709,ProGrade Digital,support@progradedigital.com,"San Jose, CA 95134",USA,US,https://progradedigital.com,0
+SID_0710,Progressive Corp/Oh/,contact@progressivecorpoh.com,"300 North Commons Blvd., Mayfield Village, Oh",USA,US,https://www.progressivecorpoh.com,0
+SID_0711,"Prologis, Inc.",contact@prologisinc.com,"Pier 1 Bay 1, San Francisco, Ca",USA,US,https://www.prologisinc.com,0
+SID_0712,Prudential Financial Inc,contact@prudentialfinancialinc.com,"751 Broad St, Newark, Nj",USA,US,https://www.prudentialfinancialinc.com,0
+SID_0713,Pt Chandra Asri Petrochemical Tbk/Adr,contact@ptchandraasripetrochemicaltbkadr.com,"120 Broadway, New York, Ny",USA,US,https://www.ptchandraasripetrochemicaltbkadr.com,0
+SID_0714,PTC,support@ptc.com,"121 Seaport Blvd, Boston, MA 02210",USA,US,https://www.ptc.com,0
+SID_0715,Public Service Enterprise Group Inc,contact@publicserviceenterprisegroupinc.com,"Corporate Accounting Services, Newark, Nj",USA,US,https://www.publicserviceenterprisegroupinc.com,0
+SID_0716,Public Storage,contact@publicstorage.com,"701 Western Avenue, Glendale, Ca",USA,US,https://www.publicstorage.com,0
+SID_0717,Pulsar Gaming Gear,support@pulsar.gg,"Room 1004, 16, Magokjungang 14-ro, Gangseo-gu, Seoul",South Korea,KR,https://www.pulsar.gg,0
+SID_0718,Punkt Tronics AG,info@punkt.ch,"Via Carlo Maderno 6, 6900 Lugano",Switzerland,CH,https://www.punkt.ch,0
+SID_0719,Pure Storage,support@purestorage.com,"650 Castro Street, Suite 400, Mountain View, CA 94041",USA,US,https://www.purestorage.com,0
+SID_0720,Purism SPC,support@puri.sm,"10121 Coors Blvd NW, Suite G-165, Albuquerque, NM 87114",USA,US,https://puri.sm,0
+SID_0721,Qualcomm Inc/De,contact@qualcommincde.com,"5775 Morehouse Dr, San Diego, Ca",USA,US,https://www.qualcommincde.com,0
+SID_0722,Qualcomm Incorporated,info@qualcomm.com,"5775 Morehouse Drive, San Diego, CA 92121",USA,US,https://www.qualcomm.com,0
+SID_0723,"Quanta Services, Inc.",contact@quantaservicesinc.com,"2727 North Loop West, Houston, Tx",USA,US,https://www.quantaservicesinc.com,0
+SID_0724,QuirkLogic Inc.,support@quirklogic.com,"10050 112 St NW, Suite 904, Edmonton, AB T5K 2L9",Canada,CA,https://www.quirklogic.com,0
+SID_0725,Rama Works,support@rama.works,"121 Waterways Dr, Coomera, QLD 4209",Australia,AU,https://rama.works,0
+SID_0726,Ratta Smart Technology (Supernote),service@supernote.com,"Room 402, Building 1, No. 500, Zhengli Road, Yangpu District, Shanghai",China,CN,https://supernote.com,0
+SID_0727,RavPower,support@ravpower.com,"3100 Laurelview Ct, Fremont, CA 94538",USA,US,https://www.ravpower.com,0
+SID_0728,Razer Inc.,support@razer.com,"9 Pasteur, Suite 100, Irvine, CA 92618",USA,US,https://www.razer.com,0
+SID_0729,Realme,service@realme.com,"No. 18 Hairan Rd., Wusha Community, Chang'an, Dongguan",China,CN,https://www.realme.com,0
+SID_0730,Realty Income Corp,contact@realtyincomecorp.com,"11995 El Camino Real, San Diego, Ca",USA,US,https://www.realtyincomecorp.com,0
+SID_0731,RealWear Inc.,support@realwear.com,"600 Hatheway Rd., Vancouver, WA 98661",USA,US,https://www.realwear.com,0
+SID_0732,Red Hat (IBM),support@redhat.com,"100 East Davie Street, Raleigh, NC 27601",USA,US,https://www.redhat.com,0
+SID_0733,Redis,support@redis.com,"600 Clyde Avenue, Suite 500, Mountain View, CA 94043",USA,US,https://redis.com,0
+SID_0734,"Regeneron Pharmaceuticals, Inc.",contact@regeneronpharmaceuticalsinc.com,"777 Old Saw Mill River Road, Tarrytown, Ny",USA,US,https://www.regeneronpharmaceuticalsinc.com,0
+SID_0735,Relx Plc,contact@relxplc.com,"1-3 Strand, London, United Kingdom",United Kingdom,GB,https://www.relxplc.com,0
+SID_0736,reMarkable AS,support@remarkable.com,"Biermanns gate 6, 0473 Oslo",Norway,NO,https://remarkable.com,0
+SID_0737,Renesas Electronics,support@renesas.com,"Toyosu Foresia, 3-2-24 Toyosu, Koto-ku, Tokyo",Japan,JP,https://www.renesas.com,0
+SID_0738,Reolink Digital,support@reolink.com,"160 SW 12th Ave # 106, Deerfield Beach, FL 33442",USA,US,https://reolink.com,0
+SID_0739,"Republic Services, Inc.",contact@republicservicesinc.com,"18500 N. Allied Way, Phoenix, Az",USA,US,https://www.republicservicesinc.com,0
+SID_0740,Resmed Inc,contact@resmedinc.com,"9001 Spectrum Center Blvd., San Diego, Ca",USA,US,https://www.resmedinc.com,0
+SID_0741,RhinoShield (Evolutive Labs),support@rhinoshield.io,"3F, No. 1, Jingke 5th Rd., Nantun Dist., Taichung City 408",Taiwan,TW,https://rhinoshield.io,0
+SID_0742,Ricoh,support@ricoh-usa.com,"300 Eagleview Boulevard, Exton, PA 19341",USA,US,https://www.ricoh-usa.com,0
+SID_0743,Ring (Amazon),help@ring.com,"1523 26th Street, Santa Monica, CA 90404",USA,US,https://ring.com,0
+SID_0744,Rio Tinto Ltd,contact@riotintoltd.com,"43-120 Collins Street, Victoria 3000, Australia",Australia,AU,https://www.riotintoltd.com,0
+SID_0745,Rio Tinto Plc,contact@riotintoplc.com,"6 St James'S Square, London, Sw1Y 4Ad, United Kingdom",United Kingdom,GB,https://www.riotintoplc.com,0
+SID_0746,"Robinhood Markets, Inc.",contact@robinhoodmarketsinc.com,"85 Willow Road, Menlo Park, Ca",USA,US,https://www.robinhoodmarketsinc.com,0
+SID_0747,Roblox Corp,contact@robloxcorp.com,"3150 South Delaware Street, San Mateo, Ca",USA,US,https://www.robloxcorp.com,0
+SID_0748,Roccat (Turtle Beach),support@roccat.com,"Luruper Chaussee 145, 22761 Hamburg",Germany,DE,https://www.roccat.com,0
+SID_0749,"Rocket Companies, Inc.",contact@rocketcompaniesinc.com,"1050 Woodward Avenue, Detroit, Mi",USA,US,https://www.rocketcompaniesinc.com,0
+SID_0750,Rocket Lab Corp,contact@rocketlabcorp.com,"3881 Mcgowen Street, Long Beach, Ca",USA,US,https://www.rocketlabcorp.com,0
+SID_0751,"Rockwell Automation, Inc",contact@rockwellautomationinc.com,"1201 South 2Nd Street, Milwaukee, Wi",USA,US,https://www.rockwellautomationinc.com,0
+SID_0752,Roper Technologies Inc,contact@ropertechnologiesinc.com,"6496 University Parkway, Sarasota, Fl",USA,US,https://www.ropertechnologiesinc.com,0
+SID_0753,Rosewill,support@rosewill.com,"17708 Rowland St, City of Industry, CA 91748",USA,US,https://www.rosewill.com,0
+SID_0754,"Ross Stores, Inc.",contact@rossstoresinc.com,"5130 Hacienda Drive, Dublin, Ca",USA,US,https://www.rossstoresinc.com,0
+SID_0755,Royal Caribbean Cruises Ltd,contact@royalcaribbeancruisesltd.com,"1050 Caribbean Way, Miami, Fl",USA,US,https://www.royalcaribbeancruisesltd.com,0
+SID_0756,Rtx Corp,contact@rtxcorp.com,"1000 Wilson Blvd, Arlington, Va",USA,US,https://www.rtxcorp.com,0
+SID_0757,Ruark Audio,support@ruarkaudio.com,"59 Tailors Court, Temple Farm Industrial Estate, Southend-on-Sea",United Kingdom,GB,https://www.ruarkaudio.com,0
+SID_0758,Ryze Robotics,support@ryzerobotics.com,"Room 1102, Building T2, Everest Qianhai Financial Center, Nanshan",China,CN,https://www.ryzerobotics.com,0
+SID_0759,S&P Global Inc.,contact@spglobalinc.com,"55 Water Street, New York, Ny",USA,US,https://www.spglobalinc.com,0
+SID_0760,Sabrent,support@sabrent.com,"3030 Olympic Blvd, Santa Monica, CA 90404",USA,US,https://www.sabrent.com,0
+SID_0761,Salesforce,support@salesforce.com,"Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105",USA,US,https://www.salesforce.com,0
+SID_0762,"Salesforce, Inc.",contact@salesforceinc.com,"Salesforce Tower, San Francisco, Ca",USA,US,https://www.salesforceinc.com,0
+SID_0763,Samsung Electronics,support@samsung.com,"129 Samsung-ro, Suwon-si, Gyeonggi-do",South Korea,KR,https://www.samsung.com,0
+SID_0764,Sandisk Corp,contact@sandiskcorp.com,"951 Sandisk Drive, Milpitas, Ca",USA,US,https://www.sandiskcorp.com,0
+SID_0765,Sanmina,info@sanmina.com,"2700 North First Street, San Jose, CA 95134",USA,US,https://www.sanmina.com,0
+SID_0766,Sanofi,contact@sanofi.com,"46 Avenue De La Grande Armee, Paris, France",USA,US,https://www.sanofi.com,0
+SID_0767,SAP,support@sap.com,"Dietmar-Hopp-Allee 16, 69190 Walldorf",Germany,DE,https://www.sap.com,0
+SID_0768,Sap Se,contact@sapse.com,"Dietmar-Hopp-Allee 16, Walldorf, Germany",Germany,DE,https://www.sapse.com,0
+SID_0769,Sapphire Technology,support@sapphiretech.com,"Unit 1901-1919, 19/F, Tower 2, Grand Central Plaza",Hong Kong,HK,https://www.sapphiretech.com,0
+SID_0770,Satechi,support@satechi.com,"7365 Mission Gorge Rd, San Diego, CA 92120",USA,US,https://satechi.net,0
+SID_0771,Savant Systems Inc.,support@savant.com,"45 Perseverance Way, Hyannis, MA 02601",USA,US,https://www.savant.com,0
+SID_0772,Sceptre Inc.,support@sceptre.com,"16800 Gale Ave, City of Industry, CA 91745",USA,US,https://www.sceptre.com,0
+SID_0773,Schiit Audio,support@schiit.com,"2250 Agate Ct, Simi Valley, CA 93065",USA,US,https://www.schiit.com,0
+SID_0774,Schwab Charles Corp,contact@schwabcharlescorp.com,"3000 Schwab Way, Westlake, Tx",USA,US,https://www.schwabcharlescorp.com,0
+SID_0775,Scosche,support@scosche.com,"1550 Pacific Ave, Oxnard, CA 93033",USA,US,https://www.scosche.com,0
+SID_0776,Scuf Gaming (Corsair),support@scufgaming.com,"3970 Johns Creek Ct., Suite 325, Suwanee, GA 30024",USA,US,https://scufgaming.com,0
+SID_0777,Sea Ltd,contact@sealtd.com,"C/O 1 Fusionopolis Place, Singapore, Singapore",Singapore,SG,https://www.sealtd.com,0
+SID_0778,Sea Sonic Electronics,support@seasonic.com,"8F, No. 19, Alley 360, Neihu, Taipei",Taiwan,TW,https://seasonic.com,0
+SID_0779,Seagate Technology,support@seagate.com,"47488 Kato Road, Fremont, CA 94538",USA,US,https://www.seagate.com,0
+SID_0780,Seagate Technology Holdings Plc,contact@seagatetechnologyholdingsplc.com,"121 Woodlands Avenue 5, Singapore, Singapore",Singapore,SG,https://www.seagatetechnologyholdingsplc.com,0
+SID_0781,Secretlab,support@secretlab.co,"350E Orchard Rd, #03-00, Singapore 238865",Singapore,SG,https://secretlab.co,0
+SID_0782,Sempra,contact@sempra.com,"488 8Th Avenue, San Diego, Ca",USA,US,https://www.sempra.com,0
+SID_0783,SendGrid (Twilio),support@sendgrid.com,"1801 California St, Suite 500, Denver, CO 80202",USA,US,https://sendgrid.com,0
+SID_0784,Sengled,support@sengled.com,"1500 Lake Shore Dr, Columbus, OH",USA,US,https://www.sengled.com,0
+SID_0785,Sennheiser,contact@sennheiser.com,"Am Labor 1, 30900 Wedemark",Germany,DE,https://www.sennheiser.com,0
+SID_0786,Sennheiser Consumer,support@sennheiser-hearing.com,"Am Labor 1, 30900 Wedemark",Germany,DE,https://www.sennheiser-hearing.com,0
+SID_0787,ServiceNow,support@servicenow.com,"2225 Lawson Lane, Santa Clara, CA 95054",USA,US,https://www.servicenow.com,0
+SID_0788,"Servicenow, Inc.",contact@servicenowinc.com,"2225 Lawson Lane, Santa Clara, Ca",USA,US,https://www.servicenowinc.com,0
+SID_0789,Sharge (Shargeek),support@sharge.com,"Room 303, Building 1, No. 1, Xinghua Rd, Nanshan, Shenzhen",China,CN,https://sharge.com,0
+SID_0790,Sharp Corporation,support@sharp.com,"1 Takumi-cho, Sakai-ku, Sakai City, Osaka",Japan,JP,https://www.sharp.com,0
+SID_0791,Shelly (Allterco Robotics),support@shelly.com,"103 Cherni Vrah Blvd., 1407 Sofia",Bulgaria,BG,https://www.shelly.com,0
+SID_0792,Shelly (Allterco),support@shelly.cloud,"103 Cherni Vrah Blvd, Sofia",Bulgaria,BG,https://www.shelly.cloud,0
+SID_0793,Sherwin Williams Co,contact@sherwinwilliamsco.com,"1 Sherwin Way, Cleveland, Oh",USA,US,https://www.sherwinwilliamsco.com,0
+SID_0794,Shopify Inc.,contact@shopifyinc.com,"151 O'Connor Street, Ottawa, Ontario, Canada",Canada,CA,https://www.shopifyinc.com,0
+SID_0795,Shure Incorporated,support@shure.com,"5800 West Touhy Avenue, Niles, IL 60714",USA,US,https://www.shure.com,0
+SID_0796,Silicon Labs,support@silabs.com,"400 West Cesar Chavez, Austin, TX 78701",USA,US,https://www.silabs.com,0
+SID_0797,Silicon Power,support@silicon-power.com,"7F, No. 106, Zhouzi St., Neihu, Taipei",Taiwan,TW,https://www.silicon-power.com,0
+SID_0798,Silkland,support@silkland.com,"Room 401, Building 2, Nanshan Science and Technology Park, Shenzhen",China,CN,https://silkland.com,0
+SID_0799,SilverStone Technology,support@silverstonetek.com,"12F, No. 168, Jiankang Rd., Zhonghe",Taiwan,TW,https://www.silverstonetek.com,0
+SID_0800,Simon Property Group Inc.,contact@simonpropertygroupinc.com,"225 West Washington Street, Indianapolis, In",USA,US,https://www.simonpropertygroupinc.com,0
+SID_0801,SimplySafe,support@simplisafe.com,"247 Summer St, Boston, MA 02210",USA,US,https://simplisafe.com,0
+SID_0802,SK Hynix,contact@skhynix.com,"2091, Gyeongchung-daero, Bubal-eup, Icheon-si, Gyeonggi-do",South Korea,KR,https://www.skhynix.com,0
+SID_0803,Skillcorp (Darty),support@skillcorp.com,"9 Rue des Bateaux-Lavoirs, 94200 Ivry-sur-Seine",France,FR,https://www.skillcorp.fr,0
+SID_0804,Skullcandy Inc.,help@skullcandy.com,"1441 W Ute Blvd, Ste 250, Park City, UT 84098",USA,US,https://www.skullcandy.com,0
+SID_0805,Skydio,support@skydio.com,"114 Town & Country Dr, Danville, CA 94526",USA,US,https://www.skydio.com,0
+SID_0806,Skyworth,service@skyworth.com,"Skyworth Semiconductor Design Building, Shenzhen",China,CN,https://www.skyworth.net,0
+SID_0807,Slack (Salesforce),feedback@slack.com,"500 Howard Street, San Francisco, CA 94105",USA,US,https://slack.com,0
+SID_0808,Slb Limited/Nv,contact@slblimitednv.com,"5599 San Felipe, Houston, Tx",USA,US,https://www.slblimitednv.com,0
+SID_0809,SmallHD (Vitec),support@smallhd.com,"1202 Greg St., Sparks, NV 89431",USA,US,https://smallhd.com,0
+SID_0810,Snapchat Spectacles,support@snapchat.com,"Santa Monica, CA",USA,US,https://www.spectacles.com,0
+SID_0811,Snaptain (Vantop),support@snaptain.com,"Floor 6, Building 1, Shenzhen Software Park, Shenzhen",China,CN,https://www.snaptain.com,0
+SID_0812,Snowflake,support@snowflake.com,"106 East Babcock Street, Suite 3A, Bozeman, MT 59715",USA,US,https://www.snowflake.com,0
+SID_0813,Snowflake Inc.,contact@snowflakeinc.com,"135 Constitution Drive, Menlo Park, Ca",USA,US,https://www.snowflakeinc.com,0
+SID_0814,Sonos Inc.,support@sonos.com,"614 Chapala Street, Santa Barbara, CA 93101",USA,US,https://www.sonos.com,0
+SID_0815,Sony Corporation,info@sony.com,"1-7-1 Konan, Minato-ku, Tokyo 108-0075",Japan,JP,https://www.sony.com,0
+SID_0816,Soundcore (Anker),support@soundcore.com,"Milpitas, CA 95035",USA,US,https://www.soundcore.com,0
+SID_0817,Southern Co,contact@southernco.com,"30 Ivan Allen Jr. Blvd., N.W., Atlanta, Ga",USA,US,https://www.southernco.com,0
+SID_0818,Southern Copper Corp/,contact@southerncoppercorp.com,"7310 North 16Th St., Phoenix, Az",USA,US,https://www.southerncoppercorp.com,0
+SID_0819,Spdr Dow Jones Industrial Average Etf Trust,contact@spdrdowjonesindustrialaverageetftrust.com,"Pdr Services Llc C/O Nyse Euronext, New York, Ny",USA,US,https://www.spdrdowjonesindustrialaverageetftrust.com,0
+SID_0820,Spdr Gold Trust,contact@spdrgoldtrust.com,"C/O World Gold Trust Services, Llc, New York, Ny",USA,US,https://www.spdrgoldtrust.com,0
+SID_0821,Spdr S&P 500 Etf Trust,contact@spdrsp500etftrust.com,"11 Wall Street, New York, Ny",USA,US,https://www.spdrsp500etftrust.com,0
+SID_0822,Spdr S&P Midcap 400 Etf Trust,contact@spdrspmidcap400etftrust.com,"Pdr Services Llc C/O Nyse Euronext, New York, Ny",USA,US,https://www.spdrspmidcap400etftrust.com,0
+SID_0823,Spigen,support@spigen.com,"9975 Toledo Way, Irvine, CA 92618",USA,US,https://www.spigen.com,0
+SID_0824,Splunk,support@splunk.com,"270 Brannan Street, San Francisco, CA 94107",USA,US,https://www.splunk.com,0
+SID_0825,Spotify Technology S.A.,contact@spotifytechnologysa.com,"33 Boulevard Prince Henri, Luxembourg, Luxembourg",USA,US,https://www.spotifytechnologysa.com,0
+SID_0826,Starbucks Corp,contact@starbuckscorp.com,"P O Box 34067, Seattle, Wa",USA,US,https://www.starbuckscorp.com,0
+SID_0827,Starlink (SpaceX),starlink-support@spacex.com,"1 Rocket Road, Hawthorne, CA 90250",USA,US,https://www.starlink.com,0
+SID_0828,StarTech.com,support@startech.com,"45 Artisans Crescent, London, ON",United Kingdom,GB,https://www.startech.com,0
+SID_0829,State Street Corp,contact@statestreetcorp.com,"1 Congress Street, Boston, Ma",USA,US,https://www.statestreetcorp.com,0
+SID_0830,Status Audio,contact@status.co,"175 Varick St, New York, NY 10014",USA,US,https://www.status.co,0
+SID_0831,Stax Ltd.,support@stax.co.jp,"2107-200 Shimonanbata, Fujimi-shi, Saitama 354-0045",Japan,JP,https://stax-international.com,0
+SID_0832,SteelSeries,support@steelseries.com,"656 W Randolph St, Suite 3E, Chicago, IL 60661",USA,US,https://www.steelseries.com,0
+SID_0833,SteelSeries ApS,support@steelseries.com,"Havneholmen 8, 1st Floor, 2450 København SV",Denmark,DK,https://steelseries.com,0
+SID_0834,STMicroelectronics,support@st.com,"39, Chemin du Champ des Filles, C. P. 21, Geneva",Switzerland,CH,https://www.st.com,0
+SID_0835,Strategy Inc,contact@strategyinc.com,"1850 Towers Crescent Plaza, Tysons Corner, Va",USA,US,https://www.strategyinc.com,0
+SID_0836,Stryker Corp,contact@strykercorp.com,"1941 Stryker Way, Portage, Mi",USA,US,https://www.strykercorp.com,0
+SID_0837,"Sumitomo Mitsui Financial Group, Inc.",contact@sumitomomitsuifinancialgroupinc.com,"1-2, Marunouchi 1-Chome, Tokyo, Japan",Japan,JP,https://www.sumitomomitsuifinancialgroupinc.com,0
+SID_0838,"Sunbelt Rentals Holdings, Inc.",contact@sunbeltrentalsholdingsinc.com,"1799 Innovation Point, Fort Mill, Sc",USA,US,https://www.sunbeltrentalsholdingsinc.com,0
+SID_0839,Suncor Energy Inc,contact@suncorenergyinc.com,"P.O. Box 2844, Calgary, Alberta, Canada",Canada,CA,https://www.suncorenergyinc.com,0
+SID_0840,Super Flower,support@super-flower.com.tw,"No.11, Ln. 7, Wuquan 1st Rd, New Taipei",Taiwan,TW,https://www.super-flower.com.tw,0
+SID_0841,SUSE,support@suse.com,"Maximilianstraße 43, 80538 Munich",Germany,DE,https://www.suse.com,0
+SID_0842,Suunto,support@suunto.com,"Tammiston kauppatie 7 A, 01510 Vantaa",Finland,FI,https://www.suunto.com,0
+SID_0843,Swann,support@swann.com,"Unit 13, 331 Ingles St, Port Melbourne, VIC",Australia,AU,https://www.swann.com,0
+SID_0844,Swissbit AG,support@swissbit.com,"Industriestrasse 4, 9552 Bronschhofen",Switzerland,CH,https://www.swissbit.com,0
+SID_0845,Swisscom Ag,contact@swisscomag.com,"Alte Tiefenaustrasse 6, Bern, Switzerland",Switzerland,CH,https://www.swisscomag.com,0
+SID_0846,SwitchBot (Woan Tech),support@switch-bot.com,"Room 1101, Gaoxin South 9th Rd., Yuehai Sub-district, Nanshan",China,CN,https://www.switch-bot.com,0
+SID_0847,Symantec (Broadcom),support@symantec.com,"1320 Ridder Park Drive, San Jose, CA 95131",USA,US,https://www.broadcom.com/products/cyber-security,0
+SID_0848,Syncwire,support@syncwire.com,"Unit 1, 10/F, Block A, No. 8 Kwun Tong Rd., Kwun Tong",Hong Kong,HK,https://www.syncwire.com,0
+SID_0849,Synology Inc.,info@synology.com,"9F., No. 1, Yuandong Rd., Banqiao Dist., New Taipei",Taiwan,TW,https://www.synology.com,0
+SID_0850,Synopsys,support@synopsys.com,"690 E Middlefield Rd, Mountain View, CA 94043",USA,US,https://www.synopsys.com,0
+SID_0851,Synopsys Inc,contact@synopsysinc.com,"675 Almanor Ave, Sunnyvale, Ca",USA,US,https://www.synopsysinc.com,0
+SID_0852,Sysco Corp,contact@syscocorp.com,"1390 Enclave Pkwy, Houston, Tx",USA,US,https://www.syscocorp.com,0
+SID_0853,System76,support@system76.com,"1600 Champa St, Suite 330, Denver, CO 80202",USA,US,https://system76.com,0
+SID_0854,"T-Mobile Us, Inc.",contact@tmobileusinc.com,"12920 Se 38Th Street, Bellevue, Wa",USA,US,https://www.tmobileusinc.com,0
+SID_0855,Tado,support@tado.com,"Sapporobogen 6-8, 80637 Munich",Germany,DE,https://www.tado.com,0
+SID_0856,Take Two Interactive Software Inc,contact@taketwointeractivesoftwareinc.com,"110 West 44Th Street, New York, Ny",USA,US,https://www.taketwointeractivesoftwareinc.com,0
+SID_0857,Takeda Pharmaceutical Co Ltd,contact@takedapharmaceuticalcoltd.com,"1-1, Nihonbashi-Honcho 2-Chome, Chuo-Ku, Tokyo, Japan",Japan,JP,https://www.takedapharmaceuticalcoltd.com,0
+SID_0858,Tanchjim,support@tanchjim.com,"No. 201, Building 2, Nanning Software Park",China,CN,https://tanchjim.com,0
+SID_0859,Tapo (TP-Link),support@tapo.com,"Building 2, No. 5, Keyuan Rd., Central Zone, Nanshan Science Park",China,CN,https://www.tapo.com,0
+SID_0860,Targa Resources Corp.,contact@targaresourcescorp.com,"811 Louisiana Street, Houston, Tx",USA,US,https://www.targaresourcescorp.com,0
+SID_0861,Target Corp,contact@targetcorp.com,"1000 Nicollet Mall, Minneapolis, Mn",USA,US,https://www.targetcorp.com,0
+SID_0862,Tc Energy Corp,contact@tcenergycorp.com,"450 - 1St Street S.W., Calgary Alberta, Alberta, Canada",Canada,CA,https://www.tcenergycorp.com,0
+SID_0863,TCL Technology,support@tcl.com,"1860 Compton Ave, Corona, CA 92881",USA,US,https://www.tcl.com,0
+SID_0864,TE Connectivity,support@te.com,"1050 Westlakes Drive, Berwyn, PA 19312",USA,US,https://www.te.com,0
+SID_0865,Teal Drones (Red Cat),support@tealdrones.com,"14101 South 2700 West, Bluffdale, UT 84065",USA,US,https://tealdrones.com,0
+SID_0866,TeamGroup,support@teamgroup.com.tw,"3F, No. 166, Jian 1st Rd., Zhonghe, New Taipei",Taiwan,TW,https://www.teamgroupinc.com,0
+SID_0867,Tedee Sp. z o.o.,support@tedee.com,"ul. Karolkowa 30, 01-207 Warsaw",Poland,PL,https://tedee.com,0
+SID_0868,Tektronix,support@tektronix.com,"14150 SW Karl Braun Drive, Beaverton, OR 97077",USA,US,https://www.tek.com,0
+SID_0869,Teledyne DALSA,sales.americas@teledynedalsa.com,"605 McMurray Road, Waterloo, Ontario, N2V 2E9",Canada,CA,https://www.teledynedalsa.com,0
+SID_0870,Tenda Technology,support@tenda.com.cn,"Tower E3, No. 1001, Zhongshanyuan Rd, Shenzhen",China,CN,https://www.tendacn.com,0
+SID_0871,Teradata,support@teradata.com,"17095 Via Del Campo, San Diego, CA 92127",USA,US,https://www.teradata.com,0
+SID_0872,"Teradyne, Inc",contact@teradyneinc.com,"600 Riverpark Drive, North Reading, Ma",USA,US,https://www.teradyneinc.com,0
+SID_0873,"Tesla, Inc.",contact@teslainc.com,"1 Tesla Road, Austin, Tx",USA,US,https://www.teslainc.com,0
+SID_0874,Texas Instruments,support@ti.com,"12500 TI Boulevard, Dallas, TX 75243",USA,US,https://www.ti.com,0
+SID_0875,Texas Instruments Inc,contact@texasinstrumentsinc.com,"P.O. Box 660199, Dallas, Tx",USA,US,https://www.texasinstrumentsinc.com,0
+SID_0876,Texas Pacific Land Corp,contact@texaspacificlandcorp.com,"2699 Howell Street, Dallas, Tx",USA,US,https://www.texaspacificlandcorp.com,0
+SID_0877,The Key Company,support@thekey.company,"Detroit, MI",USA,US,https://thekey.company,0
+SID_0878,Thermaltake,support@thermaltake.com,"5F., No.185, Sec.2, Tiding Blvd., Neihu, Taipei",Taiwan,TW,https://www.thermaltake.com,0
+SID_0879,Thermo Fisher Scientific Inc.,contact@thermofisherscientificinc.com,"168 Third Avenue, Waltham, Ma",USA,US,https://www.thermofisherscientificinc.com,0
+SID_0880,Thomson Reuters Corp /Can/,contact@thomsonreuterscorpcan.com,"19 Duncan Street, Toronto, Ontario, Canada",Canada,CA,https://www.thomsonreuterscorpcan.com,0
+SID_0881,Thrustmaster,support@thrustmaster.com,"Place du Granier, 35135 Chantepie",France,FR,https://www.thrustmaster.com,0
+SID_0882,Tilt Five,support@tiltfive.com,"2522 Leghorn St, Mountain View, CA 94043",USA,US,https://www.tiltfive.com,0
+SID_0883,Tjx Companies Inc /De/,contact@tjxcompaniesincde.com,"770 Cochituate Rd, Framingham, Ma",USA,US,https://www.tjxcompaniesincde.com,0
+SID_0884,Tolino (Deutsche Telekom),support@tolino.de,"Friedrich-Ebert-Allee 140, 53113 Bonn",Germany,DE,https://mytolino.com,0
+SID_0885,Topping Audio (GZ TP),support@tpdz.net,"26th Jiaomen Road, Huangpu District, Guangzhou",China,CN,https://www.tpdz.net,0
+SID_0886,Toronto Dominion Bank,contact@torontodominionbank.com,"66 Wellington Street West, Toronto, Ontario, Ontario, Canada",Canada,CA,https://www.torontodominionbank.com,0
+SID_0887,Toshiba Corporation,contact@toshiba.com,"1-1, Shibaura 1-chome, Minato-ku, Tokyo",Japan,JP,https://www.toshiba.com,0
+SID_0888,Toshiba Storage,support@toshiba-storage.com,Düsseldorf,Germany,DE,https://www.toshiba-storage.com,0
+SID_0889,Totalenergies Se,contact@totalenergiesse.com,"2 Place Jean Millier, Courbevoie, France",France,FR,https://www.totalenergiesse.com,0
+SID_0890,Toyota Motor Corp/,contact@toyotamotorcorp.com,"1 Toyota Cho Toyota City, Japan, Japan",Japan,JP,https://www.toyotamotorcorp.com,0
+SID_0891,Toyota Tsusho Corporation/Adr,contact@toyotatsushocorporationadr.com,"120 Broadway, New York, Ny",USA,US,https://www.toyotatsushocorporationadr.com,0
+SID_0892,TP-Link,support.usa@tp-link.com,"10 Mauchly, Irvine, CA 92618",USA,US,https://www.tp-link.com,0
+SID_0893,TP-Link Kasa,support@tp-link.com,"Irvine, CA 92618",USA,US,https://www.kasasmart.com,0
+SID_0894,Trane Technologies Plc,contact@tranetechnologiesplc.com,"170/175 Lakeview Drive, Co. Dublin, Ireland",USA,US,https://www.tranetechnologiesplc.com,0
+SID_0895,Transcend Information,sales@transcend-info.com,"No. 70, XingZhong Road, Neihu Dist., Taipei",Taiwan,TW,https://www.transcend-info.com,0
+SID_0896,Transdigm Group Inc,contact@transdigmgroupinc.com,"1350 Euclid Avenue, Cleveland, Oh",USA,US,https://www.transdigmgroupinc.com,0
+SID_0897,"Travelers Companies, Inc.",contact@travelerscompaniesinc.com,"385 Washington St, Saint Paul, Mn",USA,US,https://www.travelerscompaniesinc.com,0
+SID_0898,Trend Micro,support@trendmicro.com,"225 E. John Carpenter Freeway, Suite 1500, Irving, TX 75062",USA,US,https://www.trendmicro.com,0
+SID_0899,Tribit,support@tribit.com,"Thousandshores Technology, Shenzhen",China,CN,https://www.tribit.com,0
+SID_0900,Trip.Com Group Ltd,contact@tripcomgroupltd.com,"30 Raffles Place, #29-01, Singapore, Singapore",Singapore,SG,https://www.tripcomgroupltd.com,0
+SID_0901,Tripp Lite,support@tripplite.com,"1111 W. 35th St, Chicago, IL 60609",USA,US,https://www.tripplite.com,0
+SID_0902,Tronsmart,support@tronsmart.com,"Shenzhen Geekbuy E-commerce, Shenzhen",China,CN,https://www.tronsmart.com,0
+SID_0903,Truist Financial Corp,contact@truistfinancialcorp.com,"214 North Tryon Street, Charlotte, Nc",USA,US,https://www.truistfinancialcorp.com,0
+SID_0904,Truthear,support@truthear.com,"No. 12 Jinshui Rd., Nanshan District, Shenzhen",China,CN,https://truthear.com,0
+SID_0905,Turing Robotic Industries,support@turingphone.com,"Salmisaarenaukio 1, 00180 Helsinki",Finland,FI,https://www.turingphone.com,0
+SID_0906,Turtle Beach,support@turtlebeach.com,"44 South Broadway, 4th Floor, White Plains, NY 10601",USA,US,https://www.turtlebeach.com,0
+SID_0907,TVLogic (Vitec),support@tvlogic.tv,"8F, 222-12, Guro-dong, Guro-gu, Seoul",South Korea,KR,http://www.tvlogic.tv,0
+SID_0908,Twelve South,support@twelvesouth.com,"1503 King St, Suite 201, Charleston, SC 29405",USA,US,https://www.twelvesouth.com,0
+SID_0909,Twilio,support@twilio.com,"101 Spear Street, 1st Floor, San Francisco, CA 94105",USA,US,https://www.twilio.com,0
+SID_0910,"Uber Technologies, Inc",contact@ubertechnologiesinc.com,"1725 3Rd Street, San Francisco, Ca",USA,US,https://www.ubertechnologiesinc.com,0
+SID_0911,Ubiquiti Inc.,support@ui.com,"685 Third Avenue, 27th Floor, New York, NY 10017",USA,US,https://www.ui.com,0
+SID_0912,Ubs Group Ag,contact@ubsgroupag.com,"Bahnhofstrasse 45, Zurich, Switzerland",Switzerland,CH,https://www.ubsgroupag.com,0
+SID_0913,Ugreen Group,support@ugreen.com,"13/F, Golden Land Bldg, Futian District, Shenzhen",China,CN,https://www.ugreen.com,0
+SID_0914,Ulefone Mobile,support@ulefone.com,"7F, Block A, Shenzhen Science & Tech Park, Nanshan, Shenzhen",China,CN,https://www.ulefone.com,0
+SID_0915,Ultimate Ears (Logitech),support@ultimateears.com,"Newark, CA 94560",USA,US,https://www.ultimateears.com,0
+SID_0916,Ultraleap Ltd.,support@ultraleap.com,"The Create Centre, B Bond, Smeaton Rd, Bristol BS1 6XN",United Kingdom,GB,https://www.ultraleap.com,0
+SID_0917,Ultratrex Inc.,contact@ultratrexinc.com,"220 Orchard Road, Singapore, Singapore",Singapore,SG,https://www.ultratrexinc.com,0
+SID_0918,Unihertz (Shenzhen),support@unihertz.com,"Unit 202, 2/F, Building C, 22nd St, Shenzhen",China,CN,https://www.unihertz.com,0
+SID_0919,Union Pacific Corp,contact@unionpacificcorp.com,"1400 Douglas Street, Omaha, Ne",USA,US,https://www.unionpacificcorp.com,0
+SID_0920,United Parcel Service Inc,contact@unitedparcelserviceinc.com,"55 Glenlake Parkway Ne, Atlanta, Ga",USA,US,https://www.unitedparcelserviceinc.com,0
+SID_0921,"United Rentals, Inc.",contact@unitedrentalsinc.com,"100 First Stamford Place, Suite 700, Stamford, Ct",USA,US,https://www.unitedrentalsinc.com,0
+SID_0922,Unitedhealth Group Inc,contact@unitedhealthgroupinc.com,"1 Health Drive, Eden Prairie, Mn",USA,US,https://www.unitedhealthgroupinc.com,0
+SID_0923,Uniview (Zhejiang),support@uniview.com,"No. 10, Wanlun Science Park, Jiangling Road, Binjiang District, Hangzhou",China,CN,https://www.uniview.com,0
+SID_0924,Us Bancorp \De\,contact@usbancorpde.com,"U.S. Bancorp, Minneapolis, Mn",USA,US,https://www.usbancorpde.com,0
+SID_0925,Valero Energy Corp/Tx,contact@valeroenergycorptx.com,"P.O. Box 696000, San Antonio, Tx",USA,US,https://www.valeroenergycorptx.com,0
+SID_0926,Valve Corporation,contact@valvesoftware.com,"10400 NE 4th Street, Suite 1400, Bellevue, WA 98004",USA,US,https://www.valvesoftware.com,0
+SID_0927,Vantage Robotics,support@vantagerobotics.com,"1440 4th St., Berkeley, CA 94710",USA,US,https://vantagerobotics.com,0
+SID_0928,Varjo,support@varjo.com,"Vuorikatu 20, 00100 Helsinki",Finland,FI,https://varjo.com,0
+SID_0929,Varmilo,support@varmilo.com,"Shenzhen Zhihaihe Tech, Shenzhen",China,CN,https://www.varmilo.com,0
+SID_0930,Vava,support@vava.com,"46724 Lakeview Blvd, Fremont, CA 94538",USA,US,https://www.vava.com,0
+SID_0931,Vaxee (Taipei),support@vaxee.co,"7F., No. 37, Sec. 2, Sanmin Rd., Banqiao Dist., New Taipei City 220",Taiwan,TW,https://www.vaxee.co,0
+SID_0932,"Ventas, Inc.",contact@ventasinc.com,"300 N Lasalle Street, Chicago, Il",USA,US,https://www.ventasinc.com,0
+SID_0933,Verbatim,support@verbatim.com,"8210 University Executive Park Dr, Charlotte, NC",USA,US,https://www.verbatim.com,0
+SID_0934,Verizon Communications Inc,contact@verizoncommunicationsinc.com,"1095 Avenue Of The Americas, New York, Ny",USA,US,https://www.verizoncommunicationsinc.com,0
+SID_0935,Vertex Pharmaceuticals Inc / Ma,contact@vertexpharmaceuticalsincma.com,"50 Northern Avenue, Boston, Ma",USA,US,https://www.vertexpharmaceuticalsincma.com,0
+SID_0936,Vertiv Holdings Co,contact@vertivholdingsco.com,"505 N. Cleveland Ave., Westerville, Oh",USA,US,https://www.vertivholdingsco.com,0
+SID_0937,ViewSonic Corporation,support@viewsonic.com,"10 Pointe Dr, Brea, CA 92821",USA,US,https://www.viewsonic.com,0
+SID_0938,Vifa (Guangzhou Vifa),support@vifa.dk,"No. 4, Jingsheng 3rd St., Nancun Town, Panyu Dist., Guangzhou",China,CN,https://www.vifa.dk,0
+SID_0939,Viotek,support@viotek.com,"3431 William Richardson Dr, Suite F, South Bend, IN 46628",USA,US,https://viotek.com,0
+SID_0940,Virtium LLC,support@virtium.com,"30052 Tomas, Rancho Santa Margarita, CA 92688",USA,US,https://www.virtium.com,0
+SID_0941,Visa Inc.,contact@visainc.com,"P.O. Box 8999, San Francisco, Ca",USA,US,https://www.visainc.com,0
+SID_0942,Vistra Corp.,contact@vistracorp.com,"6555 Sierra Drive, Irving, Tx",USA,US,https://www.vistracorp.com,0
+SID_0943,Vivotek Inc.,support@vivotek.com,"6F, No.192, Liancheng Rd., Zhonghe Dist., New Taipei City 235",Taiwan,TW,https://www.vivotek.com,0
+SID_0944,Vizio Inc.,support@vizio.com,"39 Tesla, Irvine, CA 92618",USA,US,https://www.vizio.com,0
+SID_0945,VMware (Broadcom),support@vmware.com,"3401 Hillview Ave, Palo Alto, CA 94304",USA,US,https://www.vmware.com,0
+SID_0946,Vortexgear,support@vortexgear.tw,"4F., No. 1, Ln. 183, Sec. 2, Datong Rd., Xizhi Dist., New Taipei City 221",Taiwan,TW,https://vortexgear.tw,0
+SID_0947,Vortexgear Co.,support@vortexgear.tw,"4F, No. 1, Lane 183, Sec. 2, Datong Road, Xizhi, New Taipei City 221",Taiwan,TW,http://www.vortexgear.tw,0
+SID_0948,Vulcan Materials Co,contact@vulcanmaterialsco.com,"1200 Urban Center Drive, Birmingham, Al",USA,US,https://www.vulcanmaterialsco.com,0
+SID_0949,Vuzix,support@vuzix.com,"25 Hendrix Rd, Suite A, West Henrietta, NY 14586",USA,US,https://www.vuzix.com,0
+SID_0950,"W.W. Grainger, Inc.",contact@wwgraingerinc.com,"100 Grainger Parkway, Lake Forest, Il",USA,US,https://www.wwgraingerinc.com,0
+SID_0951,Walmart Inc.,contact@walmartinc.com,"1 Customer Drive, Bentonville, Ar",USA,US,https://www.walmartinc.com,0
+SID_0952,Walt Disney Co,contact@waltdisneyco.com,"500 South Buena Vista Street, Burbank, Ca",USA,US,https://www.waltdisneyco.com,0
+SID_0953,"Warner Bros. Discovery, Inc.",contact@warnerbrosdiscoveryinc.com,"230 Park Avenue South, New York, Ny",USA,US,https://www.warnerbrosdiscoveryinc.com,0
+SID_0954,"Waste Connections, Inc.",contact@wasteconnectionsinc.com,"6220 Hwy 7, Woodbridge, Ontario, Canada",Canada,CA,https://www.wasteconnectionsinc.com,0
+SID_0955,Waste Management Inc,contact@wastemanagementinc.com,"800 Capitol Street, Ste 3000, Houston, Tx",USA,US,https://www.wastemanagementinc.com,0
+SID_0956,"Wec Energy Group, Inc.",contact@wecenergygroupinc.com,"231 W Michigan St, Milwaukee, Wi",USA,US,https://www.wecenergygroupinc.com,0
+SID_0957,Wells Fargo & Company/Mn,contact@wellsfargocompanymn.com,"333 Market Street, San Francisco, Ca",USA,US,https://www.wellsfargocompanymn.com,0
+SID_0958,Welltower Inc.,contact@welltowerinc.com,"4500 Dorr Street, Toledo, Oh",USA,US,https://www.welltowerinc.com,0
+SID_0959,Western Digital Corp,contact@westerndigitalcorp.com,"5601 Great Oaks Parkway, San Jose, Ca",USA,US,https://www.westerndigitalcorp.com,0
+SID_0960,Western Digital Corp.,support@wdc.com,"5601 Great Oaks Parkway, San Jose, CA 95119",USA,US,https://www.westerndigital.com,0
+SID_0961,Westinghouse Air Brake Technologies Corp,contact@westinghouseairbraketechnologiescorp.com,"30 Isabella Street, Pittsburgh, Pa",USA,US,https://www.westinghouseairbraketechnologiescorp.com,0
+SID_0962,Wheaton Precious Metals Corp.,contact@wheatonpreciousmetalscorp.com,"Suite 3500, Vancouver, British Columbia, Canada",Canada,CA,https://www.wheatonpreciousmetalscorp.com,0
+SID_0963,Whoop,support@whoop.com,"One Kenmore Square, Boston, MA 02215",USA,US,https://www.whoop.com,0
+SID_0964,"Williams Companies, Inc.",contact@williamscompaniesinc.com,"One Williams Ctr, Tulsa, Ok",USA,US,https://www.williamscompaniesinc.com,0
+SID_0965,Wingtra AG,support@wingtra.com,"Giesshübelstrasse 40, 8045 Zürich",Switzerland,CH,https://wingtra.com,0
+SID_0966,Wise Advanced,support@wise-advanced.com.tw,"8F, No. 2, Sec. 2, Nanjing E. Rd, Taipei",Taiwan,TW,https://www.wise-advanced.com.tw,0
+SID_0967,Withings SA,support@withings.com,"2 rue Maurice Hartmann, 92130 Issy-les-Moulineaux",France,FR,https://www.withings.com,0
+SID_0968,Wiz Connected,support@wizconnected.com,"Signify, IBRS 10461, 5600 VB Eindhoven",Netherlands,NL,https://www.wizconnected.com,0
+SID_0969,Woodside Energy Group Ltd,contact@woodsideenergygroupltd.com,"11 Mount Street, Western Australia, Australia",Australia,AU,https://www.woodsideenergygroupltd.com,0
+SID_0970,Wooting (Wooting B.V.),support@wooting.io,"Stadionpark 11, 3077 AS Rotterdam",Netherlands,NL,https://wooting.io,0
+SID_0971,Workday,support@workday.com,"6110 Stoneridge Mall Road, Pleasanton, CA 94588",USA,US,https://www.workday.com,0
+SID_0972,"Workday, Inc.",contact@workdayinc.com,"6110 Stoneridge Mall Road, Pleasanton, Ca",USA,US,https://www.workdayinc.com,0
+SID_0973,Wyze Labs,support@wyze.com,"3933 Lake Washington Blvd NE, Suite 350, Kirkland, WA 98033",USA,US,https://wyze.com,0
+SID_0974,Wyze Labs Inc.,support@wyze.com,"8815 122nd Ave. NE, Suite #201, Kirkland, WA 98033",USA,US,https://www.wyze.com,0
+SID_0975,Xcel Energy Inc,contact@xcelenergyinc.com,"414 Nicollet Mall, Minneapolis, Mn",USA,US,https://www.xcelenergyinc.com,0
+SID_0976,Xerox,support@xerox.com,"201 Merritt 7, Norwalk, CT 06851",USA,US,https://www.xerox.com,0
+SID_0977,XFX (Pine),support@xfxforce.com,"3200 E Guasti Rd, Suite 100, Ontario, CA 91761",USA,US,https://www.xfxforce.com,0
+SID_0978,XGIMI Technology,support@xgimi.com,"Building A4, Tianfu Software Park, Chengdu",China,CN,https://www.xgimi.com,0
+SID_0979,Xiaomi Corporation,service.global@xiaomi.com,"Xiaomi Campus, Haidian District, Beijing",China,CN,https://www.mi.com,0
+SID_0980,Xilinx (AMD),support@xilinx.com,"2100 Logic Drive, San Jose, CA 95124",USA,US,https://www.xilinx.com,0
+SID_0981,XREAL (Nreal),support@xreal.com,"Floor 5, Building 1, Lijin Zhidi Center, No. 1 Zhichun Rd, Haidian, Beijing",China,CN,https://www.xreal.com,0
+SID_0982,Xtrfy (Cherry),support@xtrfy.com,"Landskronavägen 25, 252 32 Helsingborg",Sweden,SE,https://xtrfy.com,0
+SID_0983,Yamaha Corporation,support@yamaha.com,"6600 Orangethorpe Ave, Buena Park, CA 90620",USA,US,https://usa.yamaha.com,0
+SID_0984,Yeelight,support@yeelight.com,"Qingdao Innovation Park, Laoshan",China,CN,https://www.yeelight.com,0
+SID_0985,Yum Brands Inc,contact@yumbrandsinc.com,"1441 Gardiner Lane, Louisville, Ky",USA,US,https://www.yumbrandsinc.com,0
+SID_0986,Yuneec,support@yuneec.com,"No. 388, East Huangpujiang Rd, Kunshan",China,CN,https://www.yuneec.com,0
+SID_0987,Zagg Inc.,support@zagg.com,"910 West Legacy Center Way, Midvale, UT",USA,US,https://www.zagg.com,0
+SID_0988,Zalman,support@zalman.com,"4F, O-Biz Tower, 126, Beolmal-ro, Dongan-gu, Anyang-si, Gyeonggi-do 14057",South Korea,KR,https://www.zalman.com,0
+SID_0989,Zendure,support@zendure.com,"2250 E. Imperial Hwy. Suite 200, El Segundo, CA 90245",USA,US,https://www.zendure.com,0
+SID_0990,Zendure,support@zendure.com,"2250 E Imperial Hwy, Suite 200, El Segundo, CA 90245",USA,US,https://zendure.com,0
+SID_0991,Zepp Health (Amazfit),support@zepp.com,"1860 Embarcadero Rd., Suite 100, Palo Alto, CA 94303",USA,US,https://www.zepp.com,0
+SID_0992,Zeskit,support@zeskit.com,"Room 803, Building 4, Huafeng Smart Innovation Park, Bao'an, Shenzhen",China,CN,https://www.zeskit.com,0
+SID_0993,Zhiyun-Tech,support@zhiyun-tech.com,"Gulin District, Guilin, Guangxi",China,CN,https://www.zhiyun-tech.com,0
+SID_0994,ZMF Headphones,support@zmfheadphones.com,"1720 W Grand Ave, Chicago, IL 60622",USA,US,https://www.zmfheadphones.com,0
+SID_0995,ZMI,support@zminewenergy.com,"A913, No. 159, Chengjiang Rd, Jiangyin",China,CN,https://www.zmi.com,0
+SID_0996,Zoetis Inc.,contact@zoetisinc.com,"10 Sylvan Way, Parsippany, Nj",USA,US,https://www.zoetisinc.com,0
+SID_0997,Zoom,support@zoom.us,"55 Almaden Blvd, 6th Floor, San Jose, CA 95113",USA,US,https://zoom.us,0
+SID_0998,ZOTAC,support@zotac.com,"28/F, NCB Innovation Centre, 888 Lai Chi Kok Rd",Hong Kong,HK,https://www.zotac.com,0
+SID_0999,ZSA Technology (Moonlander),support@zsa.io,"Unit 411, 2416 Main St, Vancouver, BC V5T 3E2",Canada,CA,https://www.zsa.io,0
+SID_1000,Zyxel Communications,support@zyxel.com,"No. 2, Industry East Rd. IX, Hsinchu",Taiwan,TW,https://www.zyxel.com,0

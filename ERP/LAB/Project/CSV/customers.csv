@@ -1,0 +1,1001 @@
+customer_id,customer_name,email,phone,address,country,country_id,type,opening_balance
+CUID_0001,Hoang Minh Dung,hoangminhdung@proton.me,+84504025016,"568 Dinh Tien Hoang, Phuong 8, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0002,Cong ty TNHH Net Future,congtytnhhnetfuture@proton.me,+84719300868,"757 Nguyen Thi Minh Khai, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0003,Dang Ngoc Oanh,dangngocoanh71@zoho.com,+84967988348,"176 Cach Mang Thang Tam, Phuong 11, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0004,Cong ty Co phan Asia Future,congtycophanasiafuture@zoho.com,+84342962370,"851 Nguyen Van Cu, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0005,Bui Nam,buinam@yahoo.com,+84886117574,"607 Dinh Tien Hoang, Phuong 11, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0006,Vu Van Dung,vuvandung@yahoo.com,+84853542596,"127 Vo Van Tan, Phuong 10, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0007,Vu Duc Linh,vuduclinh@zoho.com,+84598266175,"807 Vo Van Tan, Phuong 1, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0008,Ly Bao Minh,lybaominh899@yahoo.com,+84590407714,"572 Tran Hung Dao, Phuong 10, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0009,Pham Hung,phamhung687@proton.me,+84745123522,"82 Nguyen Van Cu, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0010,Cong ty Co phan Global An,congtycophanglobalan@hotmail.com,+84357852440,"684 Dinh Tien Hoang, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0011,Cong ty TNHH Future Smart,congtytnhhfuturesmart@gmail.com,+84781151148,"87 Nguyen Thi Minh Khai, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0012,Cong ty TNHH Media An,congtytnhhmediaan@yahoo.com,+84824039274,"443 Vo Van Tan, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0013,Nguyen Hong Binh,nguyenhongbinh51@proton.me,+84549505800,"892 Nguyen Hue, Phuong 13, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0014,Bui Thanh Chi,buithanhchi@outlook.com,+84559272362,"333 Le Loi, Phuong 1, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0015,Tran Thanh Van,tranthanhvan357@hotmail.com,+84983187696,"18 Vo Van Tan, Phuong 10, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0016,Tran Xuan,tranxuan619@yahoo.com,+84372624980,"443 Pham Ngoc Thach, Phuong 1, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0017,Hoang Thi Xuan,hoangthixuan@proton.me,+84919610354,"52 Pham Ngoc Thach, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0018,Pham Quoc Xuan,phamquocxuan@outlook.com,+84392171419,"811 Dinh Tien Hoang, Phuong 8, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0019,Giai phap Star Solutions,giaiphapstarsolutions836@outlook.com,+84838826320,"801 Pham Ngoc Thach, Phuong 11, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0020,Thuong mai Digital Media,thuongmaidigitalmedia@gmail.com,+84719214736,"533 Le Loi, Phuong 13, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0021,Phan Lan Xuan,phanlanxuan@proton.me,+84330633873,"326 Dinh Tien Hoang, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0022,Pham Anh Ha,phamanhha@zoho.com,+84850245644,"228 Vo Van Tan, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0023,Do Quoc Chi,doquocchi@yahoo.com,+84381096748,"599 Nguyen Hue, Phuong 13, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0024,Ho Thi Dung,hothidung823@outlook.com,+84545911455,"334 Nguyen Thi Minh Khai, Phuong Ben Nghe, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,50
+CUID_0025,Cong nghe Elite Future,congngheelitefuture@proton.me,+84822675620,"302 Nguyen Hue, Phuong 10, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0026,Le Anh Giang,leanhgiang424@proton.me,+84834083790,"911 Pasteur, Phuong 13, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0027,Ngo Lan Quan,ngolanquan@zoho.com,+84578424367,"751 Tran Hung Dao, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0028,Ly Thanh An,lythanhan@gmail.com,+84381234382,"984 Dinh Tien Hoang, Phuong 10, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0029,Cong ty TNHH Digital Elite,congtytnhhdigitalelite980@proton.me,+84979101165,"233 Nguyen Thi Minh Khai, Phuong 10, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0030,Cong ty Co phan Net Future,congtycophannetfuture26@hotmail.com,+84759391582,"723 Pham Ngoc Thach, Phuong Ben Nghe, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,2000
+CUID_0031,Nguyen Anh Oanh,nguyenanhoanh@gmail.com,+84704443841,"190 Vo Van Tan, Phuong 10, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0032,Vu Bao Yen,vubaoyen251@hotmail.com,+84924756343,"509 Nguyen Hue, Phuong 11, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0033,Trung tam Global Tech,trungtamglobaltech@zoho.com,+84924524740,"311 Nguyen Hue, Phuong 13, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0034,Vu Quoc Quan,vuquocquan@proton.me,+84772211157,"199 Nguyen Hue, Phuong 8, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0035,Ngo Huu Dung,ngohuudung369@yahoo.com,+84337100296,"780 Nguyen Thi Minh Khai, Phuong 5, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0036,Vu Van Linh,vuvanlinh66@outlook.com,+84845618902,"581 Dinh Tien Hoang, Phuong Ben Nghe, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0037,Dang Lan Thao,danglanthao@hotmail.com,+84836679226,"170 Nguyen Hue, Phuong 7, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0038,Vu Thi Minh,vuthiminh723@gmail.com,+84774697669,"445 Le Loi, Phuong 15, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,1000
+CUID_0039,Doanh nghiep Media Group,doanhnghiepmediagroup@yahoo.com,+84575216695,"515 Nguyen Thi Minh Khai, Phuong 5, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0040,Huynh Van Chi,huynhvanchi@yahoo.com,+84550785715,"462 Pham Ngoc Thach, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0041,Cong ty Co phan Pro Khanh,congtycophanprokhanh686@outlook.com,+84983629854,"332 Pham Ngoc Thach, Phuong 11, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0042,Dang An,dangan@proton.me,+84841376725,"959 Pham Ngoc Thach, Phuong 14, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0043,Dich vu Net An,dichvunetan564@proton.me,+84950994184,"743 Pham Ngoc Thach, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0044,Vu Hong Giang,vuhonggiang613@outlook.com,+84571078372,"12 Pham Ngoc Thach, Phuong 10, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0045,Doanh nghiep Pro Uyen,doanhnghiepprouyen781@hotmail.com,+84539892384,"335 Nguyen Thi Minh Khai, Phuong 13, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0046,Doanh nghiep Pro Solutions,doanhnghiepprosolutions@yahoo.com,+84531809018,"168 Le Loi, Phuong 14, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0047,Cong ty Co phan Star Hung,congtycophanstarhung@proton.me,+84896845626,"304 Nguyen Hue, Phuong 5, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0048,Cong ty Co phan Pro Future,congtycophanprofuture29@proton.me,+84930342461,"189 Le Loi, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0049,Ly Thanh Thao,lythanhthao261@proton.me,+84984250992,"995 Dinh Tien Hoang, Phuong 10, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0050,Phan Dung,phandung367@yahoo.com,+84526083087,"60 Pasteur, Phuong 14, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0051,Ngo Ngoc Hung,ngongochung773@zoho.com,+84369634570,"312 Cach Mang Thang Tam, Phuong 13, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0052,Shop Global Xuan,shopglobalxuan@hotmail.com,+84799928840,"782 Nguyen Hue, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0053,Cong ty TNHH VN Pro,congtytnhhvnpro766@outlook.com,+84758912085,"947 Pasteur, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0054,Ho Anh Dung,hoanhdung38@yahoo.com,+84791253396,"563 Dinh Tien Hoang, Phuong Ben Nghe, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0055,Cong nghe Asia Oanh,congngheasiaoanh379@hotmail.com,+84349806593,"417 Pham Ngoc Thach, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0056,Cong ty Co phan Future Star,congtycophanfuturestar@proton.me,+84903972855,"842 Nguyen Hue, Phuong 11, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0057,Hoang Giang,hoanggiang@yahoo.com,+84318137502,"139 Dinh Tien Hoang, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0058,Ngo Thanh Dung,ngothanhdung@outlook.com,+84507854904,"421 Dinh Tien Hoang, Phuong 5, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0059,Ly Thanh Giang,lythanhgiang639@gmail.com,+84553954607,"883 Vo Van Tan, Phuong 8, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0060,Huynh Phuc,huynhphuc@outlook.com,+84746319080,"108 Cach Mang Thang Tam, Phuong 7, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0061,Thuong mai Digital Pro,thuongmaidigitalpro681@outlook.com,+84887963526,"239 Le Loi, Phuong 11, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0062,Dich vu Group Phuc,dichvugroupphuc@zoho.com,+84566098217,"326 Cach Mang Thang Tam, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0063,Do Minh An,dominhan@gmail.com,+84334133958,"169 Tran Hung Dao, Phuong Ben Nghe, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0064,Do Thanh Thao,dothanhthao773@outlook.com,+84514264603,"623 Nguyen Van Cu, Phuong 1, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0065,Le Minh,leminh509@hotmail.com,+84813758808,"53 Dinh Tien Hoang, Phuong 1, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0066,Dich vu Smart Nam,dichvusmartnam@proton.me,+84710386890,"874 Le Loi, Phuong 8, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0067,Phan Nam,phannam172@yahoo.com,+84951593788,"251 Le Loi, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0068,Cong ty Co phan Solutions Van,congtycophansolutionsvan@outlook.com,+84549566861,"79 Nguyen Thi Minh Khai, Phuong 14, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0069,Huynh Huu Thao,huynhhuuthao377@outlook.com,+84708865457,"927 Nguyen Van Cu, Phuong 14, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0070,Vu Van Thao,vuvanthao@gmail.com,+84790607956,"382 Cach Mang Thang Tam, Phuong 10, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0071,Bui Ngoc Nam,buingocnam571@gmail.com,+84827698351,"368 Pham Ngoc Thach, Phuong 13, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0072,Trung tam Global Minh,trungtamglobalminh@proton.me,+84368765643,"381 Pham Ngoc Thach, Phuong 7, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0073,Nha phan phoi Group Global,nhaphanphoigroupglobal864@yahoo.com,+84955756865,"167 Tran Hung Dao, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0074,Vu Quoc Khanh,vuquockhanh@outlook.com,+84822979165,"461 Nguyen Thi Minh Khai, Phuong 10, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0075,Le Giang,legiang492@hotmail.com,+84751882729,"160 Dinh Tien Hoang, Phuong 5, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0076,Cong ty TNHH Smart Group,congtytnhhsmartgroup@outlook.com,+84330230731,"49 Pham Ngoc Thach, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0077,Bui Thi An,buithian153@hotmail.com,+84596472126,"647 Nguyen Thi Minh Khai, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0078,Dang Hong Yen,danghongyen@yahoo.com,+84746246090,"548 Vo Van Tan, Phuong 15, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0079,Vu Anh Oanh,vuanhoanh@hotmail.com,+84773767730,"569 Cach Mang Thang Tam, Phuong 7, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0080,Le Chi,lechi@proton.me,+84802783338,"494 Pham Ngoc Thach, Phuong 1, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0081,Cong ty TNHH Star Hung,congtytnhhstarhung376@hotmail.com,+84887839449,"541 Pham Ngoc Thach, Phuong 5, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0082,Doanh nghiep Global Dung,doanhnghiepglobaldung335@hotmail.com,+84736463083,"455 Pham Ngoc Thach, Phuong 1, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0083,Dang Ha,dangha622@gmail.com,+84800733566,"981 Cach Mang Thang Tam, Phuong 11, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0084,Dang Quoc Linh,dangquoclinh@yahoo.com,+84974352249,"302 Nguyen Thi Minh Khai, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0085,Le Thao,lethao@gmail.com,+84767522177,"188 Cach Mang Thang Tam, Phuong 15, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,50
+CUID_0086,Le Thi An,lethian@hotmail.com,+84749180374,"430 Dinh Tien Hoang, Phuong Ben Nghe, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0087,Tran Ngoc Van,tranngocvan848@hotmail.com,+84561949011,"178 Tran Hung Dao, Phuong 11, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0088,Trung tam Star Digital,trungtamstardigital979@hotmail.com,+84526606551,"649 Pasteur, Phuong 11, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0089,Cong ty Co phan Tech Binh,congtycophantechbinh585@proton.me,+84860856328,"425 Pham Ngoc Thach, Phuong 14, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0090,Phan Thanh Nam,phanthanhnam882@zoho.com,+84778913534,"283 Nguyen Thi Minh Khai, Phuong 8, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0091,Phan Quan,phanquan@yahoo.com,+84389711948,"519 Nguyen Van Cu, Phuong 5, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0092,Nha phan phoi Asia Khanh,nhaphanphoiasiakhanh506@gmail.com,+84586458487,"792 Dinh Tien Hoang, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0093,Pham Huu Chi,phamhuuchi@outlook.com,+84529619373,"971 Cach Mang Thang Tam, Phuong 7, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0094,Nguyen Minh Nam,nguyenminhnam@outlook.com,+84365361972,"354 Vo Van Tan, Phuong 15, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0095,Vu Oanh,vuoanh@hotmail.com,+84857760497,"804 Pasteur, Phuong Ben Nghe, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0096,Le Duc Phuc,leducphuc@yahoo.com,+84309103164,"803 Pasteur, Phuong 14, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0097,Dang Ngoc Uyen,dangngocuyen979@zoho.com,+84345568682,"505 Nguyen Hue, Phuong 8, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0098,Hoang Hung,hoanghung@proton.me,+84745972558,"414 Cach Mang Thang Tam, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0099,Cong ty Co phan Digital Quan,congtycophandigitalquan490@proton.me,+84325961652,"695 Vo Van Tan, Phuong 8, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0100,Ho Ngoc Giang,hongocgiang@gmail.com,+84349841936,"939 Le Loi, Phuong Ben Nghe, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0101,Cong ty TNHH Elite Inno,congtytnhheliteinno@outlook.com,+84390871782,"48 Nguyen Van Cu, Phuong 10, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0102,Shop VN Thao,shopvnthao@proton.me,+84881528376,"745 Tran Hung Dao, Phuong 1, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0103,Ngo Thanh Phuc,ngothanhphuc@outlook.com,+84940949034,"283 Cach Mang Thang Tam, Phuong 10, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0104,Do Thanh Binh,dothanhbinh314@proton.me,+84345873192,"639 Nguyen Hue, Phuong 8, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0105,Bui Duc Xuan,buiducxuan@outlook.com,+84376575539,"124 Nguyen Van Cu, Phuong 15, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0106,Le Hong Thao,lehongthao@gmail.com,+84548401455,"698 Pham Ngoc Thach, Phuong 1, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0107,Pham Van Quan,phamvanquan@hotmail.com,+84599090477,"756 Dinh Tien Hoang, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0108,Giai phap Smart Digital,giaiphapsmartdigital@proton.me,+84518193198,"784 Nguyen Van Cu, Phuong 10, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0109,Dang Thanh Khanh,dangthanhkhanh282@outlook.com,+84397184780,"221 Le Loi, Phuong 5, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0110,Ho Khanh,hokhanh449@proton.me,+84357719295,"601 Pasteur, Phuong 11, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0111,Do Anh Minh,doanhminh971@hotmail.com,+84589644996,"814 Vo Van Tan, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0112,Le Uyen,leuyen@yahoo.com,+84781404453,"271 Nguyen Hue, Phuong 11, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0113,Cong ty Co phan Global Net,congtycophanglobalnet689@gmail.com,+84568177548,"350 Pham Ngoc Thach, Phuong 1, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0114,Cong ty Co phan Inno Uyen,congtycophaninnouyen@yahoo.com,+84332324633,"913 Nguyen Thi Minh Khai, Phuong 14, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0115,Shop Elite Star,shopelitestar46@hotmail.com,+84587055721,"245 Dinh Tien Hoang, Phuong Ben Nghe, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0116,Shop VN Van,shopvnvan@proton.me,+84847315189,"990 Nguyen Van Cu, Phuong 15, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0117,Duong Thi An,duongthian645@outlook.com,+84301240699,"685 Nguyen Thi Minh Khai, Phuong 1, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0118,Nguyen Huu Xuan,nguyenhuuxuan832@hotmail.com,+84889101158,"283 Dinh Tien Hoang, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0119,Pham Khanh,phamkhanh@hotmail.com,+84968703500,"185 Le Loi, Phuong 14, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0120,Duong Van,duongvan922@gmail.com,+84540098509,"332 Nguyen Van Cu, Phuong 8, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0121,Giai phap Elite VN,giaiphapelitevn246@hotmail.com,+84583837197,"522 Cach Mang Thang Tam, Phuong 1, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0122,Shop Asia Nam,shopasianam279@hotmail.com,+84843946606,"827 Nguyen Hue, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0123,Ngo Duc Phuc,ngoducphuc93@hotmail.com,+84994710455,"115 Nguyen Van Cu, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0124,Ngo Anh An,ngoanhan@hotmail.com,+84975925612,"284 Nguyen Thi Minh Khai, Phuong 7, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0125,Hoang Thi Oanh,hoangthioanh@hotmail.com,+84851139368,"347 Nguyen Thi Minh Khai, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0126,Dich vu Solutions Giang,dichvusolutionsgiang@hotmail.com,+84341337697,"343 Dinh Tien Hoang, Phuong 10, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0127,Nha phan phoi Asia Inno,nhaphanphoiasiainno@proton.me,+84994742687,"428 Nguyen Thi Minh Khai, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0128,Giai phap Net Minh,giaiphapnetminh@gmail.com,+84544596573,"926 Vo Van Tan, Phuong Ben Nghe, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0129,Do Ngoc Binh,dongocbinh@zoho.com,+84893710275,"714 Pasteur, Phuong 8, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0130,Do Hong Giang,dohonggiang@hotmail.com,+84814919134,"221 Vo Van Tan, Phuong 14, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0131,Ho Thi Minh,hothiminh@gmail.com,+84903189755,"348 Vo Van Tan, Phuong 13, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0132,Le Ngoc Quan,lengocquan628@outlook.com,+84344022775,"828 Vo Van Tan, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0133,Hoang Thi Van,hoangthivan397@proton.me,+84531341689,"614 Le Loi, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0134,Le Minh Van,leminhvan@outlook.com,+84354459911,"305 Tran Hung Dao, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0135,Shop Tech Van,shoptechvan393@yahoo.com,+84554648400,"789 Nguyen Hue, Phuong 10, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0136,Le Yen,leyen@proton.me,+84851178380,"746 Nguyen Thi Minh Khai, Phuong 15, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0137,Duong Thanh Minh,duongthanhminh@gmail.com,+84780818276,"891 Pasteur, Phuong 13, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0138,Nha phan phoi Net Group,nhaphanphoinetgroup287@zoho.com,+84553722896,"107 Tran Hung Dao, Phuong 13, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0139,Doanh nghiep Inno Global,doanhnghiepinnoglobal329@yahoo.com,+84376452446,"911 Le Loi, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0140,Shop Pro Van,shopprovan@hotmail.com,+84974630524,"226 Nguyen Thi Minh Khai, Phuong 10, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0141,Bui Bao Uyen,buibaouyen@hotmail.com,+84906809149,"448 Nguyen Hue, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0142,Trung tam Media Linh,trungtammedialinh680@hotmail.com,+84306774002,"89 Tran Hung Dao, Phuong Ben Nghe, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0143,Nguyen Bao Dung,nguyenbaodung@outlook.com,+84803713817,"781 Tran Hung Dao, Phuong 7, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0144,Do Quoc Hung,doquochung@proton.me,+84864281173,"449 Cach Mang Thang Tam, Phuong 7, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0145,Dang Duc Minh,dangducminh867@proton.me,+84726136772,"405 Le Loi, Phuong 8, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0146,Ly Oanh,lyoanh881@hotmail.com,+84545149050,"230 Nguyen Van Cu, Phuong 1, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0147,Thuong mai Net Oanh,thuongmainetoanh@outlook.com,+84965100991,"344 Dinh Tien Hoang, Phuong Ben Nghe, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0148,Duong Thanh Chi,duongthanhchi626@outlook.com,+84506610104,"365 Vo Van Tan, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0149,Ngo Dung,ngodung439@gmail.com,+84752964508,"180 Cach Mang Thang Tam, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,2000
+CUID_0150,Cong ty Co phan Group Xuan,congtycophangroupxuan883@gmail.com,+84924319859,"768 Dinh Tien Hoang, Phuong 8, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0151,Shop VN VN,shopvnvn514@zoho.com,+84918990428,"345 Le Loi, Phuong 15, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0152,Bui Khanh,buikhanh995@outlook.com,+84897757190,"564 Cach Mang Thang Tam, Phuong 1, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0153,Trung tam Media Star,trungtammediastar@zoho.com,+84840970985,"727 Cach Mang Thang Tam, Phuong 14, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0154,Do Chi,dochi@zoho.com,+84861289383,"473 Pham Ngoc Thach, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0155,Ngo Minh Dung,ngominhdung@yahoo.com,+84745923211,"712 Pham Ngoc Thach, Phuong Ben Nghe, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,10
+CUID_0156,Doanh nghiep Media An,doanhnghiepmediaan50@hotmail.com,+84729044724,"833 Tran Hung Dao, Phuong 5, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0157,Nha phan phoi Solutions Net,nhaphanphoisolutionsnet645@outlook.com,+84952800941,"936 Cach Mang Thang Tam, Phuong 5, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0158,Ly Bao Phuc,lybaophuc699@outlook.com,+84812128062,"312 Nguyen Thi Minh Khai, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0159,Phan Thanh Van,phanthanhvan@yahoo.com,+84579735495,"407 Pham Ngoc Thach, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0160,Ly Linh,lylinh@gmail.com,+84857991628,"949 Nguyen Van Cu, Phuong 8, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0161,Shop Elite Inno,shopeliteinno325@yahoo.com,+84790795519,"912 Nguyen Thi Minh Khai, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0162,Nguyen Thanh An,nguyenthanhan@zoho.com,+84792179830,"610 Tran Hung Dao, Phuong 5, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0163,Shop Inno Nam,shopinnonam309@zoho.com,+84711979619,"720 Pasteur, Phuong 11, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0164,Giai phap VN Dung,giaiphapvndung1@yahoo.com,+84539906992,"589 Le Loi, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0165,Huynh Ha,huynhha@proton.me,+84986730263,"815 Le Loi, Phuong 1, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0166,Doanh nghiep Elite Oanh,doanhnghiepeliteoanh@outlook.com,+84751486610,"876 Nguyen Van Cu, Phuong 10, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0167,Cong ty Co phan Digital Future,congtycophandigitalfuture76@outlook.com,+84599398746,"631 Dinh Tien Hoang, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0168,Pham Hong Xuan,phamhongxuan@hotmail.com,+84720581342,"687 Pasteur, Phuong 14, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0169,Do Thi Uyen,dothiuyen407@gmail.com,+84846051834,"279 Nguyen Thi Minh Khai, Phuong 14, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0170,Nguyen Duc Dung,nguyenducdung@gmail.com,+84547203596,"968 Nguyen Thi Minh Khai, Phuong Ben Nghe, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0171,Ly Binh,lybinh@zoho.com,+84586617199,"837 Nguyen Hue, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0172,Giai phap Group Asia,giaiphapgroupasia932@zoho.com,+84905585907,"611 Vo Van Tan, Phuong 13, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0173,Bui Thi Dung,buithidung@zoho.com,+84788826541,"422 Tran Hung Dao, Phuong Ben Nghe, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0174,Phan Nam,phannam763@proton.me,+84898083246,"110 Nguyen Hue, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0175,Duong Duc Quan,duongducquan@zoho.com,+84349445307,"77 Pham Ngoc Thach, Phuong 15, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0176,Dich vu Tech Inno,dichvutechinno@yahoo.com,+84382497285,"660 Le Loi, Phuong 1, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0177,Le Uyen,leuyen@zoho.com,+84718762315,"998 Nguyen Hue, Phuong 8, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0178,Phan Bao An,phanbaoan@outlook.com,+84360283964,"395 Cach Mang Thang Tam, Phuong 14, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0179,Dang Phuc,dangphuc523@zoho.com,+84755264323,"293 Pham Ngoc Thach, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0180,Cong ty TNHH Net Nam,congtytnhhnetnam143@proton.me,+84969243075,"204 Cach Mang Thang Tam, Phuong 8, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0181,Do Huu Ha,dohuuha@proton.me,+84324775998,"680 Le Loi, Phuong 8, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0182,Giai phap Net Hung,giaiphapnethung301@hotmail.com,+84884859085,"898 Dinh Tien Hoang, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,1000
+CUID_0183,Doanh nghiep Solutions Net,doanhnghiepsolutionsnet@hotmail.com,+84589181039,"330 Nguyen Van Cu, Phuong 1, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0184,Doanh nghiep Asia Future,doanhnghiepasiafuture@outlook.com,+84914444057,"982 Nguyen Van Cu, Phuong 11, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0185,Nha phan phoi Group Khanh,nhaphanphoigroupkhanh392@hotmail.com,+84551822753,"919 Tran Hung Dao, Phuong 11, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0186,Ly Phuc,lyphuc744@gmail.com,+84320517736,"799 Vo Van Tan, Phuong Ben Nghe, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0187,Tran Van Binh,tranvanbinh454@proton.me,+84812726041,"542 Pham Ngoc Thach, Phuong Ben Nghe, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0188,Ly Duc Dung,lyducdung108@hotmail.com,+84811252720,"518 Nguyen Hue, Phuong 14, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0189,Tran Yen,tranyen@proton.me,+84970796492,"61 Le Loi, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0190,Do Duc Dung,doducdung@gmail.com,+84901638927,"391 Cach Mang Thang Tam, Phuong 7, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0191,Trung tam Star Minh,trungtamstarminh@proton.me,+84867160914,"614 Nguyen Thi Minh Khai, Phuong Ben Nghe, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0192,Huynh Bao Giang,huynhbaogiang@outlook.com,+84984060857,"751 Pasteur, Phuong 8, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0193,Dich vu Media Phuc,dichvumediaphuc@proton.me,+84836385906,"170 Vo Van Tan, Phuong 14, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0194,Vu Quoc Linh,vuquoclinh@gmail.com,+84564248484,"131 Nguyen Thi Minh Khai, Phuong 1, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0195,Dang Thi Minh,dangthiminh@zoho.com,+84893024564,"682 Cach Mang Thang Tam, Phuong 14, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0196,Cong ty TNHH Digital Khanh,congtytnhhdigitalkhanh@proton.me,+84753184874,"270 Pasteur, Phuong 8, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0197,Nha phan phoi Pro Net,nhaphanphoipronet775@proton.me,+84806618455,"996 Nguyen Thi Minh Khai, Phuong 1, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0198,Phan Uyen,phanuyen@zoho.com,+84361816638,"438 Pasteur, Phuong 8, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0199,Hoang Minh Giang,hoangminhgiang@outlook.com,+84527879626,"307 Cach Mang Thang Tam, Phuong 7, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0200,Shop Inno Pro,shopinnopro@hotmail.com,+84556478288,"545 Le Loi, Phuong 1, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,100
+CUID_0201,Nha phan phoi VN Future,nhaphanphoivnfuture@hotmail.com,+84386270818,"767 Vo Van Tan, Phuong 8, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0202,Ngo Minh,ngominh@proton.me,+84839935026,"809 Nguyen Thi Minh Khai, Phuong 8, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0203,Bui Duc Hung,buiduchung@hotmail.com,+84911534515,"271 Nguyen Van Cu, Phuong 11, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0204,Le Binh,lebinh@proton.me,+84745373210,"527 Tran Hung Dao, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0205,Pham Nam,phamnam223@hotmail.com,+84559890649,"638 Pasteur, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0206,Ly Dung,lydung741@outlook.com,+84705755426,"338 Vo Van Tan, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0207,Thuong mai Global Tech,thuongmaiglobaltech686@proton.me,+84384157976,"972 Le Loi, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0208,Tran Minh Linh,tranminhlinh841@zoho.com,+84394443310,"747 Pasteur, Phuong 5, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0209,Shop Elite Xuan,shopelitexuan702@gmail.com,+84762938012,"774 Dinh Tien Hoang, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0210,Do Oanh,dooanh@gmail.com,+84510535027,"753 Cach Mang Thang Tam, Phuong 8, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0211,Doanh nghiep Solutions Inno,doanhnghiepsolutionsinno@yahoo.com,+84711788994,"572 Le Loi, Phuong 10, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0212,Bui Quoc Oanh,buiquocoanh@yahoo.com,+84316934635,"589 Pasteur, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0213,Huynh Thanh Quan,huynhthanhquan@hotmail.com,+84363447416,"93 Pham Ngoc Thach, Phuong 7, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0214,Cong ty Co phan Inno VN,congtycophaninnovn@gmail.com,+84985720285,"679 Tran Hung Dao, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0215,Trung tam Solutions Thao,trungtamsolutionsthao@zoho.com,+84830299671,"173 Tran Hung Dao, Phuong Ben Nghe, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0216,Cong nghe Digital Solutions,congnghedigitalsolutions@yahoo.com,+84303029344,"57 Nguyen Van Cu, Phuong 11, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0217,Duong Duc Linh,duongduclinh@zoho.com,+84333580292,"425 Cach Mang Thang Tam, Phuong 11, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0218,Cong ty TNHH Global Global,congtytnhhglobalglobal78@outlook.com,+84562137128,"747 Le Loi, Phuong 14, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0219,Do An,doan587@yahoo.com,+84516050219,"623 Pasteur, Phuong 1, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0220,Bui Uyen,buiuyen420@yahoo.com,+84515765169,"620 Pasteur, Phuong 5, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0221,Nguyen Bao Van,nguyenbaovan@proton.me,+84361958570,"685 Tran Hung Dao, Phuong Ben Nghe, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0222,Giai phap Global Oanh,giaiphapglobaloanh@hotmail.com,+84549473898,"599 Le Loi, Phuong 13, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0223,Cong ty Co phan VN Oanh,congtycophanvnoanh726@hotmail.com,+84951066331,"677 Pasteur, Phuong 10, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0224,Huynh Ngoc Phuc,huynhngocphuc@yahoo.com,+84543523377,"885 Le Loi, Phuong 8, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0225,Cong ty Co phan Group Xuan,congtycophangroupxuan@outlook.com,+84566036884,"624 Dinh Tien Hoang, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0226,Bui Anh Phuc,buianhphuc@zoho.com,+84775986426,"833 Vo Van Tan, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0227,Dang Thanh Ha,dangthanhha244@proton.me,+84990236420,"730 Le Loi, Phuong 5, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0228,Dich vu Digital Khanh,dichvudigitalkhanh986@hotmail.com,+84344015553,"129 Vo Van Tan, Phuong 10, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0229,Ho Anh Yen,hoanhyen@outlook.com,+84794450106,"235 Nguyen Hue, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0230,Nguyen Linh,nguyenlinh408@yahoo.com,+84709438296,"941 Nguyen Hue, Phuong 14, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0231,Hoang Thanh Khanh,hoangthanhkhanh797@zoho.com,+84910940898,"390 Pasteur, Phuong 11, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0232,Dich vu Star Chi,dichvustarchi782@outlook.com,+84522507455,"413 Tran Hung Dao, Phuong 14, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0233,Ho Ngoc Hung,hongochung@outlook.com,+84738122931,"444 Nguyen Hue, Phuong 13, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0234,Vu Minh Yen,vuminhyen102@proton.me,+84785818740,"441 Nguyen Thi Minh Khai, Phuong 7, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0235,Vu Hong Yen,vuhongyen707@gmail.com,+84308464335,"964 Pham Ngoc Thach, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0236,Do Hung,dohung@zoho.com,+84517364783,"303 Nguyen Thi Minh Khai, Phuong 7, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0237,Giai phap Future Nam,giaiphapfuturenam351@gmail.com,+84336763879,"775 Pasteur, Phuong 15, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0238,Nguyen Thanh Linh,nguyenthanhlinh@proton.me,+84923094075,"95 Le Loi, Phuong 10, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0239,Giai phap VN Elite,giaiphapvnelite@yahoo.com,+84861806834,"901 Vo Van Tan, Phuong 10, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0240,Thuong mai Solutions Thao,thuongmaisolutionsthao@proton.me,+84546594203,"432 Pham Ngoc Thach, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0241,Ngo Oanh,ngooanh@hotmail.com,+84964727757,"571 Cach Mang Thang Tam, Phuong 8, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0242,Pham Duc Phuc,phamducphuc81@outlook.com,+84865766265,"285 Dinh Tien Hoang, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0243,Do Thi Linh,dothilinh@proton.me,+84331909214,"18 Nguyen Hue, Phuong 5, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0244,Phan Thi Uyen,phanthiuyen@hotmail.com,+84938907041,"871 Pham Ngoc Thach, Phuong 13, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0245,Nha phan phoi Smart Quan,nhaphanphoismartquan@yahoo.com,+84917062399,"172 Nguyen Van Cu, Phuong 15, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0246,Hoang Lan Binh,hoanglanbinh115@proton.me,+84363121700,"812 Nguyen Thi Minh Khai, Phuong Ben Nghe, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0247,Le Ngoc Nam,lengocnam364@proton.me,+84377129778,"459 Nguyen Hue, Phuong 1, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0248,Ly Duc Thao,lyducthao713@zoho.com,+84811372895,"80 Vo Van Tan, Phuong 7, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0249,Huynh Thi Van,huynhthivan@outlook.com,+84963630981,"709 Nguyen Thi Minh Khai, Phuong 15, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0250,Do Thi Van,dothivan855@proton.me,+84310110634,"648 Pasteur, Phuong 10, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0251,Cong ty Co phan Tech Star,congtycophantechstar@proton.me,+84946378870,"641 Pham Ngoc Thach, Phuong 15, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0252,Cong ty Co phan Group Yen,congtycophangroupyen236@gmail.com,+84531659557,"794 Pasteur, Phuong 11, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0253,Tran Minh Xuan,tranminhxuan@outlook.com,+84355995984,"658 Dinh Tien Hoang, Phuong 11, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0254,Phan Linh,phanlinh@hotmail.com,+84890020180,"237 Nguyen Hue, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0255,Trung tam Elite Xuan,trungtamelitexuan@zoho.com,+84510313528,"104 Pasteur, Phuong 13, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0256,Shop Net Uyen,shopnetuyen@yahoo.com,+84580608379,"352 Cach Mang Thang Tam, Phuong 13, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0257,Ngo Ngoc An,ngongocan@proton.me,+84805353616,"412 Nguyen Thi Minh Khai, Phuong Ben Nghe, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,10
+CUID_0258,Hoang Giang,hoanggiang487@yahoo.com,+84575234674,"212 Nguyen Thi Minh Khai, Phuong 13, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0259,Thuong mai Group An,thuongmaigroupan440@gmail.com,+84765143136,"798 Pham Ngoc Thach, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0260,Cong nghe Asia Asia,congngheasiaasia837@outlook.com,+84313781099,"899 Pham Ngoc Thach, Phuong 1, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0261,Vu Quoc Hung,vuquochung@proton.me,+84357569663,"937 Vo Van Tan, Phuong 1, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0262,Ngo Huu Binh,ngohuubinh@outlook.com,+84906693128,"405 Nguyen Hue, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0263,Huynh Thanh Xuan,huynhthanhxuan512@gmail.com,+84857093470,"710 Cach Mang Thang Tam, Phuong 11, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0264,Thuong mai VN Group,thuongmaivngroup396@proton.me,+84999233175,"704 Pasteur, Phuong 8, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0265,Hoang Nam,hoangnam@outlook.com,+84365621689,"450 Tran Hung Dao, Phuong Ben Nghe, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0266,Ho Quoc Giang,hoquocgiang326@proton.me,+84893786711,"144 Tran Hung Dao, Phuong 1, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0267,Dich vu Group Elite,dichvugroupelite@yahoo.com,+84707184613,"495 Tran Hung Dao, Phuong 7, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0268,Nguyen Quan,nguyenquan@yahoo.com,+84370998434,"262 Dinh Tien Hoang, Phuong 13, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0269,Shop Smart Yen,shopsmartyen@proton.me,+84954809537,"581 Dinh Tien Hoang, Phuong 15, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0270,Ly Bao Minh,lybaominh301@outlook.com,+84596946051,"609 Vo Van Tan, Phuong 7, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0271,Le Lan Hung,lelanhung331@outlook.com,+84371143537,"533 Pasteur, Phuong 7, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0272,Le Yen,leyen@proton.me,+84381743746,"130 Tran Hung Dao, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0273,Vu Thi Xuan,vuthixuan@gmail.com,+84825440625,"644 Vo Van Tan, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0274,Huynh Bao Binh,huynhbaobinh@proton.me,+84529041666,"619 Pasteur, Phuong 15, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0275,Shop Elite Solutions,shopelitesolutions@gmail.com,+84733045216,"291 Cach Mang Thang Tam, Phuong 15, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0276,Dich vu Tech Smart,dichvutechsmart@zoho.com,+84594699263,"548 Pasteur, Phuong Ben Nghe, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0277,Cong nghe Global Van,congngheglobalvan@outlook.com,+84522114772,"640 Dinh Tien Hoang, Phuong 13, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0278,Do Ngoc Hung,dongochung809@proton.me,+84935306376,"39 Tran Hung Dao, Phuong 8, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0279,Cong nghe Elite Uyen,congngheeliteuyen@gmail.com,+84814884890,"543 Pham Ngoc Thach, Phuong Ben Nghe, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0280,Bui Thi Oanh,buithioanh@gmail.com,+84783351611,"811 Pham Ngoc Thach, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0281,Ly Thi Minh,lythiminh@yahoo.com,+84317794045,"204 Cach Mang Thang Tam, Phuong 14, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0282,Ngo Van,ngovan@proton.me,+84374750965,"99 Cach Mang Thang Tam, Phuong 14, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0283,Trung tam Tech Giang,trungtamtechgiang@proton.me,+84722576211,"991 Pasteur, Phuong 15, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0284,Dang Minh Minh,dangminhminh72@zoho.com,+84763414610,"446 Dinh Tien Hoang, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0285,Cong nghe Asia Khanh,congngheasiakhanh202@hotmail.com,+84509750860,"327 Nguyen Thi Minh Khai, Phuong 14, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0286,Ly Lan Oanh,lylanoanh939@outlook.com,+84778404341,"796 Cach Mang Thang Tam, Phuong Ben Nghe, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0287,Duong Dung,duongdung@hotmail.com,+84975446593,"358 Nguyen Hue, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0288,Ngo Duc Khanh,ngoduckhanh@yahoo.com,+84977815304,"325 Dinh Tien Hoang, Phuong 5, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,20
+CUID_0289,Giai phap Digital Van,giaiphapdigitalvan@proton.me,+84921578764,"308 Dinh Tien Hoang, Phuong Ben Nghe, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0290,Ly Thanh Minh,lythanhminh@outlook.com,+84795658809,"64 Nguyen Van Cu, Phuong 15, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0291,Nguyen Duc Yen,nguyenducyen@outlook.com,+84844211583,"437 Tran Hung Dao, Phuong 10, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0292,Nguyen Lan Uyen,nguyenlanuyen@proton.me,+84306447641,"531 Dinh Tien Hoang, Phuong 15, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0293,Phan Thanh Uyen,phanthanhuyen513@proton.me,+84745395714,"717 Le Loi, Phuong 7, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0294,Trung tam Pro Yen,trungtamproyen@gmail.com,+84504790673,"64 Cach Mang Thang Tam, Phuong 15, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0295,Vu Quoc Quan,vuquocquan@hotmail.com,+84720977504,"183 Pasteur, Phuong 1, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0296,Trung tam Pro Digital,trungtamprodigital@yahoo.com,+84726227697,"684 Nguyen Thi Minh Khai, Phuong 11, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0297,Cong nghe Solutions Yen,congnghesolutionsyen86@gmail.com,+84358874367,"181 Nguyen Hue, Phuong Ben Nghe, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0298,Duong Minh Thao,duongminhthao@outlook.com,+84877537418,"22 Pham Ngoc Thach, Phuong 14, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0299,Cong ty TNHH Media Khanh,congtytnhhmediakhanh@outlook.com,+84732063777,"612 Nguyen Hue, Phuong 15, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0300,Shop Global Tech,shopglobaltech69@proton.me,+84945637206,"68 Pasteur, Phuong 8, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0301,Cong ty Co phan Media Global,congtycophanmediaglobal@outlook.com,+84581112604,"293 Dinh Tien Hoang, Phuong 11, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0302,Ngo Anh Nam,ngoanhnam832@gmail.com,+84710923615,"451 Nguyen Hue, Phuong Ben Nghe, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0303,Cong ty Co phan Tech VN,congtycophantechvn@gmail.com,+84770460031,"347 Dinh Tien Hoang, Phuong Ben Nghe, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0304,Cong nghe Pro Phuc,congngheprophuc@outlook.com,+84950984593,"708 Pham Ngoc Thach, Phuong 13, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0305,Cong ty Co phan Digital Hung,congtycophandigitalhung@gmail.com,+84761031686,"377 Nguyen Thi Minh Khai, Phuong 5, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0306,Pham Thanh Khanh,phamthanhkhanh811@outlook.com,+84564989033,"748 Nguyen Van Cu, Phuong 13, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0307,Thuong mai Pro Asia,thuongmaiproasia@proton.me,+84901649071,"186 Nguyen Van Cu, Phuong 10, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0308,Bui Bao Dung,buibaodung@gmail.com,+84528489639,"599 Vo Van Tan, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0309,Cong ty TNHH Asia Inno,congtytnhhasiainno280@hotmail.com,+84371312517,"657 Pasteur, Phuong 13, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0310,Nguyen Lan Chi,nguyenlanchi@proton.me,+84748762654,"970 Tran Hung Dao, Phuong Ben Nghe, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0311,Dich vu Media Giang,dichvumediagiang@hotmail.com,+84521503752,"798 Nguyen Hue, Phuong 10, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0312,Cong nghe Pro Inno,congngheproinno@yahoo.com,+84903226841,"63 Vo Van Tan, Phuong 7, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0313,Tran Thanh Thao,tranthanhthao@zoho.com,+84816373078,"394 Nguyen Hue, Phuong 5, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0314,Phan Lan Thao,phanlanthao139@yahoo.com,+84876921601,"882 Nguyen Thi Minh Khai, Phuong 14, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0315,Ly Minh Ha,lyminhha@zoho.com,+84308495827,"763 Nguyen Hue, Phuong 8, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0316,Ly Minh Yen,lyminhyen@gmail.com,+84904705478,"473 Nguyen Thi Minh Khai, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0317,Ho Thanh Giang,hothanhgiang663@hotmail.com,+84906145594,"151 Dinh Tien Hoang, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0318,Cong ty TNHH Star VN,congtytnhhstarvn@outlook.com,+84752766526,"645 Cach Mang Thang Tam, Phuong 1, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0319,Cong ty TNHH Media Minh,congtytnhhmediaminh@hotmail.com,+84931507292,"126 Nguyen Thi Minh Khai, Phuong Ben Nghe, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0320,Shop Digital Chi,shopdigitalchi@zoho.com,+84703458458,"931 Pham Ngoc Thach, Phuong 14, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0321,Cong ty Co phan Group Thao,congtycophangroupthao919@gmail.com,+84329126485,"652 Nguyen Van Cu, Phuong 10, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0322,Le Anh Thao,leanhthao@proton.me,+84710885356,"815 Cach Mang Thang Tam, Phuong 14, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0323,Dang Huu Yen,danghuuyen@yahoo.com,+84712497034,"180 Pasteur, Phuong 7, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0324,Doanh nghiep Solutions An,doanhnghiepsolutionsan324@gmail.com,+84512150333,"562 Tran Hung Dao, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0325,Ly Minh Thao,lyminhthao993@hotmail.com,+84593742995,"160 Pasteur, Phuong 14, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0326,Cong ty TNHH Solutions Pro,congtytnhhsolutionspro632@hotmail.com,+84340065292,"33 Le Loi, Phuong 15, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0327,Thuong mai Smart Net,thuongmaismartnet619@outlook.com,+84599318332,"369 Pham Ngoc Thach, Phuong 14, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0328,Cong nghe Inno Oanh,congngheinnooanh825@outlook.com,+84874851395,"353 Le Loi, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0329,Ly Minh Xuan,lyminhxuan@outlook.com,+84318248354,"767 Nguyen Thi Minh Khai, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0330,Hoang Uyen,hoanguyen@gmail.com,+84744621290,"773 Cach Mang Thang Tam, Phuong Ben Nghe, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0331,Cong nghe Inno Pro,congngheinnopro@hotmail.com,+84502514630,"379 Dinh Tien Hoang, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0332,Ly Thanh Ha,lythanhha@gmail.com,+84358863660,"603 Cach Mang Thang Tam, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0333,Ngo Quoc Ha,ngoquocha515@gmail.com,+84387569877,"831 Le Loi, Phuong 13, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0334,Le Uyen,leuyen371@hotmail.com,+84388573708,"237 Tran Hung Dao, Phuong 7, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0335,Tran Thi Dung,tranthidung495@gmail.com,+84801750120,"693 Nguyen Van Cu, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0336,Ly Ngoc Oanh,lyngocoanh866@gmail.com,+84793157250,"602 Nguyen Van Cu, Phuong 15, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0337,Doanh nghiep Elite Tech,doanhnghiepelitetech219@proton.me,+84584616189,"444 Nguyen Hue, Phuong 15, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0338,Shop Media Thao,shopmediathao@gmail.com,+84877503126,"329 Nguyen Thi Minh Khai, Phuong 8, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0339,Giai phap Group VN,giaiphapgroupvn@outlook.com,+84719414601,"420 Pasteur, Phuong 5, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0340,Shop Group Nam,shopgroupnam434@gmail.com,+84827527644,"627 Dinh Tien Hoang, Phuong 14, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0341,Cong ty Co phan Media Binh,congtycophanmediabinh@outlook.com,+84307840163,"320 Pasteur, Phuong Ben Nghe, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0342,Thuong mai Net Van,thuongmainetvan677@outlook.com,+84842385904,"946 Le Loi, Phuong 13, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0343,Vu Minh Xuan,vuminhxuan@proton.me,+84781433754,"577 Vo Van Tan, Phuong Ben Nghe, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0344,Thuong mai Tech Nam,thuongmaitechnam@hotmail.com,+84863930083,"769 Pasteur, Phuong 1, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0345,Huynh Van Khanh,huynhvankhanh319@yahoo.com,+84506811506,"442 Pasteur, Phuong 15, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0346,Dich vu Tech Ha,dichvutechha@outlook.com,+84758163573,"639 Pham Ngoc Thach, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0347,Cong ty Co phan Star Star,congtycophanstarstar304@hotmail.com,+84542708030,"830 Vo Van Tan, Phuong 14, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0348,Trung tam Global Giang,trungtamglobalgiang@outlook.com,+84724647107,"893 Tran Hung Dao, Phuong Ben Nghe, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0349,Cong nghe VN Phuc,congnghevnphuc@zoho.com,+84953116343,"860 Le Loi, Phuong 8, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0350,Le Thanh Khanh,lethanhkhanh153@outlook.com,+84307349492,"289 Tran Hung Dao, Phuong 1, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0351,Dang Bao Binh,dangbaobinh@proton.me,+84908320986,"916 Le Loi, Phuong 13, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0352,Dang Van,dangvan@proton.me,+84528218353,"776 Nguyen Hue, Phuong 13, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0353,Hoang Huu Yen,hoanghuuyen@gmail.com,+84761542271,"496 Cach Mang Thang Tam, Phuong 10, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0354,Cong ty TNHH Star Group,congtytnhhstargroup@proton.me,+84323679652,"463 Dinh Tien Hoang, Phuong 1, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0355,Trung tam Media An,trungtammediaan911@hotmail.com,+84396874088,"973 Nguyen Thi Minh Khai, Phuong 14, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0356,Phan Dung,phandung@yahoo.com,+84504753676,"198 Nguyen Thi Minh Khai, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0357,Shop Asia Digital,shopasiadigital528@gmail.com,+84386734726,"856 Cach Mang Thang Tam, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0358,Phan Yen,phanyen23@yahoo.com,+84566991714,"449 Pasteur, Phuong 10, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0359,Bui Duc Van,buiducvan@outlook.com,+84884229827,"401 Tran Hung Dao, Phuong 13, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0360,Trung tam Inno Net,trungtaminnonet811@outlook.com,+84309242560,"490 Tran Hung Dao, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0361,Giai phap Inno Binh,giaiphapinnobinh60@gmail.com,+84932999957,"56 Nguyen Van Cu, Phuong 10, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0362,Phan Minh Xuan,phanminhxuan@gmail.com,+84714340742,"330 Nguyen Van Cu, Phuong 7, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0363,Shop Elite Phuc,shopelitephuc@hotmail.com,+84767238397,"164 Vo Van Tan, Phuong 14, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0364,Le Huu Ha,lehuuha@proton.me,+84999037448,"897 Tran Hung Dao, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0365,Doanh nghiep Star Future,doanhnghiepstarfuture@proton.me,+84756290719,"262 Nguyen Thi Minh Khai, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0366,Cong ty Co phan Smart Linh,congtycophansmartlinh@zoho.com,+84981086495,"15 Cach Mang Thang Tam, Phuong 1, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0367,Ho Yen,hoyen49@yahoo.com,+84730093319,"896 Dinh Tien Hoang, Phuong 5, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0368,Ngo Ngoc Giang,ngongocgiang820@gmail.com,+84879963031,"466 Dinh Tien Hoang, Phuong 14, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0369,Ngo Quoc Ha,ngoquocha@outlook.com,+84903426146,"547 Le Loi, Phuong 10, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0370,Cong nghe VN Asia,congnghevnasia@yahoo.com,+84785200014,"106 Nguyen Thi Minh Khai, Phuong Ben Nghe, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0371,Ngo Thi Thao,ngothithao@yahoo.com,+84804737748,"359 Tran Hung Dao, Phuong 8, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0372,Trung tam Star Smart,trungtamstarsmart@outlook.com,+84930644677,"320 Pasteur, Phuong Ben Nghe, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0373,Giai phap Net Giang,giaiphapnetgiang14@gmail.com,+84310982664,"651 Vo Van Tan, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0374,Vu Thi Ha,vuthiha@yahoo.com,+84894852580,"18 Le Loi, Phuong 13, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0375,Dich vu Inno Dung,dichvuinnodung@gmail.com,+84857998200,"600 Cach Mang Thang Tam, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0376,Cong nghe Media Van,congnghemediavan@zoho.com,+84744174455,"711 Cach Mang Thang Tam, Phuong Ben Nghe, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0377,Ho Anh Oanh,hoanhoanh@outlook.com,+84362761161,"435 Nguyen Thi Minh Khai, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0378,Nguyen Huu Oanh,nguyenhuuoanh847@proton.me,+84500461223,"373 Nguyen Van Cu, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0379,Thuong mai Asia Smart,thuongmaiasiasmart968@proton.me,+84879797681,"585 Nguyen Van Cu, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0380,Pham Ha,phamha452@proton.me,+84548138129,"797 Nguyen Van Cu, Phuong 8, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0381,Tran Duc Quan,tranducquan@hotmail.com,+84317428444,"882 Vo Van Tan, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0382,Thuong mai Media Digital,thuongmaimediadigital790@hotmail.com,+84343091599,"828 Vo Van Tan, Phuong 10, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0383,Thuong mai Star Giang,thuongmaistargiang@proton.me,+84702597425,"817 Pasteur, Phuong 14, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0384,Giai phap Net Net,giaiphapnetnet550@hotmail.com,+84737855253,"358 Tran Hung Dao, Phuong 1, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0385,Hoang Thi Minh,hoangthiminh@proton.me,+84510363061,"315 Pasteur, Phuong 1, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0386,Ho Yen,hoyen@proton.me,+84582268513,"765 Nguyen Hue, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0387,Ngo Thi Giang,ngothigiang@proton.me,+84800844355,"541 Dinh Tien Hoang, Phuong 10, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0388,Vu Thi Quan,vuthiquan130@yahoo.com,+84871781247,"976 Vo Van Tan, Phuong 11, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0389,Tran Huu Binh,tranhuubinh380@zoho.com,+84793471508,"920 Pham Ngoc Thach, Phuong 8, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0390,Tran Thi Binh,tranthibinh@outlook.com,+84759747675,"481 Nguyen Thi Minh Khai, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0391,Ngo Thanh Quan,ngothanhquan404@outlook.com,+84759876875,"825 Pham Ngoc Thach, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0392,Bui Thi Binh,buithibinh@zoho.com,+84850659228,"869 Pasteur, Phuong 14, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0393,Giai phap Asia Solutions,giaiphapasiasolutions@outlook.com,+84931053095,"302 Tran Hung Dao, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0394,Phan Van Nam,phanvannam59@yahoo.com,+84733433812,"780 Pasteur, Phuong Ben Nghe, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0395,Giai phap Media Chi,giaiphapmediachi566@gmail.com,+84800690551,"791 Vo Van Tan, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0396,Duong Thanh Giang,duongthanhgiang@hotmail.com,+84375494048,"306 Tran Hung Dao, Phuong 1, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0397,Bui Ngoc Phuc,buingocphuc@hotmail.com,+84355075331,"153 Vo Van Tan, Phuong 10, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0398,Ngo Ngoc Nam,ngongocnam770@proton.me,+84826329391,"954 Nguyen Van Cu, Phuong Ben Nghe, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0399,Le Lan Uyen,lelanuyen@outlook.com,+84958841936,"406 Tran Hung Dao, Phuong 1, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0400,Cong nghe Tech Elite,congnghetechelite287@proton.me,+84718682990,"514 Pasteur, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0401,Giai phap Media Chi,giaiphapmediachi@zoho.com,+84356565010,"275 Pasteur, Phuong 8, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0402,Duong Duc Xuan,duongducxuan573@zoho.com,+84804668384,"134 Vo Van Tan, Phuong 14, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0403,Nha phan phoi Tech Chi,nhaphanphoitechchi@outlook.com,+84701050794,"86 Nguyen Hue, Phuong 8, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0404,Do Thi Quan,dothiquan@gmail.com,+84782498852,"84 Pasteur, Phuong Ben Nghe, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0405,Dich vu Media Digital,dichvumediadigital@gmail.com,+84838019436,"77 Le Loi, Phuong 1, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0406,Giai phap Media Oanh,giaiphapmediaoanh@yahoo.com,+84503786397,"474 Vo Van Tan, Phuong 11, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0407,Bui Yen,buiyen@yahoo.com,+84362474270,"329 Pasteur, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0408,Trung tam Asia Asia,trungtamasiaasia@yahoo.com,+84533056058,"889 Nguyen Van Cu, Phuong 13, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0409,Ly Thi Nam,lythinam@yahoo.com,+84853596414,"818 Nguyen Van Cu, Phuong 14, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0410,Nha phan phoi Pro Star,nhaphanphoiprostar@yahoo.com,+84783480035,"155 Pham Ngoc Thach, Phuong 14, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0411,Shop Tech Media,shoptechmedia178@yahoo.com,+84387351089,"31 Tran Hung Dao, Phuong 13, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0412,Vu Thi Oanh,vuthioanh539@proton.me,+84588019713,"393 Cach Mang Thang Tam, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0413,Nguyen Yen,nguyenyen@yahoo.com,+84773078898,"224 Le Loi, Phuong 14, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0414,Ngo Van,ngovan@hotmail.com,+84817549456,"819 Pasteur, Phuong 1, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0415,Duong Thanh Minh,duongthanhminh@outlook.com,+84518207252,"52 Nguyen Thi Minh Khai, Phuong 15, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0416,Phan Thi Uyen,phanthiuyen25@hotmail.com,+84342092550,"293 Nguyen Hue, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0417,Pham Ngoc Nam,phamngocnam835@hotmail.com,+84716187527,"298 Cach Mang Thang Tam, Phuong 13, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0418,Cong ty TNHH Pro Xuan,congtytnhhproxuan@yahoo.com,+84327457774,"820 Le Loi, Phuong 11, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0419,Giai phap Group Quan,giaiphapgroupquan@outlook.com,+84935190883,"439 Dinh Tien Hoang, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0420,Bui Giang,buigiang@yahoo.com,+84757953390,"405 Nguyen Hue, Phuong 14, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0421,Trung tam Media Future,trungtammediafuture@gmail.com,+84306410922,"685 Vo Van Tan, Phuong 5, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0422,Le Lan Quan,lelanquan113@outlook.com,+84354098124,"736 Nguyen Thi Minh Khai, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0423,Pham Ngoc Thao,phamngocthao146@hotmail.com,+84803859845,"764 Le Loi, Phuong 10, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0424,Trung tam Smart Inno,trungtamsmartinno921@outlook.com,+84574915392,"901 Tran Hung Dao, Phuong 10, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0425,Nha phan phoi Elite Van,nhaphanphoielitevan@outlook.com,+84513757412,"55 Nguyen Thi Minh Khai, Phuong 1, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0426,Cong nghe Smart Hung,congnghesmarthung199@proton.me,+84802716440,"682 Nguyen Hue, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0427,Le Van Dung,levandung547@yahoo.com,+84816024178,"555 Nguyen Hue, Phuong 14, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0428,Cong ty Co phan Smart Giang,congtycophansmartgiang4@outlook.com,+84977932049,"355 Nguyen Hue, Phuong 5, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0429,Duong Ha,duongha425@proton.me,+84513512591,"228 Le Loi, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0430,Huynh Thanh Thao,huynhthanhthao834@yahoo.com,+84763023591,"559 Pasteur, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0431,Do Ngoc Giang,dongocgiang779@hotmail.com,+84796009457,"525 Pasteur, Phuong 1, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,20
+CUID_0432,Cong ty Co phan VN An,congtycophanvnan@proton.me,+84360321209,"622 Nguyen Thi Minh Khai, Phuong 11, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0433,Cong ty TNHH Global Oanh,congtytnhhglobaloanh@proton.me,+84927320998,"722 Nguyen Hue, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0434,Do Bao Uyen,dobaouyen@gmail.com,+84961205892,"90 Dinh Tien Hoang, Phuong 14, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0435,Phan Thanh Minh,phanthanhminh@hotmail.com,+84327093145,"762 Dinh Tien Hoang, Phuong 7, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0436,Duong Lan Minh,duonglanminh@zoho.com,+84572443601,"490 Nguyen Hue, Phuong 7, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0437,Shop Pro Nam,shoppronam@outlook.com,+84733908919,"176 Nguyen Hue, Phuong 13, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0438,Shop Global Van,shopglobalvan@proton.me,+84969720866,"724 Tran Hung Dao, Phuong 10, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0439,Trung tam Group Future,trungtamgroupfuture94@gmail.com,+84835951482,"319 Vo Van Tan, Phuong 15, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0440,Cong ty Co phan Media Khanh,congtycophanmediakhanh214@yahoo.com,+84860140744,"305 Dinh Tien Hoang, Phuong 7, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0441,Nha phan phoi Pro Inno,nhaphanphoiproinno@zoho.com,+84852278198,"461 Pasteur, Phuong 5, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0442,Tran Quoc An,tranquocan496@zoho.com,+84902967027,"394 Pasteur, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0443,Huynh Quoc Oanh,huynhquocoanh@proton.me,+84789630331,"477 Dinh Tien Hoang, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0444,Trung tam Inno An,trungtaminnoan@hotmail.com,+84856069368,"836 Cach Mang Thang Tam, Phuong 14, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0445,Bui Oanh,buioanh@outlook.com,+84898972115,"595 Vo Van Tan, Phuong 1, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0446,Duong Hong Thao,duonghongthao@yahoo.com,+84945219619,"39 Tran Hung Dao, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0447,Hoang Lan Dung,hoanglandung547@proton.me,+84806897663,"744 Dinh Tien Hoang, Phuong 15, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0448,Tran Thi Chi,tranthichi@hotmail.com,+84371389500,"558 Nguyen Hue, Phuong 13, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0449,Do Giang,dogiang@zoho.com,+84523541984,"476 Tran Hung Dao, Phuong Ben Nghe, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0450,Cong ty TNHH Asia Ha,congtytnhhasiaha@hotmail.com,+84928562290,"839 Cach Mang Thang Tam, Phuong 7, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0451,Nha phan phoi Inno Group,nhaphanphoiinnogroup@yahoo.com,+84828910344,"366 Dinh Tien Hoang, Phuong 13, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0452,Ho Xuan,hoxuan331@outlook.com,+84580936544,"928 Tran Hung Dao, Phuong 8, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0453,Do Duc Yen,doducyen@gmail.com,+84339610349,"130 Vo Van Tan, Phuong 11, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0454,Ho Van Dung,hovandung309@yahoo.com,+84596367678,"675 Dinh Tien Hoang, Phuong 10, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0455,Tran Ngoc Van,tranngocvan586@yahoo.com,+84546053972,"138 Le Loi, Phuong 11, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0456,Thuong mai Solutions Nam,thuongmaisolutionsnam569@proton.me,+84575085867,"222 Le Loi, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0457,Vu Dung,vudung211@gmail.com,+84302701291,"977 Nguyen Van Cu, Phuong 8, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0458,Trung tam Future Quan,trungtamfuturequan@yahoo.com,+84759352082,"202 Tran Hung Dao, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,3000
+CUID_0459,Nha phan phoi Asia Khanh,nhaphanphoiasiakhanh637@hotmail.com,+84802394024,"721 Tran Hung Dao, Phuong 15, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0460,Nha phan phoi Inno Linh,nhaphanphoiinnolinh@zoho.com,+84564194060,"137 Vo Van Tan, Phuong 5, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0461,Tran Quoc Linh,tranquoclinh@yahoo.com,+84320929715,"906 Pham Ngoc Thach, Phuong Ben Nghe, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0462,Bui Xuan,buixuan@hotmail.com,+84919337955,"880 Dinh Tien Hoang, Phuong 14, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0463,Dang Giang,danggiang753@yahoo.com,+84707972671,"372 Nguyen Thi Minh Khai, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0464,Ho Khanh,hokhanh@hotmail.com,+84994300791,"68 Le Loi, Phuong 10, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0465,Cong ty TNHH Smart Xuan,congtytnhhsmartxuan509@proton.me,+84566510180,"445 Vo Van Tan, Phuong 11, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0466,Thuong mai Future Solutions,thuongmaifuturesolutions@zoho.com,+84368520859,"442 Nguyen Thi Minh Khai, Phuong 13, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0467,Ly Bao Xuan,lybaoxuan494@gmail.com,+84720639995,"924 Nguyen Van Cu, Phuong 14, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0468,Nguyen Quoc Minh,nguyenquocminh358@hotmail.com,+84340415849,"17 Tran Hung Dao, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0469,Huynh Minh Xuan,huynhminhxuan449@hotmail.com,+84813438110,"414 Dinh Tien Hoang, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0470,Vu Linh,vulinh@gmail.com,+84546177377,"855 Dinh Tien Hoang, Phuong 7, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0471,Doanh nghiep Solutions Khanh,doanhnghiepsolutionskhanh700@zoho.com,+84308450420,"449 Nguyen Hue, Phuong Ben Nghe, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0472,Hoang Linh,hoanglinh840@proton.me,+84817875195,"659 Tran Hung Dao, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0473,Pham Quan,phamquan@gmail.com,+84983579240,"447 Nguyen Van Cu, Phuong 10, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0474,Huynh Khanh,huynhkhanh@hotmail.com,+84300724911,"981 Nguyen Thi Minh Khai, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0475,Nguyen Thi Giang,nguyenthigiang829@hotmail.com,+84775622501,"654 Pasteur, Phuong 5, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0476,Nha phan phoi Group Quan,nhaphanphoigroupquan559@gmail.com,+84537927015,"268 Vo Van Tan, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0477,Giai phap Media Uyen,giaiphapmediauyen@outlook.com,+84571292909,"204 Dinh Tien Hoang, Phuong 14, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0478,Doanh nghiep Pro Xuan,doanhnghiepproxuan@outlook.com,+84842112687,"476 Vo Van Tan, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0479,Ho Thi Ha,hothiha243@yahoo.com,+84701892762,"853 Nguyen Hue, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0480,Bui Nam,buinam@gmail.com,+84521829603,"758 Pham Ngoc Thach, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0481,Duong Yen,duongyen@gmail.com,+84892662432,"654 Dinh Tien Hoang, Phuong 7, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0482,Shop Solutions Uyen,shopsolutionsuyen@gmail.com,+84818147601,"191 Dinh Tien Hoang, Phuong Ben Nghe, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0483,Pham Ngoc Phuc,phamngocphuc@gmail.com,+84378630876,"54 Tran Hung Dao, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0484,Dich vu Tech Tech,dichvutechtech@gmail.com,+84780178834,"259 Nguyen Van Cu, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0485,Duong Hong Minh,duonghongminh@gmail.com,+84819041628,"403 Le Loi, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0486,Hoang Thanh Nam,hoangthanhnam946@gmail.com,+84986155616,"318 Pasteur, Phuong 10, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0487,Vu Lan Linh,vulanlinh@proton.me,+84989711479,"844 Le Loi, Phuong 5, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0488,Doanh nghiep Media Ha,doanhnghiepmediaha394@yahoo.com,+84734647386,"261 Dinh Tien Hoang, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0489,Dang Thanh Phuc,dangthanhphuc@gmail.com,+84857820328,"381 Vo Van Tan, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0490,Huynh Bao Giang,huynhbaogiang@hotmail.com,+84599280197,"396 Nguyen Van Cu, Phuong 13, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0491,Bui Bao Ha,buibaoha144@gmail.com,+84920847415,"981 Pham Ngoc Thach, Phuong 14, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0492,Do Huu Dung,dohuudung657@yahoo.com,+84961134947,"274 Pasteur, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0493,Le Thi Van,lethivan@outlook.com,+84374038960,"719 Nguyen Thi Minh Khai, Phuong 14, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0494,Phan Thi Oanh,phanthioanh@proton.me,+84710680250,"621 Nguyen Van Cu, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0495,Cong ty TNHH Group Chi,congtytnhhgroupchi@gmail.com,+84509400397,"991 Dinh Tien Hoang, Phuong 15, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0496,Huynh Dung,huynhdung@hotmail.com,+84518153582,"165 Nguyen Thi Minh Khai, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0497,Pham Giang,phamgiang986@proton.me,+84557693733,"886 Dinh Tien Hoang, Phuong 1, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0498,Dich vu Media Asia,dichvumediaasia@zoho.com,+84800738784,"475 Cach Mang Thang Tam, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0499,Huynh Thi Ha,huynhthiha@proton.me,+84799749994,"382 Pham Ngoc Thach, Phuong 13, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0500,Doanh nghiep Pro Linh,doanhnghiepprolinh@zoho.com,+84736528666,"768 Nguyen Hue, Phuong 15, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0501,Phan Anh Chi,phananhchi473@yahoo.com,+84934581119,"416 Dinh Tien Hoang, Phuong 8, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0502,Bui Duc Uyen,buiducuyen39@gmail.com,+84514630639,"380 Dinh Tien Hoang, Phuong 14, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0503,Giai phap VN Binh,giaiphapvnbinh145@proton.me,+84920844281,"65 Le Loi, Phuong 13, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0504,Pham Anh Uyen,phamanhuyen@outlook.com,+84394958581,"750 Pasteur, Phuong Ben Nghe, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0505,Shop Tech Asia,shoptechasia@outlook.com,+84881945048,"138 Nguyen Thi Minh Khai, Phuong Ben Nghe, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0506,Nha phan phoi Smart Future,nhaphanphoismartfuture356@zoho.com,+84399508085,"898 Le Loi, Phuong 14, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0507,Duong Hong Nam,duonghongnam@gmail.com,+84841553864,"300 Pasteur, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0508,Do Lan Quan,dolanquan@gmail.com,+84590450242,"475 Vo Van Tan, Phuong 13, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0509,Tran Thi Thao,tranthithao@outlook.com,+84803228287,"434 Nguyen Hue, Phuong 1, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0510,Ngo Bao Van,ngobaovan@proton.me,+84715453630,"964 Pasteur, Phuong 13, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0511,Ho Lan Nam,holannam236@zoho.com,+84971153798,"172 Cach Mang Thang Tam, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0512,Do Giang,dogiang@gmail.com,+84590371463,"255 Nguyen Hue, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0513,Ngo Phuc,ngophuc@hotmail.com,+84701098191,"155 Pham Ngoc Thach, Phuong 10, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0514,Huynh Hung,huynhhung814@outlook.com,+84944624864,"174 Tran Hung Dao, Phuong 10, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0515,Dich vu Star Solutions,dichvustarsolutions@gmail.com,+84746517910,"33 Vo Van Tan, Phuong 15, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0516,Ly Quoc Giang,lyquocgiang708@yahoo.com,+84324935274,"534 Dinh Tien Hoang, Phuong 8, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0517,Trung tam Smart Smart,trungtamsmartsmart@zoho.com,+84537948478,"647 Le Loi, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0518,Huynh Chi,huynhchi34@outlook.com,+84524689531,"838 Cach Mang Thang Tam, Phuong 13, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0519,Do Minh Nam,dominhnam704@gmail.com,+84972532022,"232 Le Loi, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0520,Cong ty Co phan Asia Oanh,congtycophanasiaoanh@proton.me,+84781040214,"625 Cach Mang Thang Tam, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0521,Nguyen Bao Yen,nguyenbaoyen@gmail.com,+84719055304,"859 Dinh Tien Hoang, Phuong 10, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0522,Tran Quoc Uyen,tranquocuyen305@zoho.com,+84846989128,"152 Le Loi, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0523,Ho Oanh,hooanh@zoho.com,+84927190368,"286 Tran Hung Dao, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0524,Duong Thanh Quan,duongthanhquan@proton.me,+84952442740,"794 Pham Ngoc Thach, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0525,Nha phan phoi Inno VN,nhaphanphoiinnovn@gmail.com,+84926434387,"536 Cach Mang Thang Tam, Phuong 10, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0526,Cong ty Co phan Elite Global,congtycophaneliteglobal@yahoo.com,+84898571213,"900 Pasteur, Phuong 5, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0527,Tran Lan Thao,tranlanthao487@yahoo.com,+84542904155,"64 Nguyen Thi Minh Khai, Phuong 10, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0528,Giai phap Group Dung,giaiphapgroupdung@yahoo.com,+84526510211,"926 Nguyen Van Cu, Phuong Ben Nghe, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0529,Hoang Thanh Phuc,hoangthanhphuc225@outlook.com,+84741267201,"939 Pasteur, Phuong 14, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0530,Doanh nghiep Digital VN,doanhnghiepdigitalvn921@yahoo.com,+84810431206,"883 Nguyen Van Cu, Phuong Ben Nghe, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0531,Vu Uyen,vuuyen17@gmail.com,+84562257708,"353 Nguyen Thi Minh Khai, Phuong 14, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0532,Vu Thi An,vuthian341@hotmail.com,+84578951670,"430 Nguyen Hue, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0533,Ho Anh Oanh,hoanhoanh@yahoo.com,+84393126599,"907 Vo Van Tan, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0534,Huynh Anh Linh,huynhanhlinh593@hotmail.com,+84578175731,"18 Nguyen Thi Minh Khai, Phuong 7, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0535,Hoang Ngoc Ha,hoangngocha@hotmail.com,+84970025034,"686 Nguyen Van Cu, Phuong 1, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0536,Thuong mai Future Asia,thuongmaifutureasia@gmail.com,+84391502438,"662 Dinh Tien Hoang, Phuong 13, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0537,Hoang Minh,hoangminh@yahoo.com,+84781724132,"959 Nguyen Thi Minh Khai, Phuong 15, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0538,Giai phap Media Global,giaiphapmediaglobal@zoho.com,+84756334949,"37 Dinh Tien Hoang, Phuong 5, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0539,Pham Quoc Giang,phamquocgiang@zoho.com,+84580816475,"869 Nguyen Van Cu, Phuong 5, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0540,Cong ty Co phan Digital Smart,congtycophandigitalsmart@hotmail.com,+84781557755,"517 Tran Hung Dao, Phuong 8, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0541,Ly Thi Hung,lythihung156@gmail.com,+84585210539,"317 Dinh Tien Hoang, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0542,Thuong mai VN Quan,thuongmaivnquan@proton.me,+84810172562,"501 Pham Ngoc Thach, Phuong 10, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0543,Do Anh Dung,doanhdung@outlook.com,+84812135066,"465 Nguyen Van Cu, Phuong 11, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0544,Trung tam Tech Future,trungtamtechfuture@hotmail.com,+84529551165,"480 Tran Hung Dao, Phuong 10, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0545,Duong Anh Uyen,duonganhuyen@zoho.com,+84575626555,"859 Dinh Tien Hoang, Phuong 5, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0546,Nha phan phoi Media Smart,nhaphanphoimediasmart@outlook.com,+84832797187,"403 Dinh Tien Hoang, Phuong 5, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0547,Duong Thao,duongthao@hotmail.com,+84993639512,"458 Pham Ngoc Thach, Phuong 8, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0548,Dang Hung,danghung@gmail.com,+84928834501,"757 Vo Van Tan, Phuong 14, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0549,Vu Quoc Xuan,vuquocxuan@yahoo.com,+84843007212,"625 Vo Van Tan, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0550,Trung tam Smart Khanh,trungtamsmartkhanh@gmail.com,+84390589530,"724 Le Loi, Phuong Ben Nghe, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0551,Cong ty TNHH Tech Hung,congtytnhhtechhung342@outlook.com,+84915796820,"980 Pasteur, Phuong Ben Nghe, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0552,Phan Thanh Chi,phanthanhchi@zoho.com,+84320056438,"243 Nguyen Van Cu, Phuong 1, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0553,Thuong mai Asia Minh,thuongmaiasiaminh@proton.me,+84950764414,"928 Pasteur, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0554,Nguyen Thi Yen,nguyenthiyen765@gmail.com,+84559078011,"54 Cach Mang Thang Tam, Phuong 11, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0555,Hoang Anh Uyen,hoanganhuyen78@proton.me,+84925473927,"974 Cach Mang Thang Tam, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0556,Ly Duc Xuan,lyducxuan354@zoho.com,+84876221927,"225 Le Loi, Phuong 11, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0557,Vu Thi Dung,vuthidung@gmail.com,+84925390830,"401 Dinh Tien Hoang, Phuong 14, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0558,Do Van Minh,dovanminh@gmail.com,+84799738272,"38 Cach Mang Thang Tam, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0559,Cong ty TNHH Net Smart,congtytnhhnetsmart738@zoho.com,+84789455513,"773 Nguyen Hue, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0560,Trung tam Media An,trungtammediaan584@zoho.com,+84802226703,"686 Cach Mang Thang Tam, Phuong 10, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0561,Nguyen Quoc Uyen,nguyenquocuyen@proton.me,+84345085942,"815 Pham Ngoc Thach, Phuong 10, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0562,Doanh nghiep Star Group,doanhnghiepstargroup39@yahoo.com,+84368507072,"273 Nguyen Van Cu, Phuong 11, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0563,Shop Media VN,shopmediavn@zoho.com,+84502586042,"35 Cach Mang Thang Tam, Phuong Ben Nghe, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0564,Do Huu An,dohuuan297@yahoo.com,+84390685755,"362 Nguyen Hue, Phuong 13, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,10
+CUID_0565,Giai phap Net Digital,giaiphapnetdigital@gmail.com,+84359675187,"631 Nguyen Thi Minh Khai, Phuong 15, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0566,Duong Lan Khanh,duonglankhanh786@hotmail.com,+84723964940,"583 Vo Van Tan, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0567,Cong nghe Net Oanh,congnghenetoanh@yahoo.com,+84392966673,"130 Le Loi, Phuong 13, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0568,Vu Thi Hung,vuthihung@yahoo.com,+84914774188,"34 Tran Hung Dao, Phuong 5, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0569,Phan Oanh,phanoanh@yahoo.com,+84522383617,"85 Cach Mang Thang Tam, Phuong 14, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0570,Giai phap VN Uyen,giaiphapvnuyen187@proton.me,+84599085363,"459 Tran Hung Dao, Phuong 15, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0571,Nha phan phoi VN Van,nhaphanphoivnvan530@hotmail.com,+84558433118,"762 Nguyen Hue, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0572,Shop Media Khanh,shopmediakhanh294@hotmail.com,+84742192612,"295 Tran Hung Dao, Phuong 5, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0573,Le Lan Binh,lelanbinh@zoho.com,+84308029575,"860 Nguyen Thi Minh Khai, Phuong 10, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0574,Cong ty Co phan Pro Phuc,congtycophanprophuc885@outlook.com,+84397130773,"529 Cach Mang Thang Tam, Phuong 10, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0575,Ngo Duc Nam,ngoducnam@gmail.com,+84538680601,"395 Nguyen Hue, Phuong 8, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0576,Le Minh,leminh896@yahoo.com,+84998700521,"438 Pham Ngoc Thach, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0577,Huynh Ngoc Ha,huynhngocha@hotmail.com,+84764655229,"928 Pham Ngoc Thach, Phuong 13, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0578,Cong ty Co phan Solutions Thao,congtycophansolutionsthao@hotmail.com,+84767748442,"307 Pham Ngoc Thach, Phuong 15, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0579,Cong ty TNHH Global Ha,congtytnhhglobalha@hotmail.com,+84834392738,"325 Nguyen Thi Minh Khai, Phuong 13, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0580,Pham Dung,phamdung@zoho.com,+84360780797,"576 Le Loi, Phuong 1, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0581,Le Phuc,lephuc820@proton.me,+84393279009,"114 Vo Van Tan, Phuong 13, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0582,Nguyen Thi Khanh,nguyenthikhanh126@gmail.com,+84861720077,"435 Nguyen Van Cu, Phuong 1, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0583,Ho Anh Hung,hoanhhung@zoho.com,+84747340953,"449 Le Loi, Phuong 8, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0584,Ly Van,lyvan508@yahoo.com,+84897745074,"498 Pasteur, Phuong 5, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0585,Cong ty Co phan Media Future,congtycophanmediafuture@yahoo.com,+84850485870,"515 Pham Ngoc Thach, Phuong 13, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0586,Cong ty TNHH Digital Oanh,congtytnhhdigitaloanh214@gmail.com,+84575363758,"760 Le Loi, Phuong 5, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0587,Ngo Hong Dung,ngohongdung890@yahoo.com,+84904184753,"313 Le Loi, Phuong 13, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0588,Trung tam Global Ha,trungtamglobalha@zoho.com,+84561526752,"483 Nguyen Hue, Phuong 11, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0589,Cong nghe Tech Ha,congnghetechha481@outlook.com,+84990710406,"618 Tran Hung Dao, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0590,Shop Future Tech,shopfuturetech840@yahoo.com,+84853642560,"166 Le Loi, Phuong 8, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0591,Le Yen,leyen@proton.me,+84758697692,"12 Nguyen Hue, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0592,Doanh nghiep Solutions Uyen,doanhnghiepsolutionsuyen917@gmail.com,+84918443723,"802 Dinh Tien Hoang, Phuong 14, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0593,Dang Thanh Hung,dangthanhhung@yahoo.com,+84778547654,"366 Tran Hung Dao, Phuong 1, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0594,Shop Inno Phuc,shopinnophuc@yahoo.com,+84331704503,"106 Cach Mang Thang Tam, Phuong 10, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0595,Cong ty TNHH Future Chi,congtytnhhfuturechi@proton.me,+84997205074,"632 Nguyen Thi Minh Khai, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0596,Thuong mai Net Smart,thuongmainetsmart627@gmail.com,+84371808147,"331 Le Loi, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0597,Bui Nam,buinam@proton.me,+84781973064,"693 Nguyen Van Cu, Phuong 5, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0598,Ho Minh Thao,hominhthao203@gmail.com,+84546893514,"866 Le Loi, Phuong Ben Nghe, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0599,Doanh nghiep Inno Digital,doanhnghiepinnodigital641@yahoo.com,+84977230728,"667 Nguyen Hue, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0600,Doanh nghiep VN Global,doanhnghiepvnglobal231@zoho.com,+84321924033,"800 Vo Van Tan, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0601,Giai phap Solutions Star,giaiphapsolutionsstar@proton.me,+84726587072,"488 Pham Ngoc Thach, Phuong 1, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0602,Cong nghe Solutions Thao,congnghesolutionsthao577@zoho.com,+84869313914,"354 Le Loi, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0603,Le Thao,lethao@zoho.com,+84567427644,"51 Nguyen Hue, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0604,Dich vu Smart Media,dichvusmartmedia@yahoo.com,+84789919713,"992 Nguyen Van Cu, Phuong 5, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0605,Huynh Minh Thao,huynhminhthao@gmail.com,+84383022026,"875 Cach Mang Thang Tam, Phuong 1, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0606,Dang Duc Hung,dangduchung@outlook.com,+84877017178,"849 Dinh Tien Hoang, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0607,Do Yen,doyen623@gmail.com,+84373386796,"151 Nguyen Thi Minh Khai, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0608,Huynh Minh Quan,huynhminhquan396@yahoo.com,+84809416840,"712 Le Loi, Phuong 13, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0609,Dang Thi An,dangthian@outlook.com,+84840471895,"809 Nguyen Thi Minh Khai, Phuong 11, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0610,Le Xuan,lexuan@outlook.com,+84913951874,"59 Nguyen Thi Minh Khai, Phuong 10, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0611,Huynh Thanh Oanh,huynhthanhoanh@hotmail.com,+84770224420,"124 Cach Mang Thang Tam, Phuong 1, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0612,Tran Minh Giang,tranminhgiang@proton.me,+84734699985,"51 Le Loi, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0613,Cong ty Co phan Smart Xuan,congtycophansmartxuan949@proton.me,+84740926884,"129 Nguyen Hue, Phuong Ben Nghe, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0614,Thuong mai Star An,thuongmaistaran@proton.me,+84752926150,"418 Tran Hung Dao, Phuong 10, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0615,Ngo Minh Linh,ngominhlinh@hotmail.com,+84702726764,"440 Pasteur, Phuong 11, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0616,Cong ty TNHH Digital Hung,congtytnhhdigitalhung455@hotmail.com,+84347266208,"90 Nguyen Thi Minh Khai, Phuong 15, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0617,Thuong mai Digital Giang,thuongmaidigitalgiang@hotmail.com,+84860613490,"300 Vo Van Tan, Phuong 14, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0618,Phan Bao Dung,phanbaodung216@gmail.com,+84951177447,"438 Pasteur, Phuong 10, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0619,Shop Global Nam,shopglobalnam@yahoo.com,+84872918408,"791 Nguyen Thi Minh Khai, Phuong 7, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0620,Giai phap Smart Net,giaiphapsmartnet229@proton.me,+84365054061,"650 Nguyen Thi Minh Khai, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0621,Giai phap Global Xuan,giaiphapglobalxuan@yahoo.com,+84347247110,"41 Nguyen Hue, Phuong Ben Nghe, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0622,Cong nghe Group Inno,congnghegroupinno@outlook.com,+84988892707,"708 Dinh Tien Hoang, Phuong 15, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0623,Phan Xuan,phanxuan@gmail.com,+84565047238,"797 Nguyen Van Cu, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0624,Do Thi Dung,dothidung268@gmail.com,+84571143972,"109 Cach Mang Thang Tam, Phuong 5, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0625,Pham Nam,phamnam@hotmail.com,+84776557122,"389 Pasteur, Phuong 11, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0626,Dich vu Future Giang,dichvufuturegiang@outlook.com,+84718168228,"607 Pham Ngoc Thach, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0627,Dang Van,dangvan@outlook.com,+84396555396,"901 Vo Van Tan, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0628,Do Nam,donam229@yahoo.com,+84327763499,"870 Vo Van Tan, Phuong 8, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0629,Do Quoc Van,doquocvan984@gmail.com,+84585074527,"197 Nguyen Hue, Phuong 8, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0630,Trung tam Global Chi,trungtamglobalchi@gmail.com,+84991322740,"912 Nguyen Van Cu, Phuong 11, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0631,Tran Thi Xuan,tranthixuan498@zoho.com,+84755818718,"639 Nguyen Thi Minh Khai, Phuong 1, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0632,Cong nghe Future Inno,congnghefutureinno@hotmail.com,+84526253656,"124 Tran Hung Dao, Phuong 14, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0633,Cong nghe Pro Future,congngheprofuture442@yahoo.com,+84708368112,"324 Vo Van Tan, Phuong 10, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0634,Do Thanh Hung,dothanhhung@zoho.com,+84717786199,"679 Pasteur, Phuong 13, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0635,Ly Minh,lyminh341@hotmail.com,+84783357090,"428 Cach Mang Thang Tam, Phuong 7, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0636,Ho Ngoc Linh,hongoclinh@hotmail.com,+84937351258,"119 Le Loi, Phuong 8, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0637,Ho Van Phuc,hovanphuc@proton.me,+84829500354,"301 Le Loi, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0638,Ngo Giang,ngogiang@yahoo.com,+84510257252,"32 Tran Hung Dao, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0639,Ngo Lan Hung,ngolanhung233@yahoo.com,+84831926916,"447 Dinh Tien Hoang, Phuong 14, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0640,Dang Thanh Quan,dangthanhquan@gmail.com,+84774567597,"554 Tran Hung Dao, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0641,Do Chi,dochi@proton.me,+84748913154,"809 Dinh Tien Hoang, Phuong 1, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0642,Duong Van Khanh,duongvankhanh@hotmail.com,+84785756289,"924 Pasteur, Phuong 7, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0643,Le Hong Binh,lehongbinh@yahoo.com,+84933223429,"232 Cach Mang Thang Tam, Phuong 1, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0644,Cong ty Co phan Star Minh,congtycophanstarminh@gmail.com,+84334323801,"945 Pasteur, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0645,Vu Oanh,vuoanh@proton.me,+84819732140,"832 Dinh Tien Hoang, Phuong 13, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0646,Cong ty Co phan Smart Giang,congtycophansmartgiang@yahoo.com,+84968809780,"877 Nguyen Hue, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0647,Le Thi Binh,lethibinh@gmail.com,+84386341199,"769 Tran Hung Dao, Phuong 11, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0648,Pham Ngoc Oanh,phamngocoanh@hotmail.com,+84973808903,"622 Vo Van Tan, Phuong 7, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0649,Pham Thi Dung,phamthidung@outlook.com,+84885166349,"141 Cach Mang Thang Tam, Phuong 15, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0650,Cong ty Co phan Pro Van,congtycophanprovan@proton.me,+84512192004,"918 Pasteur, Phuong 5, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0651,Do Duc Thao,doducthao@proton.me,+84558714659,"45 Dinh Tien Hoang, Phuong 1, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0652,Do Thi Khanh,dothikhanh11@yahoo.com,+84548189494,"279 Vo Van Tan, Phuong 14, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0653,Thuong mai Elite Hung,thuongmaielitehung@hotmail.com,+84328456635,"74 Cach Mang Thang Tam, Phuong 13, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0654,Pham Dung,phamdung@gmail.com,+84713459991,"849 Vo Van Tan, Phuong 8, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0655,Nguyen Duc Oanh,nguyenducoanh@zoho.com,+84355055691,"172 Le Loi, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0656,Doanh nghiep Global Phuc,doanhnghiepglobalphuc982@yahoo.com,+84829984190,"267 Vo Van Tan, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0657,Cong ty Co phan Tech Oanh,congtycophantechoanh842@yahoo.com,+84378927631,"864 Cach Mang Thang Tam, Phuong 5, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0658,Ly Duc Yen,lyducyen454@proton.me,+84367013164,"686 Nguyen Thi Minh Khai, Phuong 10, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0659,Doanh nghiep Media Hung,doanhnghiepmediahung@hotmail.com,+84938145867,"786 Pham Ngoc Thach, Phuong 8, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0660,Dich vu Asia Linh,dichvuasialinh@yahoo.com,+84889468272,"267 Vo Van Tan, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0661,Huynh Thi Uyen,huynhthiuyen@yahoo.com,+84356177583,"541 Dinh Tien Hoang, Phuong 1, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0662,Cong ty Co phan Asia Smart,congtycophanasiasmart@gmail.com,+84336943737,"882 Nguyen Thi Minh Khai, Phuong Ben Nghe, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0663,Ngo Thi Quan,ngothiquan@proton.me,+84350909878,"269 Cach Mang Thang Tam, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0664,Vu Nam,vunam@outlook.com,+84771586777,"186 Nguyen Thi Minh Khai, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0665,Ngo Khanh,ngokhanh@hotmail.com,+84990466728,"507 Cach Mang Thang Tam, Phuong 11, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0666,Doanh nghiep Digital Media,doanhnghiepdigitalmedia317@gmail.com,+84575753610,"622 Dinh Tien Hoang, Phuong 10, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0667,Phan Anh Dung,phananhdung@proton.me,+84769328219,"36 Nguyen Thi Minh Khai, Phuong 8, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,30
+CUID_0668,Do Giang,dogiang987@gmail.com,+84984459115,"419 Pasteur, Phuong 13, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0669,Trung tam Smart Linh,trungtamsmartlinh@hotmail.com,+84333918925,"141 Le Loi, Phuong 15, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0670,Duong Duc Oanh,duongducoanh@proton.me,+84582284450,"185 Nguyen Van Cu, Phuong 15, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0671,Huynh Duc Giang,huynhducgiang@gmail.com,+84992280547,"146 Dinh Tien Hoang, Phuong 8, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0672,Trung tam Digital Elite,trungtamdigitalelite@zoho.com,+84591563067,"376 Pasteur, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0673,Ho Thanh Khanh,hothanhkhanh@zoho.com,+84380973047,"711 Dinh Tien Hoang, Phuong 13, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0674,Huynh Huu Oanh,huynhhuuoanh@yahoo.com,+84741429637,"546 Pham Ngoc Thach, Phuong 1, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0675,Do Minh An,dominhan334@zoho.com,+84838530164,"558 Nguyen Hue, Phuong 11, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0676,Dich vu Digital Inno,dichvudigitalinno@outlook.com,+84358469871,"966 Pham Ngoc Thach, Phuong 10, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0677,Dang Thi Uyen,dangthiuyen@yahoo.com,+84599953415,"356 Nguyen Hue, Phuong 11, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0678,Nha phan phoi Net Nam,nhaphanphoinetnam938@gmail.com,+84889780563,"549 Pasteur, Phuong Ben Nghe, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0679,Nha phan phoi VN Ha,nhaphanphoivnha@yahoo.com,+84326434434,"408 Pham Ngoc Thach, Phuong 14, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0680,Thuong mai Star Solutions,thuongmaistarsolutions@yahoo.com,+84787513009,"404 Nguyen Hue, Phuong 11, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0681,Giai phap Inno Xuan,giaiphapinnoxuan@zoho.com,+84536909870,"218 Nguyen Thi Minh Khai, Phuong 8, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0682,Ly Lan Dung,lylandung246@hotmail.com,+84799838012,"694 Pham Ngoc Thach, Phuong 13, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0683,Trung tam Group Chi,trungtamgroupchi@outlook.com,+84883817206,"52 Nguyen Thi Minh Khai, Phuong 7, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0684,Le Uyen,leuyen335@gmail.com,+84392693525,"121 Le Loi, Phuong 13, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0685,Vu Hong Binh,vuhongbinh@outlook.com,+84928178264,"156 Nguyen Thi Minh Khai, Phuong Ben Nghe, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0686,Pham Nam,phamnam@gmail.com,+84339932631,"308 Vo Van Tan, Phuong 5, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0687,Do An,doan251@outlook.com,+84555190645,"643 Tran Hung Dao, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0688,Nha phan phoi Tech Minh,nhaphanphoitechminh@gmail.com,+84871265069,"969 Pasteur, Phuong 13, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0689,Ly Uyen,lyuyen651@zoho.com,+84848482279,"407 Pham Ngoc Thach, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0690,Hoang Thi Quan,hoangthiquan@proton.me,+84391624844,"985 Dinh Tien Hoang, Phuong 14, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0691,Doanh nghiep Inno Yen,doanhnghiepinnoyen729@yahoo.com,+84359773487,"393 Pham Ngoc Thach, Phuong 8, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0692,Do Lan Quan,dolanquan345@gmail.com,+84586949025,"186 Pham Ngoc Thach, Phuong Ben Nghe, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0693,Ngo Anh Nam,ngoanhnam756@outlook.com,+84374675600,"76 Le Loi, Phuong 1, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0694,Shop Star Digital,shopstardigital@hotmail.com,+84721283958,"496 Cach Mang Thang Tam, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0695,Doanh nghiep Elite Asia,doanhnghiepeliteasia@yahoo.com,+84594566282,"126 Tran Hung Dao, Phuong 14, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0696,Phan Thi Ha,phanthiha@gmail.com,+84795189958,"97 Cach Mang Thang Tam, Phuong 5, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0697,Phan Dung,phandung649@proton.me,+84727739465,"183 Cach Mang Thang Tam, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0698,Cong ty TNHH Pro Ha,congtytnhhproha244@yahoo.com,+84729329663,"42 Tran Hung Dao, Phuong Ben Nghe, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0699,Phan Thi Phuc,phanthiphuc688@outlook.com,+84763887439,"746 Pham Ngoc Thach, Phuong 15, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0700,Ly Ngoc Chi,lyngocchi@proton.me,+84580172105,"252 Le Loi, Phuong 5, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0701,Shop Star VN,shopstarvn@yahoo.com,+84863660199,"200 Le Loi, Phuong 5, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0702,Nha phan phoi Tech Digital,nhaphanphoitechdigital542@outlook.com,+84341961268,"72 Nguyen Thi Minh Khai, Phuong 7, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0703,Pham Lan Xuan,phamlanxuan@zoho.com,+84970139165,"625 Dinh Tien Hoang, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0704,Huynh Van,huynhvan@gmail.com,+84721049074,"700 Nguyen Thi Minh Khai, Phuong 1, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0705,Shop Inno VN,shopinnovn859@zoho.com,+84747447391,"611 Tran Hung Dao, Phuong 1, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0706,Shop Elite Nam,shopelitenam@outlook.com,+84841740139,"657 Tran Hung Dao, Phuong 13, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0707,Doanh nghiep Solutions Inno,doanhnghiepsolutionsinno400@yahoo.com,+84813033952,"508 Pasteur, Phuong 14, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0708,Cong nghe Future Group,congnghefuturegroup@hotmail.com,+84997615424,"989 Pham Ngoc Thach, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0709,Giai phap Asia Pro,giaiphapasiapro288@zoho.com,+84778839044,"224 Cach Mang Thang Tam, Phuong 8, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0710,Cong nghe Net Chi,congnghenetchi812@zoho.com,+84769975976,"842 Nguyen Hue, Phuong 14, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0711,Dang Phuc,dangphuc@yahoo.com,+84954997031,"798 Pham Ngoc Thach, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0712,Pham Van Nam,phamvannam@hotmail.com,+84857943828,"202 Pasteur, Phuong Ben Nghe, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0713,Ly Thi Van,lythivan385@hotmail.com,+84878222064,"387 Nguyen Thi Minh Khai, Phuong 7, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0714,Bui Quoc Dung,buiquocdung@hotmail.com,+84374119185,"387 Tran Hung Dao, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0715,Shop Smart Inno,shopsmartinno@hotmail.com,+84963705774,"959 Le Loi, Phuong 7, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0716,Ho Thi Oanh,hothioanh422@hotmail.com,+84774556318,"843 Nguyen Hue, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0717,Trung tam Group An,trungtamgroupan@gmail.com,+84506640799,"150 Vo Van Tan, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0718,Giai phap Tech Xuan,giaiphaptechxuan@hotmail.com,+84850525075,"386 Vo Van Tan, Phuong 7, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0719,Ly Thanh Minh,lythanhminh@hotmail.com,+84538721836,"472 Nguyen Van Cu, Phuong 14, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0720,Giai phap Group Inno,giaiphapgroupinno823@gmail.com,+84978257868,"847 Pham Ngoc Thach, Phuong 11, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0721,Dich vu Elite Binh,dichvuelitebinh@yahoo.com,+84708829339,"626 Tran Hung Dao, Phuong 14, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0722,Do Khanh,dokhanh@gmail.com,+84986899335,"173 Le Loi, Phuong 1, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0723,Phan Oanh,phanoanh669@gmail.com,+84920114999,"133 Nguyen Van Cu, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0724,Pham Lan Yen,phamlanyen@proton.me,+84705062330,"452 Nguyen Thi Minh Khai, Phuong 13, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0725,Nguyen Thi Linh,nguyenthilinh490@proton.me,+84380282406,"904 Pasteur, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0726,Pham Binh,phambinh612@hotmail.com,+84744163517,"365 Dinh Tien Hoang, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0727,Huynh Giang,huynhgiang@proton.me,+84864902196,"471 Vo Van Tan, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0728,Doanh nghiep Asia Hung,doanhnghiepasiahung@zoho.com,+84385978388,"523 Vo Van Tan, Phuong 1, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0729,Ly Minh Khanh,lyminhkhanh@proton.me,+84743839582,"369 Dinh Tien Hoang, Phuong 5, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0730,Duong Thi Hung,duongthihung812@proton.me,+84574963732,"663 Le Loi, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0731,Pham Thi Chi,phamthichi973@gmail.com,+84943463324,"613 Nguyen Thi Minh Khai, Phuong Ben Nghe, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0732,Nguyen Quoc An,nguyenquocan@hotmail.com,+84877458969,"399 Nguyen Van Cu, Phuong 14, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0733,Tran Bao Dung,tranbaodung345@outlook.com,+84364357460,"710 Tran Hung Dao, Phuong Ben Nghe, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0734,Dang Huu Yen,danghuuyen@outlook.com,+84560564921,"307 Pasteur, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0735,Duong Thi Uyen,duongthiuyen794@yahoo.com,+84370136824,"727 Le Loi, Phuong 5, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0736,Dich vu Asia Media,dichvuasiamedia@outlook.com,+84805661425,"442 Le Loi, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0737,Shop Pro Nam,shoppronam@zoho.com,+84311564932,"78 Tran Hung Dao, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0738,Pham Minh Phuc,phamminhphuc522@gmail.com,+84916508198,"830 Nguyen Hue, Phuong 8, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0739,Le Ngoc Xuan,lengocxuan130@gmail.com,+84517490164,"650 Cach Mang Thang Tam, Phuong 8, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0740,Cong ty TNHH Star Ha,congtytnhhstarha687@outlook.com,+84736871678,"671 Tran Hung Dao, Phuong 8, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0741,Tran Van Quan,tranvanquan@gmail.com,+84370226938,"629 Cach Mang Thang Tam, Phuong 10, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0742,Duong Yen,duongyen@proton.me,+84557136956,"74 Pham Ngoc Thach, Phuong 10, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0743,Pham Lan Nam,phamlannam@yahoo.com,+84791362561,"637 Tran Hung Dao, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,40
+CUID_0744,Dang Thanh Thao,dangthanhthao@zoho.com,+84978627816,"518 Cach Mang Thang Tam, Phuong 8, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0745,Bui Quoc Giang,buiquocgiang@hotmail.com,+84713530824,"967 Vo Van Tan, Phuong Ben Nghe, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0746,Hoang Anh Uyen,hoanganhuyen447@zoho.com,+84831179001,"558 Pham Ngoc Thach, Phuong 7, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0747,Nha phan phoi Tech Group,nhaphanphoitechgroup639@gmail.com,+84722267932,"33 Vo Van Tan, Phuong Ben Nghe, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0748,Duong Hong An,duonghongan758@yahoo.com,+84592408241,"187 Nguyen Hue, Phuong 10, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0749,Giai phap Asia Minh,giaiphapasiaminh102@outlook.com,+84944188707,"220 Nguyen Thi Minh Khai, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0750,Dang Bao Thao,dangbaothao147@zoho.com,+84966372342,"307 Nguyen Hue, Phuong 13, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0751,Dich vu Group VN,dichvugroupvn@outlook.com,+84933347902,"244 Pham Ngoc Thach, Phuong 11, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0752,Duong Hong Van,duonghongvan@yahoo.com,+84837090600,"964 Pham Ngoc Thach, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0753,Trung tam Star Inno,trungtamstarinno@yahoo.com,+84352006799,"190 Pham Ngoc Thach, Phuong 15, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0754,Nha phan phoi Tech Net,nhaphanphoitechnet@zoho.com,+84972757531,"556 Tran Hung Dao, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0755,Hoang Van Van,hoangvanvan@zoho.com,+84810118852,"261 Nguyen Thi Minh Khai, Phuong 7, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0756,Bui Chi,buichi294@outlook.com,+84854757846,"542 Cach Mang Thang Tam, Phuong Ben Nghe, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0757,Trung tam Global Oanh,trungtamglobaloanh@yahoo.com,+84810098193,"316 Cach Mang Thang Tam, Phuong 1, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0758,Nha phan phoi Smart Asia,nhaphanphoismartasia@outlook.com,+84363202444,"486 Cach Mang Thang Tam, Phuong 8, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0759,Nha phan phoi Solutions Smart,nhaphanphoisolutionssmart358@hotmail.com,+84898802850,"899 Nguyen Thi Minh Khai, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0760,Dang Thi Giang,dangthigiang@proton.me,+84705634363,"344 Pham Ngoc Thach, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0761,Ly Thi Quan,lythiquan798@zoho.com,+84575099364,"749 Pham Ngoc Thach, Phuong 7, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0762,Bui Anh Khanh,buianhkhanh12@gmail.com,+84315481529,"10 Le Loi, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0763,Tran Lan Ha,tranlanha@proton.me,+84968373495,"571 Cach Mang Thang Tam, Phuong 11, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0764,Dich vu Global Chi,dichvuglobalchi@zoho.com,+84320435474,"984 Pasteur, Phuong 10, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0765,Pham Khanh,phamkhanh@yahoo.com,+84396543522,"648 Nguyen Thi Minh Khai, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0766,Phan Giang,phangiang@outlook.com,+84933349932,"450 Nguyen Hue, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0767,Le Thanh Phuc,lethanhphuc84@gmail.com,+84914897610,"492 Tran Hung Dao, Phuong 1, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0768,Shop Future Digital,shopfuturedigital317@gmail.com,+84709000978,"853 Nguyen Thi Minh Khai, Phuong 5, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0769,Thuong mai Media Dung,thuongmaimediadung620@yahoo.com,+84717542233,"176 Nguyen Thi Minh Khai, Phuong 14, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0770,Do Phuc,dophuc@outlook.com,+84378624700,"906 Le Loi, Phuong 7, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0771,Ho Thi Nam,hothinam244@proton.me,+84841695592,"494 Nguyen Van Cu, Phuong 11, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0772,Nguyen Bao Linh,nguyenbaolinh509@outlook.com,+84863731394,"332 Pasteur, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0773,Hoang Thi Nam,hoangthinam143@yahoo.com,+84354221003,"361 Pasteur, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0774,Duong Hung,duonghung696@yahoo.com,+84523559177,"50 Nguyen Thi Minh Khai, Phuong Ben Nghe, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0775,Cong nghe Tech Dung,congnghetechdung603@hotmail.com,+84948996235,"470 Pham Ngoc Thach, Phuong 10, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0776,Dich vu VN Nam,dichvuvnnam234@hotmail.com,+84928200085,"931 Vo Van Tan, Phuong 13, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0777,Trung tam Net Group,trungtamnetgroup@outlook.com,+84355789371,"681 Nguyen Hue, Phuong 1, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0778,Cong nghe Tech Smart,congnghetechsmart@yahoo.com,+84712214737,"305 Pham Ngoc Thach, Phuong 15, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0779,Le An,lean788@yahoo.com,+84791417741,"694 Pasteur, Phuong 10, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0780,Le Thanh Xuan,lethanhxuan@hotmail.com,+84587001185,"500 Cach Mang Thang Tam, Phuong 1, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0781,Giai phap Media Xuan,giaiphapmediaxuan194@outlook.com,+84567709269,"516 Vo Van Tan, Phuong 14, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0782,Ly Thi Hung,lythihung@gmail.com,+84999648980,"873 Le Loi, Phuong Ben Nghe, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0783,Le Hong Xuan,lehongxuan@proton.me,+84960833828,"66 Pham Ngoc Thach, Phuong 7, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0784,Trung tam Digital Oanh,trungtamdigitaloanh@gmail.com,+84703209378,"963 Vo Van Tan, Phuong Ben Nghe, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0785,Tran Nam,trannam@hotmail.com,+84355003779,"91 Vo Van Tan, Phuong Ben Nghe, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0786,Hoang Anh Binh,hoanganhbinh@hotmail.com,+84803710908,"53 Nguyen Thi Minh Khai, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0787,Bui Khanh,buikhanh189@gmail.com,+84571847178,"708 Vo Van Tan, Phuong 8, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0788,Hoang Duc Hung,hoangduchung@outlook.com,+84946382194,"602 Pham Ngoc Thach, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0789,Giai phap VN Van,giaiphapvnvan@gmail.com,+84857658592,"738 Nguyen Van Cu, Phuong 8, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0790,Giai phap Solutions Star,giaiphapsolutionsstar@hotmail.com,+84502164341,"673 Le Loi, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0791,Dang Thi Hung,dangthihung398@proton.me,+84716924200,"484 Tran Hung Dao, Phuong 1, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0792,Pham Lan Minh,phamlanminh181@yahoo.com,+84874704322,"894 Pham Ngoc Thach, Phuong 14, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0793,Vu An,vuan@yahoo.com,+84829591756,"288 Vo Van Tan, Phuong 10, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0794,Ly Lan Minh,lylanminh@hotmail.com,+84585996909,"345 Vo Van Tan, Phuong 13, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0795,Le Huu Quan,lehuuquan@hotmail.com,+84756695336,"921 Nguyen Hue, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0796,Ngo Quoc Uyen,ngoquocuyen@yahoo.com,+84500514045,"766 Le Loi, Phuong 5, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0797,Ho Quoc Dung,hoquocdung940@gmail.com,+84549688096,"105 Pham Ngoc Thach, Phuong Ben Nghe, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0798,Nha phan phoi Tech Uyen,nhaphanphoitechuyen171@proton.me,+84994978152,"599 Pham Ngoc Thach, Phuong 1, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0799,Cong nghe Global Future,congngheglobalfuture@gmail.com,+84502117712,"145 Pham Ngoc Thach, Phuong 14, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0800,Le Duc Hung,leduchung@hotmail.com,+84784681310,"189 Dinh Tien Hoang, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0801,Le Anh Khanh,leanhkhanh@proton.me,+84777859595,"347 Nguyen Thi Minh Khai, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0802,Vu Thanh Thao,vuthanhthao620@hotmail.com,+84397812740,"605 Le Loi, Phuong 7, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0803,Cong ty Co phan Global Uyen,congtycophanglobaluyen@outlook.com,+84578018720,"888 Pasteur, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0804,Huynh Thi Linh,huynhthilinh139@hotmail.com,+84304817601,"462 Le Loi, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0805,Cong nghe Solutions Chi,congnghesolutionschi783@hotmail.com,+84977687017,"662 Pasteur, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0806,Ngo Thi Xuan,ngothixuan806@proton.me,+84501331967,"277 Tran Hung Dao, Phuong 5, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0807,Dich vu Global Uyen,dichvuglobaluyen@hotmail.com,+84918260304,"36 Nguyen Van Cu, Phuong Ben Nghe, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0808,Pham Ngoc Nam,phamngocnam528@gmail.com,+84754521223,"687 Nguyen Van Cu, Phuong 11, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0809,Giai phap Inno Solutions,giaiphapinnosolutions@zoho.com,+84802485670,"649 Vo Van Tan, Phuong 7, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0810,Nguyen Phuc,nguyenphuc@hotmail.com,+84989727965,"495 Nguyen Thi Minh Khai, Phuong 8, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0811,Nha phan phoi Global VN,nhaphanphoiglobalvn158@outlook.com,+84914675663,"314 Tran Hung Dao, Phuong 1, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0812,Doanh nghiep Digital Yen,doanhnghiepdigitalyen317@outlook.com,+84708829337,"785 Pham Ngoc Thach, Phuong 1, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0813,Do Hong Ha,dohongha886@hotmail.com,+84964378595,"948 Nguyen Van Cu, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0814,Dang Bao Linh,dangbaolinh@hotmail.com,+84348060608,"254 Nguyen Hue, Phuong 8, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0815,Nha phan phoi Star Yen,nhaphanphoistaryen@hotmail.com,+84932110557,"816 Le Loi, Phuong 15, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0816,Bui Ngoc Hung,buingochung414@outlook.com,+84790400077,"518 Cach Mang Thang Tam, Phuong 13, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0817,Phan Van,phanvan189@gmail.com,+84389017115,"956 Nguyen Van Cu, Phuong 8, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0818,Cong nghe VN Dung,congnghevndung742@zoho.com,+84898636380,"628 Le Loi, Phuong 5, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0819,Tran Thanh Khanh,tranthanhkhanh@outlook.com,+84785741796,"527 Tran Hung Dao, Phuong 5, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0820,Phan Huu Binh,phanhuubinh@proton.me,+84715903072,"968 Dinh Tien Hoang, Phuong 13, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0821,Thuong mai Inno Smart,thuongmaiinnosmart@gmail.com,+84870019523,"915 Pasteur, Phuong 5, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0822,Cong ty Co phan Digital Star,congtycophandigitalstar@gmail.com,+84323045416,"506 Dinh Tien Hoang, Phuong 15, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0823,Trung tam VN Solutions,trungtamvnsolutions917@gmail.com,+84505412465,"925 Vo Van Tan, Phuong 7, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0824,Huynh Thi Binh,huynhthibinh@gmail.com,+84860859502,"597 Tran Hung Dao, Phuong 1, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0825,Le Thanh Yen,lethanhyen@zoho.com,+84875372566,"757 Nguyen Thi Minh Khai, Phuong 5, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0826,Huynh Ngoc Yen,huynhngocyen578@yahoo.com,+84927857898,"120 Tran Hung Dao, Phuong 8, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0827,Giai phap Smart Group,giaiphapsmartgroup@outlook.com,+84994317904,"777 Nguyen Hue, Phuong 10, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0828,Thuong mai Asia Elite,thuongmaiasiaelite@hotmail.com,+84596856508,"301 Nguyen Van Cu, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0829,Le Yen,leyen@zoho.com,+84958153642,"812 Vo Van Tan, Phuong 13, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0830,Tran Hung,tranhung@gmail.com,+84808878339,"133 Pham Ngoc Thach, Phuong 8, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0831,Bui Minh,buiminh920@zoho.com,+84988170656,"939 Dinh Tien Hoang, Phuong 5, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0832,Giai phap Global Net,giaiphapglobalnet197@gmail.com,+84539800562,"310 Pasteur, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0833,Le Van,levan@yahoo.com,+84866036284,"623 Pham Ngoc Thach, Phuong 13, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0834,Doanh nghiep Inno Nam,doanhnghiepinnonam@outlook.com,+84510774643,"58 Tran Hung Dao, Phuong Ben Nghe, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0835,Cong ty TNHH Smart Yen,congtytnhhsmartyen@proton.me,+84991401939,"217 Cach Mang Thang Tam, Phuong 13, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0836,Cong nghe Tech Star,congnghetechstar@yahoo.com,+84960172561,"517 Vo Van Tan, Phuong Ben Nghe, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0837,Vu Ngoc Xuan,vungocxuan606@hotmail.com,+84971508208,"451 Pham Ngoc Thach, Phuong 10, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0838,Hoang Phuc,hoangphuc@outlook.com,+84397459086,"909 Nguyen Thi Minh Khai, Phuong Ben Nghe, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0839,Pham Lan Quan,phamlanquan@yahoo.com,+84774762488,"562 Nguyen Hue, Phuong 5, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0840,Shop Smart Media,shopsmartmedia768@hotmail.com,+84890757469,"474 Nguyen Thi Minh Khai, Phuong 1, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0841,Ly Thi Giang,lythigiang2@gmail.com,+84850816319,"705 Cach Mang Thang Tam, Phuong 1, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0842,Tran Anh Yen,trananhyen@yahoo.com,+84569053345,"50 Vo Van Tan, Phuong Ben Nghe, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0843,Phan Hong Minh,phanhongminh@zoho.com,+84319879628,"453 Pasteur, Phuong 10, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0844,Trung tam Elite Hung,trungtamelitehung@proton.me,+84566245489,"721 Nguyen Thi Minh Khai, Phuong 5, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0845,Dang Anh Uyen,danganhuyen@yahoo.com,+84306279069,"516 Pasteur, Phuong 15, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0846,Bui Anh Van,buianhvan@outlook.com,+84381519063,"546 Nguyen Van Cu, Phuong 13, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0847,Shop Tech Chi,shoptechchi@gmail.com,+84773734061,"931 Vo Van Tan, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0848,Le Phuc,lephuc@outlook.com,+84318612967,"877 Pham Ngoc Thach, Phuong 13, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0849,Ly Dung,lydung@hotmail.com,+84706353949,"361 Dinh Tien Hoang, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0850,Nha phan phoi Star Elite,nhaphanphoistarelite@hotmail.com,+84718917306,"541 Pham Ngoc Thach, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0851,Cong nghe Net Dung,congnghenetdung198@hotmail.com,+84761655914,"505 Tran Hung Dao, Phuong 1, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0852,Dich vu Group Chi,dichvugroupchi372@gmail.com,+84330218221,"644 Nguyen Hue, Phuong 13, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0853,Cong ty Co phan Group Phuc,congtycophangroupphuc@outlook.com,+84906918827,"99 Nguyen Van Cu, Phuong 11, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0854,Cong ty Co phan Inno Yen,congtycophaninnoyen@outlook.com,+84571421858,"366 Dinh Tien Hoang, Phuong 7, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0855,Ly Quan,lyquan332@outlook.com,+84557442143,"355 Pham Ngoc Thach, Phuong 15, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0856,Huynh Nam,huynhnam@proton.me,+84711999843,"149 Nguyen Van Cu, Phuong 1, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0857,Do Ngoc Khanh,dongockhanh@gmail.com,+84368913323,"502 Nguyen Van Cu, Phuong 15, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0858,Ho Thi Minh,hothiminh532@hotmail.com,+84563671969,"443 Nguyen Thi Minh Khai, Phuong 14, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0859,Nguyen Bao Van,nguyenbaovan@proton.me,+84729028781,"146 Nguyen Hue, Phuong 5, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0860,Duong Ngoc Minh,duongngocminh386@zoho.com,+84985442535,"795 Nguyen Thi Minh Khai, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0861,Doanh nghiep Net Inno,doanhnghiepnetinno@hotmail.com,+84729521150,"155 Pasteur, Phuong 5, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0862,Cong nghe Smart An,congnghesmartan54@proton.me,+84587961424,"744 Nguyen Hue, Phuong Ben Nghe, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0863,Cong ty TNHH Digital Inno,congtytnhhdigitalinno978@yahoo.com,+84592411438,"87 Pham Ngoc Thach, Phuong 8, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0864,Le Quoc Khanh,lequockhanh@zoho.com,+84525344678,"234 Tran Hung Dao, Phuong 13, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0865,Huynh Huu Yen,huynhhuuyen@outlook.com,+84914884110,"66 Cach Mang Thang Tam, Phuong 8, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0866,Vu Hung,vuhung@outlook.com,+84719951069,"147 Cach Mang Thang Tam, Phuong 13, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0867,Ly Thi Xuan,lythixuan@outlook.com,+84855532773,"536 Cach Mang Thang Tam, Phuong 7, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0868,Nguyen Binh,nguyenbinh309@yahoo.com,+84396885108,"176 Nguyen Hue, Phuong Ben Nghe, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0869,Bui Lan Yen,builanyen24@proton.me,+84934671610,"435 Nguyen Thi Minh Khai, Phuong 5, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0870,Bui Giang,buigiang154@outlook.com,+84311899471,"127 Pasteur, Phuong 5, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0871,Le Binh,lebinh@gmail.com,+84947697916,"757 Nguyen Hue, Phuong 1, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0872,Huynh Van Ha,huynhvanha@outlook.com,+84771721276,"650 Vo Van Tan, Phuong 7, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0873,Huynh Giang,huynhgiang131@zoho.com,+84985739780,"769 Nguyen Van Cu, Phuong 8, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0874,Ho Bao An,hobaoan464@gmail.com,+84911955371,"876 Nguyen Van Cu, Phuong 10, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0875,Cong ty TNHH Solutions Uyen,congtytnhhsolutionsuyen@gmail.com,+84764521647,"97 Dinh Tien Hoang, Phuong 13, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0876,Le Van,levan@proton.me,+84932886627,"302 Nguyen Van Cu, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0877,Giai phap Pro Quan,giaiphapproquan@hotmail.com,+84763573289,"267 Nguyen Thi Minh Khai, Phuong 5, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0878,Phan Van Xuan,phanvanxuan@gmail.com,+84512874242,"975 Le Loi, Phuong 14, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0879,Nguyen Thi Oanh,nguyenthioanh606@outlook.com,+84981300541,"65 Nguyen Thi Minh Khai, Phuong 8, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0880,Duong Hong Linh,duonghonglinh820@outlook.com,+84817051553,"446 Dinh Tien Hoang, Phuong Ben Nghe, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0881,Dang Thanh Hung,dangthanhhung@zoho.com,+84898841302,"151 Nguyen Thi Minh Khai, Phuong 1, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0882,Phan Huu Nam,phanhuunam@proton.me,+84970561206,"609 Nguyen Hue, Phuong 15, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0883,Trung tam Asia Tech,trungtamasiatech724@hotmail.com,+84931260565,"518 Dinh Tien Hoang, Phuong Ben Nghe, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0884,Cong ty Co phan Group Thao,congtycophangroupthao@zoho.com,+84983524302,"303 Nguyen Van Cu, Phuong 14, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0885,Duong Quoc Quan,duongquocquan705@yahoo.com,+84565599407,"942 Pham Ngoc Thach, Phuong 7, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0886,Doanh nghiep Tech Star,doanhnghieptechstar471@outlook.com,+84581486666,"275 Le Loi, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0887,Dich vu Asia Xuan,dichvuasiaxuan@zoho.com,+84541199756,"997 Pham Ngoc Thach, Phuong 15, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0888,Thuong mai Elite Nam,thuongmaielitenam141@hotmail.com,+84374835954,"529 Cach Mang Thang Tam, Phuong 14, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0889,Nguyen Van Quan,nguyenvanquan682@outlook.com,+84981152476,"966 Tran Hung Dao, Phuong 15, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0890,Ngo Ngoc Quan,ngongocquan@zoho.com,+84347599462,"612 Cach Mang Thang Tam, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0891,Dich vu Smart Pro,dichvusmartpro@hotmail.com,+84886128653,"396 Cach Mang Thang Tam, Phuong 5, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0892,Giai phap Solutions Dung,giaiphapsolutionsdung619@proton.me,+84872632260,"473 Vo Van Tan, Phuong 10, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0893,Dang Anh Giang,danganhgiang@yahoo.com,+84752625099,"807 Nguyen Hue, Phuong 10, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0894,Nha phan phoi Asia Solutions,nhaphanphoiasiasolutions264@outlook.com,+84849745460,"317 Le Loi, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0895,Nha phan phoi Digital Future,nhaphanphoidigitalfuture@yahoo.com,+84924401293,"533 Le Loi, Phuong 13, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0896,Doanh nghiep Digital Chi,doanhnghiepdigitalchi@hotmail.com,+84710301205,"421 Le Loi, Phuong 14, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0897,Cong ty Co phan Net Yen,congtycophannetyen@yahoo.com,+84557659784,"574 Tran Hung Dao, Phuong 5, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0898,Dang Dung,dangdung@yahoo.com,+84513324669,"725 Pasteur, Phuong 13, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0899,Dang Huu Chi,danghuuchi267@hotmail.com,+84780115187,"379 Nguyen Hue, Phuong 13, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0900,Tran Duc Binh,tranducbinh@yahoo.com,+84575342961,"603 Pham Ngoc Thach, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0901,Nguyen Thanh Yen,nguyenthanhyen@hotmail.com,+84755123387,"768 Vo Van Tan, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0902,Huynh Linh,huynhlinh809@yahoo.com,+84738445049,"796 Cach Mang Thang Tam, Phuong 8, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0903,Cong ty TNHH Smart Global,congtytnhhsmartglobal@yahoo.com,+84724316732,"121 Dinh Tien Hoang, Phuong 11, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0904,Nguyen Lan Quan,nguyenlanquan@yahoo.com,+84912974864,"420 Tran Hung Dao, Phuong 11, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0905,Tran Duc Dung,tranducdung995@gmail.com,+84582769095,"120 Nguyen Thi Minh Khai, Phuong Ben Nghe, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0906,Vu Giang,vugiang@yahoo.com,+84358398921,"745 Dinh Tien Hoang, Phuong 10, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0907,Le Ha,leha257@gmail.com,+84378346785,"482 Vo Van Tan, Phuong 11, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0908,Dang Minh Dung,dangminhdung@proton.me,+84358379064,"322 Cach Mang Thang Tam, Phuong 10, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0909,Pham Chi,phamchi198@gmail.com,+84399257749,"761 Le Loi, Phuong 14, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0910,Pham Huu Ha,phamhuuha196@outlook.com,+84556883058,"78 Pasteur, Phuong 13, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0911,Ho Van Phuc,hovanphuc@zoho.com,+84335828323,"46 Le Loi, Phuong 15, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0912,Vu Hong Chi,vuhongchi176@outlook.com,+84729924825,"380 Le Loi, Phuong 14, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0913,Ngo Van Nam,ngovannam@yahoo.com,+84914568785,"445 Pasteur, Phuong 15, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0914,Dich vu Tech Giang,dichvutechgiang@hotmail.com,+84381862288,"622 Vo Van Tan, Phuong 13, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0915,Pham Khanh,phamkhanh@zoho.com,+84525199643,"846 Tran Hung Dao, Phuong Ben Nghe, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0916,Dang Yen,dangyen@zoho.com,+84310111005,"482 Dinh Tien Hoang, Phuong 13, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0917,Duong Ngoc Xuan,duongngocxuan@proton.me,+84815813007,"929 Vo Van Tan, Phuong 10, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0918,Cong ty Co phan Asia Xuan,congtycophanasiaxuan@gmail.com,+84747861385,"862 Le Loi, Phuong 1, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0919,Cong ty TNHH Pro Nam,congtytnhhpronam836@yahoo.com,+84799540064,"928 Dinh Tien Hoang, Phuong 13, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0920,Do Quoc Minh,doquocminh@gmail.com,+84390433892,"643 Nguyen Thi Minh Khai, Phuong 1, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0921,Dang Quan,dangquan@outlook.com,+84753754340,"249 Vo Van Tan, Phuong 13, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0922,Dich vu Media Uyen,dichvumediauyen@zoho.com,+84870084385,"928 Dinh Tien Hoang, Phuong 1, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0923,Tran Lan Oanh,tranlanoanh@outlook.com,+84558109509,"928 Pasteur, Phuong 11, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0924,Shop Digital Xuan,shopdigitalxuan@hotmail.com,+84944761267,"108 Vo Van Tan, Phuong 15, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0925,Dich vu Smart Global,dichvusmartglobal166@outlook.com,+84364500798,"748 Cach Mang Thang Tam, Phuong 10, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0926,Do Thi Binh,dothibinh@hotmail.com,+84518183870,"761 Nguyen Van Cu, Phuong 5, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0927,Shop Smart Chi,shopsmartchi@gmail.com,+84382895968,"916 Pham Ngoc Thach, Phuong 1, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0928,Ly Ha,lyha@yahoo.com,+84821439973,"503 Le Loi, Phuong 1, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0929,Cong ty TNHH Media Pro,congtytnhhmediapro1@zoho.com,+84514896347,"54 Cach Mang Thang Tam, Phuong 8, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0930,Pham Thi Chi,phamthichi@outlook.com,+84904986853,"738 Cach Mang Thang Tam, Phuong 10, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0931,Bui Anh Yen,buianhyen@zoho.com,+84835241806,"748 Vo Van Tan, Phuong 7, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0932,Dang Lan Chi,danglanchi46@gmail.com,+84335621429,"812 Cach Mang Thang Tam, Phuong 14, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0933,Nha phan phoi Digital Asia,nhaphanphoidigitalasia@outlook.com,+84889474527,"267 Pham Ngoc Thach, Phuong 15, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0934,Le Thanh Phuc,lethanhphuc@proton.me,+84741034420,"378 Nguyen Thi Minh Khai, Phuong Ben Nghe, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0935,Phan Thanh Ha,phanthanhha@proton.me,+84509930630,"624 Le Loi, Phuong 8, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0936,Cong nghe Net Xuan,congnghenetxuan703@outlook.com,+84918743616,"425 Pasteur, Phuong 11, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0937,Trung tam Inno Digital,trungtaminnodigital0@proton.me,+84961979390,"890 Dinh Tien Hoang, Phuong 1, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0938,Duong Ha,duongha@hotmail.com,+84526602947,"731 Nguyen Hue, Phuong 7, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0939,Huynh Yen,huynhyen28@proton.me,+84368092623,"748 Nguyen Van Cu, Phuong 8, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0940,Le Hung,lehung626@outlook.com,+84705699936,"923 Tran Hung Dao, Phuong 15, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0941,Shop Future Hung,shopfuturehung397@yahoo.com,+84904490059,"940 Vo Van Tan, Phuong 1, Quan 3, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0942,Cong nghe VN Solutions,congnghevnsolutions@proton.me,+84856182183,"725 Cach Mang Thang Tam, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0943,Phan Ha,phanha223@hotmail.com,+84368023281,"118 Nguyen Thi Minh Khai, Phuong 15, Quan 10, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0944,Le Thanh Giang,lethanhgiang@yahoo.com,+84730075688,"57 Cach Mang Thang Tam, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0945,Thuong mai Elite Oanh,thuongmaieliteoanh14@zoho.com,+84381347608,"352 Nguyen Thi Minh Khai, Phuong 11, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0946,Cong nghe Digital Inno,congnghedigitalinno754@gmail.com,+84573328481,"18 Tran Hung Dao, Phuong 14, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0947,Hoang Thi An,hoangthian@proton.me,+84991882701,"727 Tran Hung Dao, Phuong 5, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0948,Huynh Van,huynhvan@gmail.com,+84876547523,"573 Vo Van Tan, Phuong 5, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0949,Vu Thi Ha,vuthiha@proton.me,+84850093258,"628 Nguyen Hue, Phuong 5, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0950,Doanh nghiep Global Uyen,doanhnghiepglobaluyen@yahoo.com,+84738869174,"11 Nguyen Van Cu, Phuong 7, Thanh pho Thu Duc, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0951,Le Bao Khanh,lebaokhanh@yahoo.com,+84300296798,"775 Le Loi, Phuong 5, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0952,Dich vu Asia Net,dichvuasianet129@proton.me,+84916927181,"459 Nguyen Thi Minh Khai, Phuong 11, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0953,Huynh Binh,huynhbinh@yahoo.com,+84830216837,"246 Nguyen Thi Minh Khai, Phuong 14, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0954,Cong ty Co phan Asia Elite,congtycophanasiaelite@yahoo.com,+84969068902,"895 Pasteur, Phuong 1, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0955,Nha phan phoi Media Media,nhaphanphoimediamedia988@hotmail.com,+84580315821,"508 Nguyen Van Cu, Phuong 15, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0956,Huynh Quan,huynhquan@outlook.com,+84937905333,"303 Pham Ngoc Thach, Phuong 10, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0957,Pham Thanh Hung,phamthanhhung426@proton.me,+84706341118,"130 Le Loi, Phuong 10, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0958,Doanh nghiep Elite Hung,doanhnghiepelitehung@proton.me,+84721686954,"618 Pasteur, Phuong 5, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0959,Pham Chi,phamchi@proton.me,+84822321999,"990 Tran Hung Dao, Phuong 11, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0960,Pham Thanh Binh,phamthanhbinh80@proton.me,+84785437347,"948 Pasteur, Phuong 10, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0961,Bui Linh,builinh@proton.me,+84793234839,"618 Vo Van Tan, Phuong 13, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0962,Doanh nghiep Media Inno,doanhnghiepmediainno22@hotmail.com,+84560386958,"199 Dinh Tien Hoang, Phuong Ben Nghe, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0963,Dich vu Smart Nam,dichvusmartnam@hotmail.com,+84319082275,"131 Pham Ngoc Thach, Phuong 7, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0964,Cong ty TNHH Future Binh,congtytnhhfuturebinh@proton.me,+84328983337,"67 Nguyen Thi Minh Khai, Phuong Ben Nghe, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0965,Nha phan phoi Media Media,nhaphanphoimediamedia@gmail.com,+84945319074,"948 Vo Van Tan, Phuong 10, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0966,Do Lan Ha,dolanha@outlook.com,+84572866046,"177 Nguyen Van Cu, Phuong 15, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0967,Doanh nghiep Group Quan,doanhnghiepgroupquan@outlook.com,+84546410208,"957 Cach Mang Thang Tam, Phuong 7, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0968,Ly Nam,lynam@proton.me,+84909467014,"877 Nguyen Hue, Phuong 5, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0969,Bui Thi Hung,buithihung@outlook.com,+84941013375,"410 Tran Hung Dao, Phuong 1, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0970,Do Khanh,dokhanh382@hotmail.com,+84538622167,"463 Nguyen Hue, Phuong Ben Nghe, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0971,Doanh nghiep Tech Dung,doanhnghieptechdung@hotmail.com,+84372245940,"60 Vo Van Tan, Phuong 14, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0972,Vu Dung,vudung@zoho.com,+84330410699,"237 Vo Van Tan, Phuong 15, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0973,Cong nghe Future Phuc,congnghefuturephuc@proton.me,+84587437129,"231 Tran Hung Dao, Phuong 7, Quan 5, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0974,Do Thanh Minh,dothanhminh@hotmail.com,+84756718961,"761 Cach Mang Thang Tam, Phuong 13, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0975,Dich vu Digital Star,dichvudigitalstar@hotmail.com,+84828747065,"288 Dinh Tien Hoang, Phuong 14, Quan 10, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0976,Vu Thanh Xuan,vuthanhxuan@hotmail.com,+84530623407,"689 Dinh Tien Hoang, Phuong 8, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0977,Huynh Quoc Linh,huynhquoclinh326@outlook.com,+84757963470,"589 Cach Mang Thang Tam, Phuong 11, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0978,Do Duc Phuc,doducphuc@zoho.com,+84535314012,"455 Tran Hung Dao, Phuong 1, Quan 3, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0979,Cong ty Co phan Solutions Digital,congtycophansolutionsdigital963@yahoo.com,+84357494564,"589 Vo Van Tan, Phuong 14, Quan 7, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0980,Ly Thi Ha,lythiha@yahoo.com,+84860969545,"370 Nguyen Hue, Phuong 8, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0981,Trung tam Group Pro,trungtamgrouppro788@zoho.com,+84831967611,"56 Tran Hung Dao, Phuong 5, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0982,Shop Pro Minh,shopprominh@hotmail.com,+84567200194,"323 Pham Ngoc Thach, Phuong 15, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0983,Vu Lan Minh,vulanminh@gmail.com,+84333608043,"725 Nguyen Hue, Phuong 14, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0984,Trung tam Asia Phuc,trungtamasiaphuc475@zoho.com,+84808535330,"389 Pasteur, Phuong 14, Quan 1, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0985,Le Thi Quan,lethiquan306@proton.me,+84398696553,"412 Cach Mang Thang Tam, Phuong 10, Quan Tan Binh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0986,Huynh Minh,huynhminh726@proton.me,+84777315626,"863 Pham Ngoc Thach, Phuong 10, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0987,Ly Anh Linh,lyanhlinh@gmail.com,+84512551772,"599 Vo Van Tan, Phuong 15, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0988,Pham Van Yen,phamvanyen707@outlook.com,+84314038516,"813 Dinh Tien Hoang, Phuong 11, Quan Binh Thanh, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0989,Duong Binh,duongbinh309@yahoo.com,+84758307200,"928 Cach Mang Thang Tam, Phuong 5, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0990,Duong Bao Phuc,duongbaophuc@hotmail.com,+84533364099,"90 Pasteur, Phuong Ben Nghe, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0991,Huynh Thanh Linh,huynhthanhlinh397@proton.me,+84302538218,"171 Tran Hung Dao, Phuong 1, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0992,Le Thanh Dung,lethanhdung679@gmail.com,+84874766750,"575 Cach Mang Thang Tam, Phuong 7, Quan Go Vap, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0993,Bui Giang,buigiang678@proton.me,+84842410231,"559 Cach Mang Thang Tam, Phuong 1, Quan 5, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0994,Hoang Quoc Ha,hoangquocha@outlook.com,+84311962114,"120 Nguyen Hue, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0995,Hoang Thi Chi,hoangthichi@proton.me,+84873844763,"843 Cach Mang Thang Tam, Phuong 8, Quan 1, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_0996,Nha phan phoi Tech Digital,nhaphanphoitechdigital@yahoo.com,+84552422791,"140 Vo Van Tan, Phuong 10, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0997,Dich vu Net Media,dichvunetmedia@gmail.com,+84396103484,"861 Pham Ngoc Thach, Phuong 15, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0998,Cong nghe Future Van,congnghefuturevan@hotmail.com,+84817689035,"559 Nguyen Thi Minh Khai, Phuong 7, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0
+CUID_0999,Duong Ha,duongha41@yahoo.com,+84573357971,"263 Nguyen Thi Minh Khai, Phuong 8, Quan 7, TP. Ho Chi Minh",Vietnam,VN,person,0
+CUID_1000,Cong ty Co phan Net Inno,congtycophannetinno88@gmail.com,+84914523649,"638 Nguyen Van Cu, Phuong 5, Quan Phu Nhuan, TP. Ho Chi Minh",Vietnam,VN,company,0

@@ -1,0 +1,101 @@
+SKU,Name,URL,Status
+TNP001,iPhone 15 Pro,https://m.media-amazon.com/images/I/81Os1SDWpcL.jpg,OK
+TNP002,Galaxy S24 Ultra,https://m.media-amazon.com/images/I/71RMo66VdaL.jpg,HTTP Error 404: Not Found
+TNP003,WH-1000XM5 Headphones,https://m.media-amazon.com/images/I/51pS9k+z00L.jpg,HTTP Error 404: Not Found
+TNP004,XPS 15 Laptop,https://m.media-amazon.com/images/I/71v2jixkOqL.jpg,HTTP Error 404: Not Found
+TNP005,Spectre x360 2-in-1,https://m.media-amazon.com/images/I/71p-DmtR1pL.jpg,HTTP Error 404: Not Found
+TNP006,ThinkPad X1 Carbon Gen 11,https://m.media-amazon.com/images/I/61x0V1-e40L.jpg,HTTP Error 404: Not Found
+TNP007,ROG Zephyrus G14,https://m.media-amazon.com/images/I/71s8L+hS1eL.jpg,HTTP Error 404: Not Found
+TNP008,Swift Go 14 OLED,https://m.media-amazon.com/images/I/71c50D8Y9YL.jpg,HTTP Error 404: Not Found
+TNP009,Stealth 16 Studio,https://m.media-amazon.com/images/I/81L6zG1yO-L.jpg,HTTP Error 404: Not Found
+TNP010,C3 65-Inch OLED TV,https://m.media-amazon.com/images/I/81I-3lB+20L.jpg,HTTP Error 404: Not Found
+TNP011,MX Master 3S Mouse,https://m.media-amazon.com/images/I/61ni3t1ryQL.jpg,OK
+TNP012,DeathAdder V3 Pro,https://m.media-amazon.com/images/I/61+yB5+K+3L.jpg,HTTP Error 404: Not Found
+TNP013,QuietComfort Ultra,https://m.media-amazon.com/images/I/51c4tL79q8L.jpg,HTTP Error 404: Not Found
+TNP014,Surface Laptop 5,https://m.media-amazon.com/images/I/61x0V1-e40L.jpg,HTTP Error 404: Not Found
+TNP015,Pixel 8 Pro,https://m.media-amazon.com/images/I/719fpx-V7SL.jpg,HTTP Error 404: Not Found
+TNP016,MateBook X Pro,https://m.media-amazon.com/images/I/61Bw-Jj6X+L.jpg,HTTP Error 404: Not Found
+TNP017,Xiaomi 14 Ultra,https://m.media-amazon.com/images/I/61VdF4GIfiL.jpg,HTTP Error 404: Not Found
+TNP018,Find N3 Flip,https://m.media-amazon.com/images/I/71s3vYd4jPL.jpg,HTTP Error 404: Not Found
+TNP019,OnePlus 12,https://m.media-amazon.com/images/I/717Qo4MH97L.jpg,OK
+TNP020,Mini 4 Pro Drone,https://m.media-amazon.com/images/I/71A9W-eZ+RL.jpg,HTTP Error 404: Not Found
+TNP021,737 Power Bank,https://m.media-amazon.com/images/I/71hUeb+bHQL.jpg,HTTP Error 404: Not Found
+TNP022,K70 RGB PRO Keyboard,https://m.media-amazon.com/images/I/71S9b5R5HjL.jpg,HTTP Error 404: Not Found
+TNP023,FURY Renegade DDR5,https://m.media-amazon.com/images/I/61dCXZ26j0L.jpg,HTTP Error 404: Not Found
+TNP024,WD Black SN850X 2TB,https://m.media-amazon.com/images/I/71d7rfSl0wL.jpg,OK
+TNP025,FireCuda 530 2TB,https://m.media-amazon.com/images/I/71d7rfSl0wL.jpg,OK
+TNP026,Core i9-14900K,https://m.media-amazon.com/images/I/61x0V1-e40L.jpg,HTTP Error 404: Not Found
+TNP027,GeForce RTX 4090,https://m.media-amazon.com/images/I/71WcjAUB16L.jpg,HTTP Error 404: Not Found
+TNP028,Ryzen 9 7950X3D,https://m.media-amazon.com/images/I/61x0V1-e40L.jpg,HTTP Error 404: Not Found
+TNP029,Snapdragon 8 Gen 3 Dev Kit,https://m.media-amazon.com/images/I/717Qo4MH97L.jpg,OK
+TNP030,Crucial T705 2TB SSD,https://m.media-amazon.com/images/I/71d7rfSl0wL.jpg,OK
+TNP031,Lumix S5 II Camera,https://m.media-amazon.com/images/I/61Xz9X1t7+L.jpg,HTTP Error 404: Not Found
+TNP032,MG Series 18TB HDD,https://m.media-amazon.com/images/I/71d7rfSl0wL.jpg,OK
+TNP033,Aquos 4K Smart TV,https://m.media-amazon.com/images/I/81I-3lB+20L.jpg,HTTP Error 404: Not Found
+TNP034,EOS R6 Mark II,https://m.media-amazon.com/images/I/61Xz9X1t7+L.jpg,HTTP Error 404: Not Found
+TNP035,ScanSnap iX1600,https://m.media-amazon.com/images/I/61x0V1-e40L.jpg,HTTP Error 404: Not Found
+TNP036,Platinum P41 2TB SSD,https://m.media-amazon.com/images/I/71d7rfSl0wL.jpg,OK
+TNP037,Industrial Server Chassis,https://m.media-amazon.com/images/I/61x0V1-e40L.jpg,HTTP Error 404: Not Found
+TNP038,Dimensity 9300 Reference Pad,https://m.media-amazon.com/images/I/71s8L+hS1eL.jpg,HTTP Error 404: Not Found
+TNP039,XPG Lancer RGB DDR5,https://m.media-amazon.com/images/I/61dCXZ26j0L.jpg,HTTP Error 404: Not Found
+TNP040,StoreJet 25M3 HDD,https://m.media-amazon.com/images/I/71d7rfSl0wL.jpg,OK
+TNP041,AX5400 Mesh Router,https://m.media-amazon.com/images/I/61JGKhqxHxL.jpg,OK
+TNP042,DiskStation DS923+,https://m.media-amazon.com/images/I/71v2jixkOqL.jpg,HTTP Error 404: Not Found
+TNP043,AORUS Master RTX 4080,https://m.media-amazon.com/images/I/81uNkV5+4vL.jpg,HTTP Error 404: Not Found
+TNP044,MasterBox TD500 Mesh,https://m.media-amazon.com/images/I/71jQONF+7hL.jpg,HTTP Error 404: Not Found
+TNP045,Momentum 4 Wireless,https://m.media-amazon.com/images/I/714h8V25l4L.jpg,HTTP Error 404: Not Found
+TNP046,Beoplay H95,https://m.media-amazon.com/images/I/51c4tL79q8L.jpg,HTTP Error 404: Not Found
+TNP047,Elite 10 Earbuds,https://m.media-amazon.com/images/I/61RqAMN2LJL.jpg,HTTP Error 404: Not Found
+TNP048,Hue Smart Bulb Kit,https://m.media-amazon.com/images/I/6182S7MYC2L.jpg,OK
+TNP049,Nokia XR21 Pro,https://m.media-amazon.com/images/I/71O1gOof4nL.jpg,HTTP Error 404: Not Found
+TNP050,5G Base Station Kit,https://m.media-amazon.com/images/I/61JGKhqxHxL.jpg,OK
+TNP051,M3085-V Dome Camera,https://m.media-amazon.com/images/I/61Xz9X1t7+L.jpg,HTTP Error 404: Not Found
+TNP052,Smart Home Controller II,https://m.media-amazon.com/images/I/6182S7MYC2L.jpg,OK
+TNP053,Fenix 7 Pro Sapphire,https://m.media-amazon.com/images/I/51bE8oI2s3L.jpg,HTTP Error 404: Not Found
+TNP054,HERO12 Black,https://m.media-amazon.com/images/I/61Xz9X1t7+L.jpg,HTTP Error 404: Not Found
+TNP055,Charge 6 Tracker,https://m.media-amazon.com/images/I/61MpHbSgW0L.jpg,HTTP Error 404: Not Found
+TNP056,Orbi WiFi 6E Mesh,https://m.media-amazon.com/images/I/71JGKhqxHxL.jpg,HTTP Error 404: Not Found
+TNP057,Deco XE75 Mesh,https://m.media-amazon.com/images/I/61JGKhqxHxL.jpg,OK
+TNP058,UniFi Dream Machine Pro,https://m.media-amazon.com/images/I/71iVwL8H4xL.jpg,HTTP Error 404: Not Found
+TNP059,Cisco Catalyst 1000,https://m.media-amazon.com/images/I/71iVwL8H4xL.jpg,HTTP Error 404: Not Found
+TNP060,MagSafe 3-in-1 Charger,https://m.media-amazon.com/images/I/71hUeb+bHQL.jpg,HTTP Error 404: Not Found
+TNP061,Starfield II IEMs,https://m.media-amazon.com/images/I/61SUj2aKoEL.jpg,OK
+TNP062,M15S Music Player,https://m.media-amazon.com/images/I/61RqAMN2LJL.jpg,HTTP Error 404: Not Found
+TNP063,Onyx Studio 8,https://m.media-amazon.com/images/I/71s8L+hS1eL.jpg,HTTP Error 404: Not Found
+TNP064,Flip 6 Waterproof Speaker,https://m.media-amazon.com/images/I/71s8L+hS1eL.jpg,HTTP Error 404: Not Found
+TNP065,ATH-M50xBT2,https://m.media-amazon.com/images/I/71c5cK54C1L.jpg,HTTP Error 404: Not Found
+TNP066,SM7B Vocal Mic,https://m.media-amazon.com/images/I/71jQONF+7hL.jpg,HTTP Error 404: Not Found
+TNP067,DT 900 Pro X,https://m.media-amazon.com/images/I/61zR4QY9gQL.jpg,HTTP Error 404: Not Found
+TNP068,Stealth 700 Gen 2 MAX,https://m.media-amazon.com/images/I/51c4tL79q8L.jpg,HTTP Error 404: Not Found
+TNP069,Arctis Nova Pro Wireless,https://m.media-amazon.com/images/I/51c4tL79q8L.jpg,HTTP Error 404: Not Found
+TNP070,Cloud Alpha Wireless,https://m.media-amazon.com/images/I/51c4tL79q8L.jpg,HTTP Error 404: Not Found
+TNP071,Stream Deck MK.2,https://m.media-amazon.com/images/I/71jQONF+7hL.jpg,HTTP Error 404: Not Found
+TNP072,H7 Flow Case,https://m.media-amazon.com/images/I/71jQONF+7hL.jpg,HTTP Error 404: Not Found
+TNP073,DS-2CD2087G2-L Camera,https://m.media-amazon.com/images/I/61Xz9X1t7+L.jpg,HTTP Error 404: Not Found
+TNP074,TiOC 2.0 PTZ Camera,https://m.media-amazon.com/images/I/61Xz9X1t7+L.jpg,HTTP Error 404: Not Found
+TNP075,Argus 3 Pro + Solar,https://m.media-amazon.com/images/I/61Xz9X1t7+L.jpg,HTTP Error 404: Not Found
+TNP076,Pro 5 Spotlight Camera,https://m.media-amazon.com/images/I/6182S7MYC2L.jpg,OK
+TNP077,Video Doorbell Pro 2,https://m.media-amazon.com/images/I/61aWzFpGEHL.jpg,HTTP Error 404: Not Found
+TNP078,Wyze Cam v3 Pro,https://m.media-amazon.com/images/I/6182S7MYC2L.jpg,OK
+TNP079,EVO Nano+ Drone,https://m.media-amazon.com/images/I/71A9W-eZ+RL.jpg,HTTP Error 404: Not Found
+TNP080,Crusher ANC 2,https://m.media-amazon.com/images/I/51c4tL79q8L.jpg,HTTP Error 404: Not Found
+TNP081,SonoFlow Headphones,https://m.media-amazon.com/images/I/51c4tL79q8L.jpg,HTTP Error 404: Not Found
+TNP082,X3 360 Camera,https://m.media-amazon.com/images/I/61Xz9X1t7+L.jpg,HTTP Error 404: Not Found
+TNP083,GaN5 Pro 100W Charger,https://m.media-amazon.com/images/I/71hUeb+bHQL.jpg,HTTP Error 404: Not Found
+TNP084,Nexode 140W Charger,https://m.media-amazon.com/images/I/71hUeb+bHQL.jpg,HTTP Error 404: Not Found
+TNP085,SuperTank Pro Power Bank,https://m.media-amazon.com/images/I/71hUeb+bHQL.jpg,HTTP Error 404: Not Found
+TNP086,Honor Magic6 Pro,https://m.media-amazon.com/images/I/81Os1SDWpcL.jpg,OK
+TNP087,Realme GT 5 Pro,https://m.media-amazon.com/images/I/61f-B8y2WCL.jpg,HTTP Error 404: Not Found
+TNP088,TCL 50 XL 5G,https://m.media-amazon.com/images/I/71O1gOof4nL.jpg,HTTP Error 404: Not Found
+TNP089,U8K Mini-LED TV,https://m.media-amazon.com/images/I/81I-3lB+20L.jpg,HTTP Error 404: Not Found
+TNP090,Razr+ (2023),https://m.media-amazon.com/images/I/81Os1SDWpcL.jpg,OK
+TNP091,Nokia G42 5G,https://m.media-amazon.com/images/I/71O1gOof4nL.jpg,HTTP Error 404: Not Found
+TNP092,ScanWatch 2,https://m.media-amazon.com/images/I/51bE8oI2s3L.jpg,HTTP Error 404: Not Found
+TNP093,K2 Pro Keyboard,https://m.media-amazon.com/images/I/61dCXZ26j0L.jpg,HTTP Error 404: Not Found
+TNP094,One 3 TKL Keyboard,https://m.media-amazon.com/images/I/71S9b5R5HjL.jpg,HTTP Error 404: Not Found
+TNP095,Model S Professional,https://m.media-amazon.com/images/I/71S9b5R5HjL.jpg,HTTP Error 404: Not Found
+TNP096,Switch OLED Model,https://m.media-amazon.com/images/I/61-PblYntsL.jpg,OK
+TNP097,Era 300 Speaker,https://m.media-amazon.com/images/I/71s8L+hS1eL.jpg,HTTP Error 404: Not Found
+TNP098,LSX II Wireless,https://m.media-amazon.com/images/I/71s8L+hS1eL.jpg,HTTP Error 404: Not Found
+TNP099,Steam Deck OLED 512GB,https://m.media-amazon.com/images/I/61JGKhqxHxL.jpg,OK
+TNP100,Product for Logitech G,https://m.media-amazon.com/images/I/61x0V1-e40L.jpg,HTTP Error 404: Not Found

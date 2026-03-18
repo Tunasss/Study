@@ -1,0 +1,63 @@
+62
+TNP004|XPS 15 Laptop
+TNP006|ThinkPad X1 Carbon Gen 11
+TNP007|ROG Zephyrus G14
+TNP008|Swift Go 14 OLED
+TNP009|Stealth 16 Studio
+TNP012|DeathAdder V3 Pro
+TNP014|Surface Laptop 5
+TNP015|Pixel 8 Pro
+TNP016|MateBook X Pro
+TNP017|Xiaomi 14 Ultra
+TNP018|Find N3 Flip
+TNP020|Mini 4 Pro Drone
+TNP022|K70 RGB PRO Keyboard
+TNP023|FURY Renegade DDR5
+TNP026|Core i9-14900K
+TNP028|Ryzen 9 7950X3D
+TNP031|Lumix S5 II Camera
+TNP034|EOS R6 Mark II
+TNP035|ScanSnap iX1600
+TNP037|Industrial Server Chassis
+TNP038|Dimensity 9300 Reference Pad
+TNP039|XPG Lancer RGB DDR5
+TNP042|DiskStation DS923+
+TNP043|AORUS Master RTX 4080
+TNP044|MasterBox TD500 Mesh
+TNP045|Momentum 4 Wireless
+TNP046|Beoplay H95
+TNP047|Elite 10 Earbuds
+TNP049|Nokia XR21 Pro
+TNP053|Fenix 7 Pro Sapphire
+TNP054|HERO12 Black
+TNP055|Charge 6 Tracker
+TNP056|Orbi WiFi 6E Mesh
+TNP060|MagSafe 3-in-1 Charger
+TNP063|Onyx Studio 8
+TNP064|Flip 6 Waterproof Speaker
+TNP065|ATH-M50xBT2
+TNP067|DT 900 Pro X
+TNP068|Stealth 700 Gen 2 MAX
+TNP069|Arctis Nova Pro Wireless
+TNP070|Cloud Alpha Wireless
+TNP071|Stream Deck MK.2
+TNP072|H7 Flow Case
+TNP075|Argus 3 Pro + Solar
+TNP077|Video Doorbell Pro 2
+TNP079|EVO Nano+ Drone
+TNP080|Crusher ANC 2
+TNP081|SonoFlow Headphones
+TNP082|X3 360 Camera
+TNP083|GaN5 Pro 100W Charger
+TNP084|Nexode 140W Charger
+TNP085|SuperTank Pro Power Bank
+TNP087|Realme GT 5 Pro
+TNP088|TCL 50 XL 5G
+TNP089|U8K Mini-LED TV
+TNP091|Nokia G42 5G
+TNP092|ScanWatch 2
+TNP093|K2 Pro Keyboard
+TNP094|One 3 TKL Keyboard
+TNP095|Model S Professional
+TNP097|Era 300 Speaker
+TNP098|LSX II Wireless

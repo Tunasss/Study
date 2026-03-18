@@ -1,0 +1,13 @@
+16. Calculate the average grade point for each course section.
+17. Determine the maximum capacity of sections in each building.
+18. Count the number of sections taught by each lecturer in 2024.
+19. Determine the sections with the maximum capacity of each building.
+20. Find the minimum and maximum grade points for each course.
+21. Find the number of sections offered per course in each semester and year.
+22. Calculate the average grade point for each lecturer, excluding sections with fewer than 5 graded students.
+23. Identify lecturers who teach more than one section in the same semester and year, and count their sections.
+24. Find courses with the highest average grade point in each faculty
+25. Find the average number of students enrolled per section for each course.
+26. Find lecturers who have taught in multiple buildings and have the highest total student enrollment across all their sections.
+27. Find lecturers whose sections have consistently high enrollment (all sections above the average enrollment for their faculty).
+28. Find faculties with the largest number of students enrolled in the Spring sections of 2025 but have the smallest number of students who earned an A grade.
