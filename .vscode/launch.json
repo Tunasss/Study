@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Study_e8f53ad0"
+        },
+        {
+            "type": "java",
+            "name": "UITStudent",
+            "request": "launch",
+            "mainClass": "UITStudent",
+            "projectName": "Study_e8f53ad0"
+        },
+        {
+            "type": "java",
+            "name": "Dice",
+            "request": "launch",
+            "mainClass": "Dice",
+            "projectName": "Study_e8f53ad0"
+        },
+        {
+            "type": "java",
             "name": "Ex1",
             "request": "launch",
             "mainClass": "Ex1",
