@@ -4,6 +4,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Question1.Main",
+            "projectName": "Study_e8f53ad0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Main",
             "projectName": "Study_e8f53ad0"
         },

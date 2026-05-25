@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" id="Definitions_Combined" targetNamespace="http://bpmn.io/schema/bpmn">
+  
+  <bpmn:collaboration id="Collaboration_01">
+    <bpmn:participant id="Participant_01" name="TechNova Electrical" processRef="Process_01" />
+    <bpmn:participant id="Participant_Other_Dept" name="Other Departments" />
+    <bpmn:participant id="Participant_Supplier" name="Supplier" />
+    
+    <bpmn:messageFlow id="MsgFlow_01" sourceRef="Participant_Other_Dept" targetRef="StartEvent_PR" />
+    <bpmn:messageFlow id="MsgFlow_02" sourceRef="Activity_Send_Inquiry" targetRef="Participant_Supplier" />
+    <bpmn:messageFlow id="MsgFlow_03" sourceRef="Participant_Supplier" targetRef="Event_Catch_Quotation" />
+    <bpmn:messageFlow id="MsgFlow_04" sourceRef="Activity_Send_PO" targetRef="Participant_Supplier" />
+    <bpmn:messageFlow id="MsgFlow_05" sourceRef="Participant_Supplier" targetRef="Activity_Inv_Receiving" />
+    <bpmn:messageFlow id="MsgFlow_06" sourceRef="Activity_Return" targetRef="Participant_Supplier" />
+    <bpmn:messageFlow id="MsgFlow_07" sourceRef="Activity_Make_Payment" targetRef="Participant_Supplier" />
+  </bpmn:collaboration>
+  
+  <bpmn:process id="Process_01" isExecutable="false">
+    <bpmn:startEvent id="StartEvent_1" name="Start">
+      <bpmn:outgoing>Flow_01</bpmn:outgoing>
+    </bpmn:startEvent>
+    
+    <bpmn:parallelGateway id="Gateway_Split" name="Parallel Split">
+      <bpmn:incoming>Flow_01</bpmn:incoming>
+      <bpmn:outgoing>Flow_To_Procurement</bpmn:outgoing>
+      <bpmn:outgoing>Flow_To_Sales</bpmn:outgoing>
+      <bpmn:outgoing>Flow_To_HR</bpmn:outgoing>
+      <bpmn:outgoing>Flow_To_CustomerService</bpmn:outgoing>
+    </bpmn:parallelGateway>
+    
+    <bpmn:subProcess id="Activity_Procurement" name="Procurement Process">
+      <bpmn:incoming>Flow_To_Procurement</bpmn:incoming>
+      <bpmn:outgoing>Flow_Proc_To_Recv</bpmn:outgoing>
+      
+      <bpmn:laneSet id="LaneSet_Procurement_Detail">
+        <bpmn:lane id="Lane_Procurement" name="Procurement">
+          <bpmn:flowNodeRef>StartEvent_PR</bpmn:flowNodeRef>
+          <bpmn:flowNodeRef>Activity_Review_Request</bpmn:flowNodeRef>
+          <bpmn:flowNodeRef>Activity_Send_Inquiry</bpmn:flowNodeRef>
+          <bpmn:flowNodeRef>Event_Catch_Quotation</bpmn:flowNodeRef>
+          <bpmn:flowNodeRef>Activity_Assess</bpmn:flowNodeRef>
+          <bpmn:flowNodeRef>Activity_Choose_Best</bpmn:flowNodeRef>
+          <bpmn:flowNodeRef>Activity_Send_PO</bpmn:flowNodeRef>
+          <bpmn:flowNodeRef>Event_Catch_Billing</bpmn:flowNodeRef>
+          <bpmn:flowNodeRef>Activity_Send_Billing</bpmn:flowNodeRef>
+        </bpmn:lane>
+        <bpmn:lane id="Lane_Inventory" name="Inventory">
+          <bpmn:flowNodeRef>Activity_Inv_Receiving</bpmn:flowNodeRef>
+          <bpmn:flowNodeRef>Gateway_Approval</bpmn:flowNodeRef>
+          <bpmn:flowNodeRef>Activity_Return</bpmn:flowNodeRef>
+        </bpmn:lane>
+        <bpmn:lane id="Lane_Finance" name="Financial and Accounting">
+          <bpmn:flowNodeRef>Activity_Review_Billing</bpmn:flowNodeRef>
+          <bpmn:flowNodeRef>Activity_Make_Payment</bpmn:flowNodeRef>
+          <bpmn:flowNodeRef>EndEvent_Procurement</bpmn:flowNodeRef>
+        </bpmn:lane>
+      </bpmn:laneSet>
+
+      <bpmn:startEvent id="StartEvent_PR" name="Purchase request">
+        <bpmn:outgoing>Flow_Inner_01</bpmn:outgoing>
+        <bpmn:messageEventDefinition id="Med_1" />
+      </bpmn:startEvent>
+      <bpmn:task id="Activity_Review_Request" name="Review request">
+        <bpmn:incoming>Flow_Inner_01</bpmn:incoming>
+        <bpmn:outgoing>Flow_Inner_02</bpmn:outgoing>
+      </bpmn:task>
+      <bpmn:sendTask id="Activity_Send_Inquiry" name="Send quotation inquiry">
+        <bpmn:incoming>Flow_Inner_02</bpmn:incoming>
+      </bpmn:sendTask>
+      <bpmn:intermediateCatchEvent id="Event_Catch_Quotation" name="Quotation">
+        <bpmn:outgoing>Flow_Inner_03</bpmn:outgoing>
+        <bpmn:messageEventDefinition id="Med_2" />
+      </bpmn:intermediateCatchEvent>
+      <bpmn:task id="Activity_Assess" name="Assess price and quality">
+        <bpmn:incoming>Flow_Inner_03</bpmn:incoming>
+        <bpmn:outgoing>Flow_Inner_04</bpmn:outgoing>
+      </bpmn:task>
+      <bpmn:task id="Activity_Choose_Best" name="Choose the best">
+        <bpmn:incoming>Flow_Inner_04</bpmn:incoming>
+        <bpmn:outgoing>Flow_Inner_05</bpmn:outgoing>
+      </bpmn:task>
+      <bpmn:sendTask id="Activity_Send_PO" name="Send purchase order">
+        <bpmn:incoming>Flow_Inner_05</bpmn:incoming>
+      </bpmn:sendTask>
+      <bpmn:subProcess id="Activity_Inv_Receiving" name="Inventory receiving process">
+        <bpmn:outgoing>Flow_Inner_06</bpmn:outgoing>
+      </bpmn:subProcess>
+      <bpmn:exclusiveGateway id="Gateway_Approval" name="Approval?">
+        <bpmn:incoming>Flow_Inner_06</bpmn:incoming>
+        <bpmn:outgoing>Flow_Approved</bpmn:outgoing>
+        <bpmn:outgoing>Flow_Disapproved</bpmn:outgoing>
+      </bpmn:exclusiveGateway>
+      <bpmn:intermediateCatchEvent id="Event_Catch_Billing" name="Billing">
+        <bpmn:incoming>Flow_Approved</bpmn:incoming>
+        <bpmn:outgoing>Flow_Inner_07</bpmn:outgoing>
+        <bpmn:messageEventDefinition id="Med_3" />
+      </bpmn:intermediateCatchEvent>
+      <bpmn:sendTask id="Activity_Send_Billing" name="Send billing">
+        <bpmn:incoming>Flow_Inner_07</bpmn:incoming>
+        <bpmn:outgoing>Flow_Inner_08</bpmn:outgoing>
+      </bpmn:sendTask>
+      <bpmn:task id="Activity_Review_Billing" name="Review billing">
+        <bpmn:incoming>Flow_Inner_08</bpmn:incoming>
+        <bpmn:outgoing>Flow_Inner_09</bpmn:outgoing>
+      </bpmn:task>
+      <bpmn:subProcess id="Activity_Make_Payment" name="Make payment">
+        <bpmn:incoming>Flow_Inner_09</bpmn:incoming>
+        <bpmn:outgoing>Flow_Inner_10</bpmn:outgoing>
+      </bpmn:subProcess>
+      <bpmn:task id="Activity_Return" name="Return">
+        <bpmn:incoming>Flow_Disapproved</bpmn:incoming>
+        <bpmn:outgoing>Flow_Inner_11</bpmn:outgoing>
+      </bpmn:task>
+      <bpmn:endEvent id="EndEvent_Procurement" name="End">
+        <bpmn:incoming>Flow_Inner_10</bpmn:incoming>
+        <bpmn:incoming>Flow_Inner_11</bpmn:incoming>
+      </bpmn:endEvent>
+
+      <bpmn:sequenceFlow id="Flow_Inner_01" sourceRef="StartEvent_PR" targetRef="Activity_Review_Request" />
+      <bpmn:sequenceFlow id="Flow_Inner_02" sourceRef="Activity_Review_Request" targetRef="Activity_Send_Inquiry" />
+      <bpmn:sequenceFlow id="Flow_Inner_03" sourceRef="Event_Catch_Quotation" targetRef="Activity_Assess" />
+      <bpmn:sequenceFlow id="Flow_Inner_04" sourceRef="Activity_Assess" targetRef="Activity_Choose_Best" />
+      <bpmn:sequenceFlow id="Flow_Inner_05" sourceRef="Activity_Choose_Best" targetRef="Activity_Send_PO" />
+      <bpmn:sequenceFlow id="Flow_Inner_06" sourceRef="Activity_Inv_Receiving" targetRef="Gateway_Approval" />
+      <bpmn:sequenceFlow id="Flow_Approved" name="approved" sourceRef="Gateway_Approval" targetRef="Event_Catch_Billing" />
+      <bpmn:sequenceFlow id="Flow_Disapproved" name="disapproved" sourceRef="Gateway_Approval" targetRef="Activity_Return" />
+      <bpmn:sequenceFlow id="Flow_Inner_07" sourceRef="Event_Catch_Billing" targetRef="Activity_Send_Billing" />
+      <bpmn:sequenceFlow id="Flow_Inner_08" sourceRef="Activity_Send_Billing" targetRef="Activity_Review_Billing" />
+      <bpmn:sequenceFlow id="Flow_Inner_09" sourceRef="Activity_Review_Billing" targetRef="Activity_Make_Payment" />
+      <bpmn:sequenceFlow id="Flow_Inner_10" sourceRef="Activity_Make_Payment" targetRef="EndEvent_Procurement" />
+      <bpmn:sequenceFlow id="Flow_Inner_11" sourceRef="Activity_Return" targetRef="EndEvent_Procurement" />
+    </bpmn:subProcess>
+    
+    <bpmn:subProcess id="Activity_InventoryReceiving" name="Inventory Receiving Process">
+      <bpmn:incoming>Flow_Proc_To_Recv</bpmn:incoming>
+      <bpmn:outgoing>Flow_Recv_To_Ship</bpmn:outgoing>
+    </bpmn:subProcess>
+    <bpmn:subProcess id="Activity_InventoryShipping" name="Inventory Shipping Process">
+      <bpmn:incoming>Flow_Recv_To_Ship</bpmn:incoming>
+      <bpmn:outgoing>Flow_Ship_To_Debt</bpmn:outgoing>
+    </bpmn:subProcess>
+    <bpmn:subProcess id="Activity_SupplierDebts" name="Supplier Debts Handling Process">
+      <bpmn:incoming>Flow_Ship_To_Debt</bpmn:incoming>
+      <bpmn:outgoing>Flow_SupplierDebt_To_Join</bpmn:outgoing>
+    </bpmn:subProcess>
+    <bpmn:subProcess id="Activity_Sales" name="Sales Process">
+      <bpmn:incoming>Flow_To_Sales</bpmn:incoming>
+      <bpmn:outgoing>Flow_Sales_To_Debt</bpmn:outgoing>
+    </bpmn:subProcess>
+    <bpmn:subProcess id="Activity_CustomerDebts" name="Customer Debts Handling Process">
+      <bpmn:incoming>Flow_Sales_To_Debt</bpmn:incoming>
+      <bpmn:outgoing>Flow_CustomerDebt_To_Join</bpmn:outgoing>
+    </bpmn:subProcess>
+    <bpmn:subProcess id="Activity_HR" name="Human Resources Management Process">
+      <bpmn:incoming>Flow_To_HR</bpmn:incoming>
+      <bpmn:outgoing>Flow_HR_To_Join</bpmn:outgoing>
+    </bpmn:subProcess>
+    <bpmn:subProcess id="Activity_CustomerService" name="Customer Service Process">
+      <bpmn:incoming>Flow_To_CustomerService</bpmn:incoming>
+      <bpmn:outgoing>Flow_CS_To_End</bpmn:outgoing>
+    </bpmn:subProcess>
+    
+    <bpmn:parallelGateway id="Gateway_Join" name="Parallel Join">
+      <bpmn:incoming>Flow_SupplierDebt_To_Join</bpmn:incoming>
+      <bpmn:incoming>Flow_CustomerDebt_To_Join</bpmn:incoming>
+      <bpmn:incoming>Flow_HR_To_Join</bpmn:incoming>
+      <bpmn:outgoing>Flow_To_Finance</bpmn:outgoing>
+    </bpmn:parallelGateway>
+    
+    <bpmn:subProcess id="Activity_Finance" name="Financial and Accounting Management Process">
+      <bpmn:incoming>Flow_To_Finance</bpmn:incoming>
+      <bpmn:outgoing>Flow_Finance_To_End</bpmn:outgoing>
+    </bpmn:subProcess>
+    
+    <bpmn:endEvent id="EndEvent_1" name="End">
+      <bpmn:incoming>Flow_Finance_To_End</bpmn:incoming>
+      <bpmn:incoming>Flow_CS_To_End</bpmn:incoming>
+    </bpmn:endEvent>
+    
+    <bpmn:sequenceFlow id="Flow_01" sourceRef="StartEvent_1" targetRef="Gateway_Split" />
+    <bpmn:sequenceFlow id="Flow_To_Procurement" sourceRef="Gateway_Split" targetRef="Activity_Procurement" />
+    <bpmn:sequenceFlow id="Flow_To_Sales" sourceRef="Gateway_Split" targetRef="Activity_Sales" />
+    <bpmn:sequenceFlow id="Flow_To_HR" sourceRef="Gateway_Split" targetRef="Activity_HR" />
+    <bpmn:sequenceFlow id="Flow_To_CustomerService" sourceRef="Gateway_Split" targetRef="Activity_CustomerService" />
+    <bpmn:sequenceFlow id="Flow_Proc_To_Recv" sourceRef="Activity_Procurement" targetRef="Activity_InventoryReceiving" />
+    <bpmn:sequenceFlow id="Flow_Recv_To_Ship" sourceRef="Activity_InventoryReceiving" targetRef="Activity_InventoryShipping" />
+    <bpmn:sequenceFlow id="Flow_Ship_To_Debt" sourceRef="Activity_InventoryShipping" targetRef="Activity_SupplierDebts" />
+    <bpmn:sequenceFlow id="Flow_SupplierDebt_To_Join" sourceRef="Activity_SupplierDebts" targetRef="Gateway_Join" />
+    <bpmn:sequenceFlow id="Flow_Sales_To_Debt" sourceRef="Activity_Sales" targetRef="Activity_CustomerDebts" />
+    <bpmn:sequenceFlow id="Flow_CustomerDebt_To_Join" sourceRef="Activity_CustomerDebts" targetRef="Gateway_Join" />
+    <bpmn:sequenceFlow id="Flow_HR_To_Join" sourceRef="Activity_HR" targetRef="Gateway_Join" />
+    <bpmn:sequenceFlow id="Flow_To_Finance" sourceRef="Gateway_Join" targetRef="Activity_Finance" />
+    <bpmn:sequenceFlow id="Flow_Finance_To_End" sourceRef="Activity_Finance" targetRef="EndEvent_1" />
+    <bpmn:sequenceFlow id="Flow_CS_To_End" sourceRef="Activity_CustomerService" targetRef="EndEvent_1" />
+  </bpmn:process>
+  
+  <bpmndi:BPMNDiagram id="BPMNDiagram_Total">
+    <bpmndi:BPMNPlane id="BPMNPlane_1" bpmnElement="Collaboration_01">
+      <bpmndi:BPMNShape id="Participant_01_di" bpmnElement="Participant_01" isHorizontal="true">
+        <dc:Bounds x="160" y="240" width="1450" height="550" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="_BPMNShape_StartEvent_2" bpmnElement="StartEvent_1"><dc:Bounds x="210" y="322" width="36" height="36" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Gateway_Split_di" bpmnElement="Gateway_Split" isMarkerVisible="true"><dc:Bounds x="275" y="315" width="50" height="50" /></bpmndi:BPMNShape>
+      
+      <bpmndi:BPMNShape id="Activity_Procurement_di" bpmnElement="Activity_Procurement"><dc:Bounds x="360" y="300" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_InventoryReceiving_di" bpmnElement="Activity_InventoryReceiving"><dc:Bounds x="560" y="300" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_InventoryShipping_di" bpmnElement="Activity_InventoryShipping"><dc:Bounds x="760" y="300" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_SupplierDebts_di" bpmnElement="Activity_SupplierDebts"><dc:Bounds x="960" y="300" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_Sales_di" bpmnElement="Activity_Sales"><dc:Bounds x="360" y="420" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_CustomerDebts_di" bpmnElement="Activity_CustomerDebts"><dc:Bounds x="560" y="420" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_HR_di" bpmnElement="Activity_HR"><dc:Bounds x="360" y="540" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_CustomerService_di" bpmnElement="Activity_CustomerService"><dc:Bounds x="360" y="660" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Gateway_Join_di" bpmnElement="Gateway_Join" isMarkerVisible="true"><dc:Bounds x="1185" y="435" width="50" height="50" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_Finance_di" bpmnElement="Activity_Finance"><dc:Bounds x="1270" y="420" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="EndEvent_1_di" bpmnElement="EndEvent_1"><dc:Bounds x="1482" y="442" width="36" height="36" /></bpmndi:BPMNShape>
+      
+      <bpmndi:BPMNEdge id="Flow_01_di" bpmnElement="Flow_01"><di:waypoint x="246" y="340" /><di:waypoint x="275" y="340" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_To_Procurement_di" bpmnElement="Flow_To_Procurement"><di:waypoint x="325" y="340" /><di:waypoint x="360" y="340" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_To_Sales_di" bpmnElement="Flow_To_Sales"><di:waypoint x="300" y="365" /><di:waypoint x="300" y="460" /><di:waypoint x="360" y="460" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_To_HR_di" bpmnElement="Flow_To_HR"><di:waypoint x="300" y="365" /><di:waypoint x="300" y="580" /><di:waypoint x="360" y="580" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_To_CustomerService_di" bpmnElement="Flow_To_CustomerService"><di:waypoint x="300" y="365" /><di:waypoint x="300" y="700" /><di:waypoint x="360" y="700" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Proc_To_Recv_di" bpmnElement="Flow_Proc_To_Recv"><di:waypoint x="520" y="340" /><di:waypoint x="560" y="340" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Recv_To_Ship_di" bpmnElement="Flow_Recv_To_Ship"><di:waypoint x="720" y="340" /><di:waypoint x="760" y="340" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Ship_To_Debt_di" bpmnElement="Flow_Ship_To_Debt"><di:waypoint x="920" y="340" /><di:waypoint x="960" y="340" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_SupplierDebt_To_Join_di" bpmnElement="Flow_SupplierDebt_To_Join"><di:waypoint x="1120" y="340" /><di:waypoint x="1210" y="340" /><di:waypoint x="1210" y="435" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Sales_To_Debt_di" bpmnElement="Flow_Sales_To_Debt"><di:waypoint x="520" y="460" /><di:waypoint x="560" y="460" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_CustomerDebt_To_Join_di" bpmnElement="Flow_CustomerDebt_To_Join"><di:waypoint x="720" y="460" /><di:waypoint x="1185" y="460" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_HR_To_Join_di" bpmnElement="Flow_HR_To_Join"><di:waypoint x="520" y="580" /><di:waypoint x="1210" y="580" /><di:waypoint x="1210" y="485" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_To_Finance_di" bpmnElement="Flow_To_Finance"><di:waypoint x="1235" y="460" /><di:waypoint x="1270" y="460" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Finance_To_End_di" bpmnElement="Flow_Finance_To_End"><di:waypoint x="1430" y="460" /><di:waypoint x="1482" y="460" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_CS_To_End_di" bpmnElement="Flow_CS_To_End"><di:waypoint x="520" y="700" /><di:waypoint x="1500" y="700" /><di:waypoint x="1500" y="478" /></bpmndi:BPMNEdge>
+
+      <bpmndi:BPMNShape id="Participant_Other_Dept_di" bpmnElement="Participant_Other_Dept" isHorizontal="true"><dc:Bounds x="160" y="20" width="1450" height="60" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Participant_Supplier_di" bpmnElement="Participant_Supplier" isHorizontal="true"><dc:Bounds x="160" y="140" width="1450" height="60" /></bpmndi:BPMNShape>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+
+  <bpmndi:BPMNDiagram id="BPMNDiagram_Procurement_Detail">
+    <bpmndi:BPMNPlane id="BPMNPlane_Procurement_Detail" bpmnElement="Activity_Procurement">
+      <bpmndi:BPMNShape id="Lane_Procurement_di" bpmnElement="Lane_Procurement" isHorizontal="true"><dc:Bounds x="180" y="100" width="1220" height="180" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_Inventory_di" bpmnElement="Lane_Inventory" isHorizontal="true"><dc:Bounds x="180" y="280" width="1220" height="180" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_Finance_di" bpmnElement="Lane_Finance" isHorizontal="true"><dc:Bounds x="180" y="460" width="1220" height="180" /></bpmndi:BPMNShape>
+      
+      <bpmndi:BPMNShape id="StartEvent_PR_di" bpmnElement="StartEvent_PR"><dc:Bounds x="232" y="152" width="36" height="36" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_Review_Request_di" bpmnElement="Activity_Review_Request"><dc:Bounds x="300" y="130" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_Send_Inquiry_di" bpmnElement="Activity_Send_Inquiry"><dc:Bounds x="300" y="230" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_Catch_Quotation_di" bpmnElement="Event_Catch_Quotation"><dc:Bounds x="532" y="152" width="36" height="36" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_Assess_di" bpmnElement="Activity_Assess"><dc:Bounds x="600" y="130" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_Choose_Best_di" bpmnElement="Activity_Choose_Best"><dc:Bounds x="790" y="130" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_Send_PO_di" bpmnElement="Activity_Send_PO"><dc:Bounds x="790" y="230" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_Catch_Billing_di" bpmnElement="Event_Catch_Billing"><dc:Bounds x="1002" y="202" width="36" height="36" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_Send_Billing_di" bpmnElement="Activity_Send_Billing"><dc:Bounds x="1070" y="180" width="160" height="80" /></bpmndi:BPMNShape>
+      
+      <bpmndi:BPMNShape id="Activity_Inv_Receiving_di" bpmnElement="Activity_Inv_Receiving"><dc:Bounds x="790" y="330" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Gateway_Approval_di" bpmnElement="Gateway_Approval" isMarkerVisible="true"><dc:Bounds x="1005" y="345" width="50" height="50" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_Return_di" bpmnElement="Activity_Return"><dc:Bounds x="1110" y="330" width="160" height="80" /></bpmndi:BPMNShape>
+      
+      <bpmndi:BPMNShape id="Activity_Review_Billing_di" bpmnElement="Activity_Review_Billing"><dc:Bounds x="1070" y="510" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_Make_Payment_di" bpmnElement="Activity_Make_Payment"><dc:Bounds x="1260" y="510" width="160" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="EndEvent_Procurement_di" bpmnElement="EndEvent_Procurement"><dc:Bounds x="1462" y="532" width="36" height="36" /></bpmndi:BPMNShape>
+      
+      <bpmndi:BPMNEdge id="Flow_Inner_01_di" bpmnElement="Flow_Inner_01"><di:waypoint x="268" y="170" /><di:waypoint x="300" y="170" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Inner_02_di" bpmnElement="Flow_Inner_02"><di:waypoint x="380" y="210" /><di:waypoint x="380" y="230" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Inner_03_di" bpmnElement="Flow_Inner_03"><di:waypoint x="568" y="170" /><di:waypoint x="600" y="170" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Inner_04_di" bpmnElement="Flow_Inner_04"><di:waypoint x="760" y="170" /><di:waypoint x="790" y="170" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Inner_05_di" bpmnElement="Flow_Inner_05"><di:waypoint x="870" y="210" /><di:waypoint x="870" y="230" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Inner_06_di" bpmnElement="Flow_Inner_06"><di:waypoint x="950" y="370" /><di:waypoint x="1005" y="370" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Approved_di" bpmnElement="Flow_Approved"><di:waypoint x="1030" y="345" /><di:waypoint x="1030" y="238" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Disapproved_di" bpmnElement="Flow_Disapproved"><di:waypoint x="1055" y="370" /><di:waypoint x="1110" y="370" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Inner_07_di" bpmnElement="Flow_Inner_07"><di:waypoint x="1038" y="220" /><di:waypoint x="1070" y="220" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Inner_08_di" bpmnElement="Flow_Inner_08"><di:waypoint x="1150" y="260" /><di:waypoint x="1150" y="510" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Inner_09_di" bpmnElement="Flow_Inner_09"><di:waypoint x="1230" y="550" /><di:waypoint x="1260" y="550" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Inner_10_di" bpmnElement="Flow_Inner_10"><di:waypoint x="1420" y="550" /><di:waypoint x="1462" y="550" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_Inner_11_di" bpmnElement="Flow_Inner_11"><di:waypoint x="1270" y="370" /><di:waypoint x="1480" y="370" /><di:waypoint x="1480" y="532" /></bpmndi:BPMNEdge>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</bpmn:definitions>
