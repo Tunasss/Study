@@ -1,0 +1,4 @@
+16
+A B D F G 
+9
+A B D E G 
